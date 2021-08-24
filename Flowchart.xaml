@@ -151,19 +151,19 @@
                   <av:Size x:Key="ShapeSize">200,66</av:Size>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Sequence DisplayName="visit link" sap:VirtualizedContainerService.HintSize="704,2070" sap2010:WorkflowViewState.IdRef="Sequence_19">
+              <Sequence DisplayName="visit link" sap:VirtualizedContainerService.HintSize="704,2800" sap2010:WorkflowViewState.IdRef="Sequence_19">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="662,1978" sap2010:WorkflowViewState.IdRef="OpenBrowser_6" Url="https://www.google.com/">
+                <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Open Browser" sap:VirtualizedContainerService.HintSize="662,2708" sap2010:WorkflowViewState.IdRef="OpenBrowser_6" Url="https://www.google.com/">
                   <ui:OpenBrowser.Body>
                     <ActivityAction x:TypeArguments="x:Object">
                       <ActivityAction.Argument>
                         <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                       </ActivityAction.Argument>
-                      <Sequence DisplayName="Do loop" sap:VirtualizedContainerService.HintSize="628,1877" sap2010:WorkflowViewState.IdRef="Sequence_20">
+                      <Sequence DisplayName="Do loop" sap:VirtualizedContainerService.HintSize="628,2607" sap2010:WorkflowViewState.IdRef="Sequence_20">
                         <Sequence.Variables>
                           <Variable x:TypeArguments="sd:DataTable" Default="[New System.Data.DataTable]" Name="ExtractDataTable" />
                           <Variable x:TypeArguments="sd:DataTable" Name="filteredDT" />
@@ -175,13 +175,13 @@
                             <x:Boolean x:Key="IsPinned">False</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[link]" DisplayName="Tiap link PN" sap:VirtualizedContainerService.HintSize="586,1785" sap2010:WorkflowViewState.IdRef="ForEachRow_4">
+                        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[link]" DisplayName="Tiap link PN" sap:VirtualizedContainerService.HintSize="586,2515" sap2010:WorkflowViewState.IdRef="ForEachRow_4">
                           <ui:ForEachRow.Body>
                             <ActivityAction x:TypeArguments="sd:DataRow">
                               <ActivityAction.Argument>
                                 <DelegateInArgument x:TypeArguments="sd:DataRow" Name="row" />
                               </ActivityAction.Argument>
-                              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="552,1666" sap2010:WorkflowViewState.IdRef="Sequence_21">
+                              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="552,2343" sap2010:WorkflowViewState.IdRef="Sequence_21">
                                 <sap:WorkflowViewStateService.ViewState>
                                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -189,13 +189,13 @@
                                   </scg:Dictionary>
                                 </sap:WorkflowViewStateService.ViewState>
                                 <ui:NavigateTo Browser="{x:Null}" DisplayName="Navigate To" sap:VirtualizedContainerService.HintSize="510,59" sap2010:WorkflowViewState.IdRef="NavigateTo_7" Url="[row(0).ToString()]" />
-                                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[jenis_perkara]" DisplayName="Tiap jenis perkara" sap:VirtualizedContainerService.HintSize="510,1475" sap2010:WorkflowViewState.IdRef="ForEachRow_7">
+                                <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[jenis_perkara]" DisplayName="Tiap jenis perkara" sap:VirtualizedContainerService.HintSize="510,2152" sap2010:WorkflowViewState.IdRef="ForEachRow_7">
                                   <ui:ForEachRow.Body>
                                     <ActivityAction x:TypeArguments="sd:DataRow">
                                       <ActivityAction.Argument>
                                         <DelegateInArgument x:TypeArguments="sd:DataRow" Name="CurrentRow" />
                                       </ActivityAction.Argument>
-                                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="476,1356" sap2010:WorkflowViewState.IdRef="Sequence_35">
+                                      <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="476,1980" sap2010:WorkflowViewState.IdRef="Sequence_35">
                                         <sap:WorkflowViewStateService.ViewState>
                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -306,7 +306,7 @@
                                             </sap:WorkflowViewStateService.ViewState>
                                           </ui:BrowserScope>
                                         </Sequence>
-                                        <ui:FilterDataTable DataTable="[ExtractDataTable]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="262,51" sap2010:WorkflowViewState.IdRef="FilterDataTable_4" OutputDataTable="[ExtractDataTable]" SelectColumnsMode="Remove">
+                                        <ui:FilterDataTable DataTable="[ExtractDataTable]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="434,160" sap2010:WorkflowViewState.IdRef="FilterDataTable_4" OutputDataTable="[ExtractDataTable]" SelectColumnsMode="Remove">
                                           <ui:FilterDataTable.Filters>
                                             <scg:List x:TypeArguments="ui:FilterOperationArgument" Capacity="4">
                                               <ui:FilterOperationArgument BooleanOperator="And" Operator="CONTAINS">
@@ -327,7 +327,7 @@
                                           </ui:FilterDataTable.SelectColumns>
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
@@ -348,7 +348,7 @@
                                             <InArgument x:TypeArguments="s:Type">[GetType(System.DateTime)]</InArgument>
                                           </Assign.Value>
                                         </Assign>
-                                        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[ExtractDataTable]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="ForEachRow_8">
+                                        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[ExtractDataTable]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="434,399" sap2010:WorkflowViewState.IdRef="ForEachRow_8">
                                           <ui:ForEachRow.Body>
                                             <ActivityAction x:TypeArguments="sd:DataRow">
                                               <ActivityAction.Argument>
@@ -371,12 +371,12 @@
                                           </ui:ForEachRow.Body>
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
                                         </ui:ForEachRow>
-                                        <ui:FilterDataTable DataTable="[filteredDT]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="FilterDataTable_5" OutputDataTable="[filteredDT]" SelectColumnsMode="Keep">
+                                        <ui:FilterDataTable DataTable="[filteredDT]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="434,160" sap2010:WorkflowViewState.IdRef="FilterDataTable_5" OutputDataTable="[filteredDT]" SelectColumnsMode="Keep">
                                           <ui:FilterDataTable.Filters>
                                             <scg:List x:TypeArguments="ui:FilterOperationArgument" Capacity="4">
                                               <ui:FilterOperationArgument BooleanOperator="And" Operator="LTE">
@@ -396,13 +396,27 @@
                                           </ui:FilterDataTable.SelectColumns>
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
                                         </ui:FilterDataTable>
-                                        <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Sumber Data" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,22" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_4" />
-                                        <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Link Web" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,22" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3" />
+                                        <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Sumber Data" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_4">
+                                          <sap:WorkflowViewStateService.ViewState>
+                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                            </scg:Dictionary>
+                                          </sap:WorkflowViewStateService.ViewState>
+                                        </ui:AddDataColumn>
+                                        <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Link Web" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3">
+                                          <sap:WorkflowViewStateService.ViewState>
+                                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                            </scg:Dictionary>
+                                          </sap:WorkflowViewStateService.ViewState>
+                                        </ui:AddDataColumn>
                                         <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[filteredDT]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="434,51" sap2010:WorkflowViewState.IdRef="ForEachRow_6">
                                           <ui:ForEachRow.Body>
                                             <ActivityAction x:TypeArguments="sd:DataRow">
@@ -454,7 +468,7 @@
                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                   </scg:Dictionary>
                                                 </sap:WorkflowViewStateService.ViewState>
-                                                <ui:ExcelAppendRange DataTable="[filteredDT]" DisplayName="Append Range" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="ExcelAppendRange_1" SheetName="Sheet5" />
+                                                <ui:ExcelAppendRange DataTable="[filteredDT]" DisplayName="Append Range" sap:VirtualizedContainerService.HintSize="334,87" sap2010:WorkflowViewState.IdRef="ExcelAppendRange_1" SheetName="Sheet6" />
                                               </Sequence>
                                             </ActivityAction>
                                           </ui:ExcelApplicationScope.Body>
