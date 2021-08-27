@@ -99,7 +99,7 @@
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <sa:Download ContinueOnError="{x:Null}" sap:VirtualizedContainerService.HintSize="334,132" sap2010:WorkflowViewState.IdRef="Download_1" LocalDirectory="C:\Users\LENOVO\Documents\UiPath" RemoteFullPath="/home/ara/contohinput/test_sipp_parallel.xlsx" />
+                <sa:Download ContinueOnError="{x:Null}" sap:VirtualizedContainerService.HintSize="334,132" sap2010:WorkflowViewState.IdRef="Download_1" LocalDirectory="C:\Users\Lenovo\OneDrive\Documents\Resource\" RemoteFullPath="/home/ara/contohinput/test_sipp_parallel.xlsx" />
               </Sequence>
             </ActivityAction>
           </sa:SFTPScope.Body>
