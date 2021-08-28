@@ -3,6 +3,7 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Auxiliobits.UtilityExcelToDictionary.Activities": "[1.2.3]",
     "Microsoft.Activities": "[1.0.1]",
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "SFTP.Activities": "[2.0.0]",
