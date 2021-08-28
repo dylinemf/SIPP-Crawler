@@ -2,6 +2,7 @@
   <x:Members>
     <x:Property Name="in_link" Type="InArgument(x:String)" />
     <x:Property Name="in_jenis_perkara" Type="InArgument(sd:DataTable)" />
+    <x:Property Name="out_filteredDT" Type="OutArgument(sd:DataTable)" />
   </x:Members>
   <sap:VirtualizedContainerService.HintSize>807.2,620</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
@@ -81,7 +82,6 @@
         </ActivityAction.Argument>
         <Sequence sap:VirtualizedContainerService.HintSize="592,2737.6" sap2010:WorkflowViewState.IdRef="Sequence_39">
           <Sequence.Variables>
-            <Variable x:TypeArguments="sd:DataTable" Name="filteredDT" />
             <Variable x:TypeArguments="x:String" Name="PN" />
             <Variable x:TypeArguments="sd:DataTable" Name="ExtractDataTable" />
           </Sequence.Variables>
@@ -243,7 +243,7 @@
                     </ui:FilterDataTable>
                     <Assign sap:VirtualizedContainerService.HintSize="433.6,60" sap2010:WorkflowViewState.IdRef="Assign_5">
                       <Assign.To>
-                        <OutArgument x:TypeArguments="sd:DataTable">[filteredDT]</OutArgument>
+                        <OutArgument x:TypeArguments="sd:DataTable">[out_filteredDT]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
                         <InArgument x:TypeArguments="sd:DataTable">[ExtractDataTable.Clone]</InArgument>
@@ -251,7 +251,7 @@
                     </Assign>
                     <Assign sap:VirtualizedContainerService.HintSize="433.6,60" sap2010:WorkflowViewState.IdRef="Assign_6">
                       <Assign.To>
-                        <OutArgument x:TypeArguments="s:Type">[filteredDT.Columns("Column-2").DataType]</OutArgument>
+                        <OutArgument x:TypeArguments="s:Type">[out_filteredDT.Columns("Column-2").DataType]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
                         <InArgument x:TypeArguments="s:Type">[GetType(System.DateTime)]</InArgument>
@@ -271,7 +271,7 @@
                             </sap:WorkflowViewStateService.ViewState>
                             <InvokeMethod DisplayName="Invoke Method" sap:VirtualizedContainerService.HintSize="236.8,135.2" sap2010:WorkflowViewState.IdRef="InvokeMethod_1" MethodName="ImportRow">
                               <InvokeMethod.TargetObject>
-                                <InArgument x:TypeArguments="sd:DataTable">[filteredDT]</InArgument>
+                                <InArgument x:TypeArguments="sd:DataTable">[out_filteredDT]</InArgument>
                               </InvokeMethod.TargetObject>
                               <InArgument x:TypeArguments="sd:DataRow">[brs]</InArgument>
                             </InvokeMethod>
@@ -285,7 +285,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:ForEachRow>
-                    <ui:FilterDataTable DataTable="[filteredDT]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="433.6,162.4" sap2010:WorkflowViewState.IdRef="FilterDataTable_5" OutputDataTable="[filteredDT]" SelectColumnsMode="Keep">
+                    <ui:FilterDataTable DataTable="[out_filteredDT]" DisplayName="Filter Data Table" FilterRowsMode="Remove" sap:VirtualizedContainerService.HintSize="433.6,162.4" sap2010:WorkflowViewState.IdRef="FilterDataTable_5" OutputDataTable="[out_filteredDT]" SelectColumnsMode="Keep">
                       <ui:FilterDataTable.Filters>
                         <scg:List x:TypeArguments="ui:FilterOperationArgument" Capacity="4">
                           <ui:FilterOperationArgument BooleanOperator="And" Operator="LTE">
@@ -310,7 +310,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:FilterDataTable>
-                    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Sumber Data" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="433.6,52.8" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_4">
+                    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Sumber Data" DataTable="[out_filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="433.6,52.8" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_4">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -318,7 +318,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:AddDataColumn>
-                    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Link Web" DataTable="[filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="433.6,52.8" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3">
+                    <ui:AddDataColumn x:TypeArguments="x:Object" AllowDBNull="{x:Null}" AutoIncrement="{x:Null}" Column="{x:Null}" DefaultValue="{x:Null}" MaxLength="{x:Null}" Unique="{x:Null}" ColumnName="Link Web" DataTable="[out_filteredDT]" DisplayName="Add Data Column" sap:VirtualizedContainerService.HintSize="433.6,52.8" sap2010:WorkflowViewState.IdRef="AddDataColumn`1_3">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -326,7 +326,7 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:AddDataColumn>
-                    <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[filteredDT]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="433.6,427.2" sap2010:WorkflowViewState.IdRef="ForEachRow_6">
+                    <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[out_filteredDT]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="433.6,427.2" sap2010:WorkflowViewState.IdRef="ForEachRow_6">
                       <ui:ForEachRow.Body>
                         <ActivityAction x:TypeArguments="sd:DataRow">
                           <ActivityAction.Argument>
@@ -377,7 +377,7 @@
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <ui:ExcelAppendRange DataTable="[filteredDT]" DisplayName="Append Range" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="ExcelAppendRange_1" SheetName="Sheet6" />
+                            <ui:ExcelAppendRange DataTable="[out_filteredDT]" DisplayName="Append Range" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="ExcelAppendRange_1" SheetName="Sheet6" />
                           </Sequence>
                         </ActivityAction>
                       </ui:ExcelApplicationScope.Body>
