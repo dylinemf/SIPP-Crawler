@@ -77,20 +77,16 @@
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
       <AssemblyReference>UiPath.Mail</AssemblyReference>
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="TestParallel" sap:VirtualizedContainerService.HintSize="1449.6,2464" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="1449.6,2464" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt" />
       <Variable x:TypeArguments="x:Int32" Name="counter_parallel" />
       <Variable x:TypeArguments="x:Int32" Name="bagi" />
-      <Variable x:TypeArguments="scg:List(x:String)" Name="list_link_pn">
-        <Variable.Default>
-          <mva:VisualBasicValue x:TypeArguments="scg:List(x:String)" ExpressionText="in_link_pn" />
-        </Variable.Default>
-      </Variable>
+      <Variable x:TypeArguments="scg:List(x:String)" Default="[in_link_pn]" Name="list_link_pn" />
       <Variable x:TypeArguments="x:Int32" Name="counter" />
       <Variable x:TypeArguments="scg:List(x:String)" Default="[new List(Of String)]" Name="temp_dt" />
       <Variable x:TypeArguments="x:Int32" Name="hit_tempdt" />
@@ -105,7 +101,7 @@
         <OutArgument x:TypeArguments="x:Int32">[bagi]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">3</InArgument>
+        <InArgument x:TypeArguments="x:Int32">2</InArgument>
       </Assign.Value>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -134,7 +130,7 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <If.Then>
-                <Sequence sap:VirtualizedContainerService.HintSize="424.8,448" sap2010:WorkflowViewState.IdRef="Sequence_12">
+                <Sequence sap:VirtualizedContainerService.HintSize="424.8,355.2" sap2010:WorkflowViewState.IdRef="Sequence_12">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -153,30 +149,13 @@
                           <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">
                             <mva:VisualBasicValue x:TypeArguments="sd:DataTable" ExpressionText="in_jenis_perkara" />
                           </InArgument>
+                          <OutArgument x:TypeArguments="sd:DataTable" x:Key="out_filteredDT">
+                            <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="dt" />
+                          </OutArgument>
                         </ui:InvokeWorkflowFile.Arguments>
                       </ui:InvokeWorkflowFile>
                     </ActivityAction>
                   </ParallelForEach>
-                  <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="383.2,52.8" sap2010:WorkflowViewState.IdRef="MultipleAssign_3">
-                    <ui:MultipleAssign.AssignOperations>
-                      <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
-                        <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
-                          <ui:AssignOperation.To>
-                            <OutArgument x:TypeArguments="scg:List(x:String)">[temp_dt]</OutArgument>
-                          </ui:AssignOperation.To>
-                          <ui:AssignOperation.Value>
-                            <InArgument x:TypeArguments="scg:List(x:String)">[list_link_pn.GetRange((1+(CurrentItem*bagi)),bagi).ToList]</InArgument>
-                          </ui:AssignOperation.Value>
-                        </ui:AssignOperation>
-                      </scg:List>
-                    </ui:MultipleAssign.AssignOperations>
-                    <sap:WorkflowViewStateService.ViewState>
-                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                        <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                        <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                      </scg:Dictionary>
-                    </sap:WorkflowViewStateService.ViewState>
-                  </ui:MultipleAssign>
                 </Sequence>
               </If.Then>
               <If.Else>
@@ -236,6 +215,9 @@
                                               <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">
                                                 <mva:VisualBasicValue x:TypeArguments="sd:DataTable" ExpressionText="in_jenis_perkara" />
                                               </InArgument>
+                                              <OutArgument x:TypeArguments="sd:DataTable" x:Key="out_filteredDT">
+                                                <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="dt" />
+                                              </OutArgument>
                                             </ui:InvokeWorkflowFile.Arguments>
                                           </ui:InvokeWorkflowFile>
                                         </ActivityAction>
