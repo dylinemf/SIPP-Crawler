@@ -1,0 +1,598 @@
+﻿No|Sumber_Data|Link_Web_PN|Nomor_Perkara|Tanggal_Register|Klasifikasi_Perkara|penggugat_pemohon_penuntut_umum|tergugat_termohon_terdakwa|Status_Perkara
+0|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|08/27/2018 00:00:00|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
+1|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Eka Lazuardi Tirtha, SH|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+2|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Puji Astuti|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+3|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Artawan|Minutasi
+4|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Made Lisa Hariyani|Minutasi
+5|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ida Bagus Putu Purwadi|Minutasi
+6|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Fanny Veramon|Minutasi
+7|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gusti Ketut Sudantra|Minutasi
+8|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Nyoman Noriani|Minutasi
+9|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Sayu Putu Novi Primadani|Minutasi
+10|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Putu Agus Santika|Minutasi
+11|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Nyoman Sudiarsa|Minutasi
+12|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Nyoman Torni|Minutasi
+13|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gede Suarna|Minutasi
+14|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Komang Merta Yasa|Minutasi
+15|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Komang Tria andriani|Minutasi
+16|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|148/Pdt.G/2018/PN Nga|09/14/2018 00:00:00|Wanprestasi|Ni Ketut Ningsih|I Nyoman Sumarja|Permohonan Eksekusi
+17|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|11/Pdt.G.S/2018/PN Nga|09/25/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+18|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Zulkipli|Minutasi
+19|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Yuliati|Minutasi
+20|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|159/Pdt.G/2018/PN Nga|09/28/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+21|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Suastika|Minutasi
+22|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni ketut Sukerni|Minutasi
+23|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Miswati|Minutasi
+24|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Anang Supomo|Minutasi
+25|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|I NENGAH LADRA|Minutasi
+26|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|NI WAYAN KENENG|Minutasi
+27|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Minutasi
+28|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Minutasi
+29|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Pemberitahuan Putus Kasasi
+30|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Pemberitahuan Putus Kasasi
+31|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|NI MADE SUMIASIH|Minutasi
+32|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|I GUSTI KOMANG OKA|Minutasi
+33|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|I Nengah Muliarsa|Minutasi
+34|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|2/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|Fitria|Minutasi
+35|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|TAN HENDRA BIRAWAN|Pemberitahuan Putusan Banding
+36|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|ERNAWATY|Pemberitahuan Putusan Banding
+37|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|I PUTU ARDANA|Minutasi
+38|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|NI MADE SENI WATI|Minutasi
+39|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2019/PN Nga|09/26/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+40|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+41|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+42|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+43|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Farida Ariani|Minutasi
+44|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I NENGAH SUGITA, KARYA SEJATI|Minutasi
+45|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Made Arbawa|Minutasi
+46|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Gusti Ayu Sri UtamiSAG|Minutasi
+47|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|Agus Ciawan atau disebut juga I Gede Agus Ciawan|Minutasi
+48|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|I Gusti Komang Agus Astawa|Minutasi
+49|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|I GUSTI PUTU PURNAYASA|Minutasi
+50|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|DEWA AYU PUTU SANDEWI|Minutasi
+51|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|53/Pdt.G/2020/PN Nga|03/16/2020 00:00:00|Wanprestasi|Ni Ketut Sariani|Suherman|Minutasi
+52|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|2/Pdt.G.S/2020/PN Nga|06/10/2020 00:00:00|Wanprestasi|I GUSTI AYU PUTU MULIANI|I NENGAH ARDANA|Minutasi
+53|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|134/Pdt.G/2020/PN Nga|08/31/2020 00:00:00|Wanprestasi|PT Bali Nusa Makmur|Jap Mei Fang|Pengiriman Berkas Kasasi
+54|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|136/Pdt.G/2020/PN Nga|09/02/2020 00:00:00|Wanprestasi|Novita Carolina Fernandez|I Gede Puriawan|Pengiriman Berkas Kasasi
+55|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARTA|Minutasi
+56|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARTA|Minutasi
+57|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASMUNI|Minutasi
+58|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASTUTIK|Minutasi
+59|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+60|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+61|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+62|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+63|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+64|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+65|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|221/Pdt.G/2020/PN Nga|12/14/2020 00:00:00|Wanprestasi|I Kadek Pardana|I Wayan Diarsa|Minutasi
+66|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|223/Pdt.G/2020/PN Nga|12/15/2020 00:00:00|Wanprestasi|Muhammad Rifai ST|Mohamad Anwar alias H Mohamad Anwar|Minutasi
+67|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA MADE KOMPIANG WIRAWAN|Minutasi
+68|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA PUTU WASA|Minutasi
+69|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KOMANG SUARTAWAN alias KOMANG GAWAT|Persidangan
+70|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I NYOMAN SAMBA|Persidangan
+71|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KETUT SUASA|Persidangan
+72|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|139/Pdt.G/2018/PN Nga|08/27/2018 00:00:00|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
+73|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Eka Lazuardi Tirtha, SH|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+74|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Puji Astuti|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+75|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Artawan|Minutasi
+76|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Made Lisa Hariyani|Minutasi
+77|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ida Bagus Putu Purwadi|Minutasi
+78|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Fanny Veramon|Minutasi
+79|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gusti Ketut Sudantra|Minutasi
+80|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Nyoman Noriani|Minutasi
+81|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Sayu Putu Novi Primadani|Minutasi
+82|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Putu Agus Santika|Minutasi
+83|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|7/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Nyoman Sudiarsa|Minutasi
+84|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Nyoman Torni|Minutasi
+85|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gede Suarna|Minutasi
+86|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Komang Merta Yasa|Minutasi
+87|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Komang Tria andriani|Minutasi
+88|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|148/Pdt.G/2018/PN Nga|09/14/2018 00:00:00|Wanprestasi|Ni Ketut Ningsih|I Nyoman Sumarja|Permohonan Eksekusi
+89|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|11/Pdt.G.S/2018/PN Nga|09/25/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+90|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Zulkipli|Minutasi
+91|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Yuliati|Minutasi
+92|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|159/Pdt.G/2018/PN Nga|09/28/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+93|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Suastika|Minutasi
+94|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni ketut Sukerni|Minutasi
+95|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Miswati|Minutasi
+96|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Anang Supomo|Minutasi
+97|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|I NENGAH LADRA|Minutasi
+98|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|NI WAYAN KENENG|Minutasi
+99|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Minutasi
+100|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Minutasi
+101|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Pemberitahuan Putus Kasasi
+102|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Pemberitahuan Putus Kasasi
+103|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|NI MADE SUMIASIH|Minutasi
+104|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|I GUSTI KOMANG OKA|Minutasi
+105|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|3/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|I Nengah Muliarsa|Minutasi
+106|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|2/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|Fitria|Minutasi
+107|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|TAN HENDRA BIRAWAN|Pemberitahuan Putusan Banding
+108|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|ERNAWATY|Pemberitahuan Putusan Banding
+109|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|I PUTU ARDANA|Minutasi
+110|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|NI MADE SENI WATI|Minutasi
+111|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2019/PN Nga|09/26/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+112|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+113|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+114|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+115|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Farida Ariani|Minutasi
+116|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I NENGAH SUGITA, KARYA SEJATI|Minutasi
+117|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Made Arbawa|Minutasi
+118|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|9/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Gusti Ayu Sri UtamiSAG|Minutasi
+119|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|Agus Ciawan atau disebut juga I Gede Agus Ciawan|Minutasi
+120|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|I Gusti Komang Agus Astawa|Minutasi
+121|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|I GUSTI PUTU PURNAYASA|Minutasi
+122|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|DEWA AYU PUTU SANDEWI|Minutasi
+123|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|53/Pdt.G/2020/PN Nga|03/16/2020 00:00:00|Wanprestasi|Ni Ketut Sariani|Suherman|Minutasi
+124|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|2/Pdt.G.S/2020/PN Nga|06/10/2020 00:00:00|Wanprestasi|I GUSTI AYU PUTU MULIANI|I NENGAH ARDANA|Minutasi
+125|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|134/Pdt.G/2020/PN Nga|08/31/2020 00:00:00|Wanprestasi|PT Bali Nusa Makmur|Jap Mei Fang|Pengiriman Berkas Kasasi
+126|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|136/Pdt.G/2020/PN Nga|09/02/2020 00:00:00|Wanprestasi|Novita Carolina Fernandez|I Gede Puriawan|Pengiriman Berkas Kasasi
+127|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARTA|Minutasi
+128|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARTA|Minutasi
+129|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASMUNI|Minutasi
+130|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASTUTIK|Minutasi
+131|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+132|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+133|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+134|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+135|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+136|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+137|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|221/Pdt.G/2020/PN Nga|12/14/2020 00:00:00|Wanprestasi|I Kadek Pardana|I Wayan Diarsa|Minutasi
+138|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|223/Pdt.G/2020/PN Nga|12/15/2020 00:00:00|Wanprestasi|Muhammad Rifai ST|Mohamad Anwar alias H Mohamad Anwar|Minutasi
+139|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA MADE KOMPIANG WIRAWAN|Minutasi
+140|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA PUTU WASA|Minutasi
+141|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KOMANG SUARTAWAN alias KOMANG GAWAT|Persidangan
+142|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I NYOMAN SAMBA|Persidangan
+143|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KETUT SUASA|Persidangan
+144|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|49/Pdt.G.S/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Djumeneng|Minutasi
+145|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|50/Pdt.G.S/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Muhammad Khotib|Minutasi
+146|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|51/Pdt.G.S/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Samsuri|Minutasi
+147|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|773/Pdt.G/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|Drs Ec Irfan Arisgraha|Frans Antonius Tawas|Minutasi
+148|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|773/Pdt.G/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|Drs Ec Irfan Arisgraha|Gunardi Hutomo|Minutasi
+149|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|773/Pdt.G/2018/PN Sby|08/21/2018 00:00:00|Wanprestasi|Drs Ec Irfan Arisgraha|Heryanto Tjhang, SH|Minutasi
+150|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|776/Pdt.G/2018/PN Sby|08/23/2018 00:00:00|Wanprestasi|PT Bank Sahabat Sampoerna|Dharma Wira Wijaya|Pengiriman Berkas Kasasi
+151|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|54/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Titin Muthmainah|Minutasi
+152|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|54/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|M Fuat Hudayanto|Minutasi
+153|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|55/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Rusmini|Minutasi
+154|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|55/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Dahlan|Minutasi
+155|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|56/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Anita Sari|Minutasi
+156|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|56/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Moch Nurkholis|Minutasi
+157|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|52/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Pupu Dody Aspijanto|Minutasi
+158|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|53/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Umi Saidah|Minutasi
+159|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|53/Pdt.G.S/2018/PN Sby|08/24/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Warjono|Minutasi
+160|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|782/Pdt.G/2018/PN Sby|08/27/2018 00:00:00|Wanprestasi|Ir Bahagia|Drs Suyatni|Minutasi
+161|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|57/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Dewa Gede Wirahadikusuma|Minutasi
+162|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|57/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Dra Dyah Rahayu Ningsih|Minutasi
+163|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|58/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Meta Ekawati|Minutasi
+164|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|58/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Riyono Pujiarto|Minutasi
+165|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|59/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Yohan Efendi|Minutasi
+166|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|59/Pdt.G.S/2018/PN Sby|08/28/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Usfatul Muawanah|Minutasi
+167|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|60/Pdt.G.S/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Suci Rahmahwati|Minutasi
+168|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|60/Pdt.G.S/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Nurul Zainia|Minutasi
+169|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|61/Pdt.G.S/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Tri Budi Santoso|Minutasi
+170|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|807/Pdt.G/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|Adi Wijaya|Lea Meylawati Kohar|Pemberitahuan Putusan Banding
+171|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|807/Pdt.G/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|Adi Wijaya|Soekirman|Pemberitahuan Putusan Banding
+172|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|807/Pdt.G/2018/PN Sby|08/31/2018 00:00:00|Wanprestasi|Adi Wijaya|Bambang Roesdianto|Pemberitahuan Putusan Banding
+173|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|811/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Charles Joseph Tombeng|PT Baruna Jaya Perkasa|Minutasi
+174|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|813/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Rusitah Rachmad|Ester Lely Kusumawati atau Lely Kusumawati|Pemberitahuan Putus Kasasi
+175|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|813/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Rusitah Rachmad|Heri Soesanto|Pemberitahuan Putus Kasasi
+176|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|814/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Yogi Saputro|Sri Murwani|Minutasi
+177|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|814/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Yogi Saputro|PT Bank Syariah Mandiri|Minutasi
+178|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|815/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|H Mochamad Rifai|Putu Eko Nurasta Pita Dharma|Minutasi
+179|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|815/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|H Mochamad Rifai|I Putu Astawa|Minutasi
+180|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|817/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Tiono Satria Dharmawan Direktur CV Saudara|Hadi Kartoyo|Pengiriman Berkas Kasasi
+181|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|817/Pdt.G/2018/PN Sby|09/04/2018 00:00:00|Wanprestasi|Tiono Satria Dharmawan Direktur CV Saudara|Itawati Sidharta|Pengiriman Berkas Kasasi
+182|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|829/Pdt.G/2018/PN Sby|09/06/2018 00:00:00|Wanprestasi|Mung Kusumo Aji|Sugiyanto|Minutasi
+183|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|62/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|M BURHANUDDIN RUSLI|Minutasi
+184|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|62/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|IFLAKHUL ZAKIYYAH|Minutasi
+185|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|63/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Solichati|Minutasi
+186|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|63/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Erpan|Minutasi
+187|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|64/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Lusi Yuni Atriningsih|Minutasi
+188|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|64/Pdt.G.S/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Ketut Budi Utomo|Minutasi
+189|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|835/Pdt.G/2018/PN Sby|09/07/2018 00:00:00|Wanprestasi|SUHAS VITHALBHAI SHEDGE|SUGENG SANTOSO|Minutasi
+190|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|847/Pdt.G/2018/PN Sby|09/12/2018 00:00:00|Wanprestasi|PT Bank Perkreditan Rakyat Sriekaya diwakili direktur utamanya Yosia Alexander Julianto|Andri Frendeli|Minutasi
+191|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|848/Pdt.G/2018/PN Sby|09/12/2018 00:00:00|Wanprestasi|Ferrri Handoko|Andre Susanto Tantra|Minutasi
+192|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|65/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk cabang Surabaya Rajawali|Bacuk Hardiansyah|Minutasi
+193|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|66/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk cabang Surabaya Rajawali|Hj Wartini|Minutasi
+194|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|67/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Suheni Retno Rosnindar|Minutasi
+195|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|67/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Abdul Manan, SH|Minutasi
+196|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|68/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Salli|Minutasi
+197|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|68/Pdt.G.S/2018/PN Sby|09/13/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Mardiyeh|Minutasi
+198|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|863/Pdt.G/2018/PN Sby|09/14/2018 00:00:00|Wanprestasi|Andi Steven Liono direktur Utama PT Kurnia Megah Permai|Kweh Budiono Direktur CV Citra Abadi|Permohonan Eksekusi
+199|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|863/Pdt.G/2018/PN Sby|09/14/2018 00:00:00|Wanprestasi|Andi Steven Liono direktur Utama PT Kurnia Megah Permai|Liem Landy Budiono Perseroan Komanditer CV Citra Abadi|Permohonan Eksekusi
+200|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|865/Pdt.G/2018/PN Sby|09/14/2018 00:00:00|Wanprestasi|PT Sanggar Asri Sentosa diwakili oleh Hendro Tjandra|Endah Ratri Wulandari|Minutasi
+201|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|69/Pdt.G.S/2018/PN Sby|09/18/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Suwadi|Minutasi
+202|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|872/Pdt.G/2018/PN Sby|09/18/2018 00:00:00|Wanprestasi|Jong Soei Gaen Al Julihana|Jeanne Ruth Ibrahim|Minutasi
+203|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|70/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Suparti|Minutasi
+204|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|70/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Sikan|Minutasi
+205|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|71/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Fahrul|Minutasi
+206|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|71/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Nor Anisa Amir|Minutasi
+207|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|72/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Abdul Nasir|Minutasi
+208|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|72/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Hamidah|Minutasi
+209|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|73/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Sayema|Minutasi
+210|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|73/Pdt.G.S/2018/PN Sby|09/20/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Moch Dahri|Minutasi
+211|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|885/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Lukito Yuwono|Putri Anggraini|Minutasi
+212|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|885/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Lukito Yuwono|Agus Tri Sulistyowati, SE|Minutasi
+213|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|886/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Lukito Yuwono|Puput Ditian Hatmoko|Minutasi
+214|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|886/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Lukito Yuwono|Catur Renoningtyas|Minutasi
+215|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|891/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Budiman Walujo|Siti Ernawati|Penerimaan Jawaban PK
+216|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|891/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Budiman Walujo|Santoso Walujo|Penerimaan Jawaban PK
+217|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|891/Pdt.G/2018/PN Sby|09/21/2018 00:00:00|Wanprestasi|Budiman Walujo|Sri Rahayu|Penerimaan Jawaban PK
+218|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|898/Pdt.G/2018/PN Sby|09/25/2018 00:00:00|Wanprestasi|Alex Gunawan|Desire Sylvia Pojoh|Minutasi
+219|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|74/Pdt.G.S/2018/PN Sby|09/26/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Nur Lailiyah|Minutasi
+220|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Suko, SH, MH|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+221|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Suko, SH, MH|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+222|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Rodiyah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+223|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Rodiyah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+224|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Drs Mochamad Agus Irianto|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+225|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Drs Mochamad Agus Irianto|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+226|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Wildan Nurfahmi|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+227|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Wildan Nurfahmi|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+228|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Werda Elisa Dian Witra|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+229|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Werda Elisa Dian Witra|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+230|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Ummu Nihayah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+231|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Ummu Nihayah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+232|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Dra Rosyidah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+233|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Dra Rosyidah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+234|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Dessi Indri Rosmawati|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+235|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Dessi Indri Rosmawati|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+236|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Murniati|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+237|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Murniati|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+238|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Agus Setiyoutomo|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+239|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Agus Setiyoutomo|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+240|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Sri Sunardi AH|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+241|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|909/Pdt.G/2018/PN Sby|09/27/2018 00:00:00|Wanprestasi|Sri Sunardi AH|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+242|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|920/Pdt.G/2018/PN Sby|10/01/2018 00:00:00|Wanprestasi|Sistono Widjaja|Andre Frans Wijaya|Pemberitahuan Putus Kasasi
+243|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|921/Pdt.G/2018/PN Sby|10/02/2018 00:00:00|Wanprestasi|Fanny Setiawan Halim|Ade Setiawan|Minutasi
+244|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|922/Pdt.G/2018/PN Sby|10/02/2018 00:00:00|Wanprestasi|Hardy|Linda Ongkocusanto|Minutasi
+245|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|923/Pdt.G/2018/PN Sby|10/02/2018 00:00:00|Wanprestasi|Lim, Sanjaya Halim|Budhi Oetojo|Minutasi
+246|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|923/Pdt.G/2018/PN Sby|10/02/2018 00:00:00|Wanprestasi|Lim, Sanjaya Halim|Christiana Inawati, SH|Minutasi
+247|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|923/Pdt.G/2018/PN Sby|10/02/2018 00:00:00|Wanprestasi|Lim, Sanjaya Halim|Endah Larasati, SH|Minutasi
+248|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|931/Pdt.G/2018/PN Sby|10/03/2018 00:00:00|Wanprestasi|PT Pakuwon Jati Tbk diwakili Direkturnya Drs Minarto, Dra Lauw, Syanne Wahyuni Loekito|Ferdian Kurniawan Budiyanto, SE|Permohonan PK
+249|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|75/Pdt.G.S/2018/PN Sby|10/03/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|H Moch Toha|Minutasi
+250|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|942/Pdt.G/2018/PN Sby|10/05/2018 00:00:00|Wanprestasi|Verawati|Marto Santoso alias Marta Santoso Siaga|Minutasi
+251|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|942/Pdt.G/2018/PN Sby|10/05/2018 00:00:00|Wanprestasi|Verawati|Debora Surjani alias Debora Surjani Adornan|Minutasi
+252|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|948/Pdt.G/2018/PN Sby|10/05/2018 00:00:00|Wanprestasi|Teguh Hertiko|PT Bank Negara Indonesia, Persero, Tbk Cabang Sidoarjo|Minutasi
+253|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|951/Pdt.G/2018/PN Sby|10/08/2018 00:00:00|Wanprestasi|Alberth Rudi Saputra|Agung Santoso|Pemberitahuan Putusan Banding
+254|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|952/Pdt.G/2018/PN Sby|10/08/2018 00:00:00|Wanprestasi|Andreas Budiyono|Direktur PT Radio Fiskaria Jaya Suara Surabaya|Minutasi
+255|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|76/Pdt.G.S/2018/PN Sby|10/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Supriyadi|Minutasi
+256|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|76/Pdt.G.S/2018/PN Sby|10/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Winarti|Minutasi
+257|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|77/Pdt.G.S/2018/PN Sby|10/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Rohman Nugroho|Minutasi
+258|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|77/Pdt.G.S/2018/PN Sby|10/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Setyowati|Minutasi
+259|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|960/Pdt.G/2018/PN Sby|10/10/2018 00:00:00|Wanprestasi|PratiwiArryabi Halim disebut juga Liem Hong Bie|PT Blauran Cahaya Mulia|Minutasi
+260|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|78/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Victurius|Minutasi
+261|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|78/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Febry Valentine Tiwatu|Minutasi
+262|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|79/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Dwi Sri Lestari|Minutasi
+263|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|79/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Sugeng Widodo|Minutasi
+264|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|80/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Ika Kristiana|Minutasi
+265|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|80/Pdt.G.S/2018/PN Sby|10/11/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Purwanto|Minutasi
+266|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|968/Pdt.G/2018/PN Sby|10/12/2018 00:00:00|Wanprestasi|Herry Agus Pardede, STh|Yayasan Pendidikan dan Pengajaran Budi Pekerti Filadelfia|Minutasi
+267|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|968/Pdt.G/2018/PN Sby|10/12/2018 00:00:00|Wanprestasi|Herry Agus Pardede, STh|Ir AGUS PURWANTO|Minutasi
+268|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|982/Pdt.G/2018/PN Sby|10/16/2018 00:00:00|Wanprestasi|Prof Ir Johan Silas|PT New International Amusement Center Ltd PT New IAC Ltd|Pengiriman Berkas Kasasi
+269|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|982/Pdt.G/2018/PN Sby|10/16/2018 00:00:00|Wanprestasi|Prof Ir Johan Silas|PT RAF Putera|Pengiriman Berkas Kasasi
+270|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|81/Pdt.G.S/2018/PN Sby|10/17/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Nafisah|Minutasi
+271|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|81/Pdt.G.S/2018/PN Sby|10/17/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Sahudi|Minutasi
+272|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|82/Pdt.G.S/2018/PN Sby|10/17/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Tiroma|Minutasi
+273|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|82/Pdt.G.S/2018/PN Sby|10/17/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Sudjai|Minutasi
+274|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|987/Pdt.G/2018/PN Sby|10/17/2018 00:00:00|Wanprestasi|Sardin Halimbar|Perusahaan Umum Kereta Api Daerah Operasi VIII Surabaya|Minutasi
+275|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|997/Pdt.G/2018/PN Sby|10/18/2018 00:00:00|Wanprestasi|Moch Soleh|Suwarno|Minutasi
+276|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1000/Pdt.G/2018/PN Sby|10/19/2018 00:00:00|Wanprestasi|Ir Sutrisno|Hj Saudah|Minutasi
+277|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1001/Pdt.G/2018/PN Sby|10/19/2018 00:00:00|Wanprestasi|PT Grande Family View|PT Surya Mitra Solusindo|Minutasi
+278|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1001/Pdt.G/2018/PN Sby|10/19/2018 00:00:00|Wanprestasi|PT Grande Family View|Olivia Cynthia Dinata Direktur PT Surya Mitra Solusindo|Minutasi
+279|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1001/Pdt.G/2018/PN Sby|10/19/2018 00:00:00|Wanprestasi|PT Grande Family View|Olivia Cynthia Dinata|Minutasi
+280|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1002/Pdt.G/2018/PN Sby|10/19/2018 00:00:00|Wanprestasi|PT Mentari Sejati Perkasa diwakili Direkturnya dr Soenardi Sudartan|PT Djakarta Llyod Persero|Minutasi
+281|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1005/Pdt.G/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|Eddy Prajitno Hiana|Santoso Setiono|Minutasi
+282|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|83/Pdt.G.S/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Mat Jumlah|Minutasi
+283|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|83/Pdt.G.S/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Sabiyeh|Minutasi
+284|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|84/Pdt.G.S/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Ghosinuddin|Minutasi
+285|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1007/Pdt.G/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|Allan Tjiptarahardja|Tjendrawati|Minutasi
+286|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1008/Pdt.G/2018/PN Sby|10/22/2018 00:00:00|Wanprestasi|CV Mulyana BS diwakili direkturnya Agus Mardjiono|PT BANK SYARIAH MANDIRI|Pengiriman Berkas Kasasi
+287|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|85/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Noer Hayati|Minutasi
+288|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|85/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|M Safii|Minutasi
+289|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|86/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Taufiq Anam|Minutasi
+290|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|86/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|H Elmi Suroso|Minutasi
+291|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|87/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Sri Lestari Karyani|Minutasi
+292|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|87/Pdt.G.S/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Agus Bintoro|Minutasi
+293|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1012/Pdt.G/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Herlina Napitupulu|Oktaviano Sembiring|Minutasi
+294|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1012/Pdt.G/2018/PN Sby|10/23/2018 00:00:00|Wanprestasi|Herlina Napitupulu|Hanna Yanti Pohan|Minutasi
+295|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1014/Pdt.G/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|Ach Zeini|Seger|Minutasi
+296|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|88/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|PT Bank Negara Indonesia, Persero, Tbk Kantor Wilayah Surabaya|Mochammad Rifai|Minutasi
+297|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|89/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|PT Bank Negara Indonesia, Persero, Tbk Kantor Wilayah Surabaya|Zainul Abidin|Minutasi
+298|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|90/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|PT Bank Negara Indonesia, Persero, Tbk Kantor Wilayah Surabaya|FX Maria Widyati|Minutasi
+299|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|91/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|PT Bank Negara Indonesia, Persero, Tbk Kantor Wilayah Surabaya|Diani Andamari|Minutasi
+300|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|92/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Fafan Setiawan|Pemberitahuan Putusan
+301|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|92/Pdt.G.S/2018/PN Sby|10/24/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Intan Puspita Indah Sayekti|Pemberitahuan Putusan
+302|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1026/Pdt.G/2018/PN Sby|10/25/2018 00:00:00|Wanprestasi|PT Binajaya Perkasa Mandiri diwakili direkturnya Burso Joviter Naibaho, SE|PT Samodra Surya Tehnik, Cq H Wanianto, ST Direktur PT Samodra Surya Tehnik|Minutasi
+303|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1034/Pdt.G/2018/PN Sby|10/31/2018 00:00:00|Wanprestasi|Didit Irfan Rozaqi|Dewi Ayu Perwitasari Direktur Utama PT Tulus Harapan|Putusan Kasasi
+304|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1034/Pdt.G/2018/PN Sby|10/31/2018 00:00:00|Wanprestasi|Didit Irfan Rozaqi|PT Tulus Harapan|Putusan Kasasi
+305|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1037/Pdt.G/2018/PN Sby|10/31/2018 00:00:00|Wanprestasi|PT Advanta Seeds Indonesia|CV Putra Alam Sejahtera|Minutasi
+306|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1037/Pdt.G/2018/PN Sby|10/31/2018 00:00:00|Wanprestasi|PT Advanta Seeds Indonesia|Bagus Prasaja Paramita|Minutasi
+307|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1037/Pdt.G/2018/PN Sby|10/31/2018 00:00:00|Wanprestasi|PT Advanta Seeds Indonesia|Indrayani Paramita|Minutasi
+308|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1038/Pdt.G/2018/PN Sby|11/01/2018 00:00:00|Wanprestasi|Wirjono Sugiarto|Hendra Basoeki|Minutasi
+309|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1038/Pdt.G/2018/PN Sby|11/01/2018 00:00:00|Wanprestasi|Wirjono Sugiarto|PT Hansindo Indonesia cabang Surabaya|Minutasi
+310|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1043/Pdt.G/2018/PN Sby|11/02/2018 00:00:00|Wanprestasi|Defvy Susanti P|Sylvi Poernomo, SH, MH|Minutasi
+311|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1058/Pdt.G/2018/PN Sby|11/05/2018 00:00:00|Wanprestasi|Sunardi|Budi Mulyono|Minutasi
+312|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|93/Pdt.G.S/2018/PN Sby|11/06/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Solikhin|Minutasi
+313|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|94/Pdt.G.S/2018/PN Sby|11/07/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Bakhtiar Rakhman|Minutasi
+314|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1071/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|Marto Santoso|Alfred Widjaja|Minutasi
+315|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1071/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|Debora Surjani|Alfred Widjaja|Minutasi
+316|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1072/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|PT Petrogas Jatim Utama, Perseroda diwakili Direktur Utama Warno Harisasono|PT Gate Hope Indonesia|Pengiriman Berkas Kasasi
+317|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1072/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|PT Petrogas Jatim Utama, Perseroda diwakili Direktur Utama Warno Harisasono|PT Dibies Energindo|Pengiriman Berkas Kasasi
+318|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1072/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|PT Petrogas Jatim Utama, Perseroda diwakili Direktur Utama Warno Harisasono|Openblue Co Ltd|Pengiriman Berkas Kasasi
+319|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1072/Pdt.G/2018/PN Sby|11/08/2018 00:00:00|Wanprestasi|PT Petrogas Jatim Utama, Perseroda diwakili Direktur Utama Warno Harisasono|Yong Chang Soon, Local Branch Manager Openblue co Ltd|Pengiriman Berkas Kasasi
+320|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1078/Pdt.G/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|Gondo Soebedjo|Soehardjo Gondo|Minutasi
+321|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|95/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Hj Wasiah|Minutasi
+322|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|95/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|H Moentari|Minutasi
+323|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|96/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Indah Hidayati|Minutasi
+324|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|96/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Sutikno|Minutasi
+325|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|97/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Koenarsih|Minutasi
+326|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|97/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Arifin|Minutasi
+327|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|98/Pdt.G.S/2018/PN Sby|11/09/2018 00:00:00|Wanprestasi|Nina Susiani binti Alm Djaenal Iksan Kepala Toko ANT Comp Hi Tech Mall|Amila Rochmah Pemilik Toko dan Marketing CH Mart|Minutasi
+328|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1092/Pdt.G/2018/PN Sby|11/13/2018 00:00:00|Wanprestasi|Darmini, SH|Sigit Gunawan|Minutasi
+329|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|99/Pdt.G.S/2018/PN Sby|11/14/2018 00:00:00|Wanprestasi|PT Bank BRI Cabang Surabaya Jemursari|Fatchur Huda|Minutasi
+330|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|99/Pdt.G.S/2018/PN Sby|11/14/2018 00:00:00|Wanprestasi|PT Bank BRI Cabang Surabaya Jemursari|Hanik Nadiroh|Minutasi
+331|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|100/Pdt.G.S/2018/PN Sby|11/15/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Noer Farida Husniyah|Minutasi
+332|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|101/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Jemursari|Drs Paidjan Sudjarwo|Minutasi
+333|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|102/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Rudi Irianto|Minutasi
+334|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|102/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Setiarsih|Minutasi
+335|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|103/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Arbiyantoro Jaya Fadli|Minutasi
+336|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|103/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Shilvy Dwi Anggrainy|Minutasi
+337|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|104/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Endang Dwi Ratnawati|Minutasi
+338|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|104/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Farchan Fuadi El Hakim|Minutasi
+339|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|105/Pdt.G.S/2018/PN Sby|11/22/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Sukardi alias MIbnu Dawam|Minutasi
+340|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|106/Pdt.G.S/2018/PN Sby|11/23/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Hekma Renita|Minutasi
+341|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|106/Pdt.G.S/2018/PN Sby|11/23/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Eka Chandra Dharmawan|Minutasi
+342|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|107/Pdt.G.S/2018/PN Sby|11/23/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Singgih Permadi|Minutasi
+343|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1134/Pdt.G/2018/PN Sby|11/23/2018 00:00:00|Wanprestasi|Sri Hariyati|Rachmad Harmoko|Minutasi
+344|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|108/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Rachmad Tauvani|Minutasi
+345|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|109/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Riyadi|Minutasi
+346|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|110/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Abd Mohid|Minutasi
+347|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|111/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Sanirin|Minutasi
+348|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|112/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Yuliati Romadhani|Minutasi
+349|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|112/Pdt.G.S/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Woro Sutrisni|Minutasi
+350|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1145/Pdt.G/2018/PN Sby|11/27/2018 00:00:00|Wanprestasi|Taat Sumihardjo, SE|Pimpinan PT Oto Multiartha Cabang Surabaya|Minutasi
+351|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|PT Samudra Lintas Timur diwakili direktur utama Johanes Eka Edi Santosa, Oei|PT Perusahaan Pelayaran Shannon|Minutasi
+352|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|PT Samudra Lintas Timur diwakili direktur utama Johanes Eka Edi Santosa, Oei|Aming Tan|Minutasi
+353|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|PT Samudra Lintas Timur diwakili direktur utama Johanes Eka Edi Santosa, Oei|Sudirman Gaswan|Minutasi
+354|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|JOHANES EKA EDI SANTOSA, OEI|PT Perusahaan Pelayaran Shannon|Minutasi
+355|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|JOHANES EKA EDI SANTOSA, OEI|Aming Tan|Minutasi
+356|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1150/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|JOHANES EKA EDI SANTOSA, OEI|Sudirman Gaswan|Minutasi
+357|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1151/Pdt.G/2018/PN Sby|11/28/2018 00:00:00|Wanprestasi|I Yin Stanley|Dari Gunawan|Pemberitahuan Putusan Banding
+358|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|113/Pdt.G.S/2018/PN Sby|11/29/2018 00:00:00|Wanprestasi|Lutfi Ardyansah|Achmad Thufeil Effendi|Minutasi
+359|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1160/Pdt.G/2018/PN Sby|12/03/2018 00:00:00|Wanprestasi|Dra Syaodah|Roemilah|Minutasi
+360|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1163/Pdt.G/2018/PN Sby|12/03/2018 00:00:00|Wanprestasi|Lie Andi Sunjoyo|Musyawaroh|Putusan Kasasi
+361|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1168/Pdt.G/2018/PN Sby|12/03/2018 00:00:00|Wanprestasi|Wahyu Ikhtiarti|Bank Tabungan Negara Persero, Kantor Cabang Surabaya|Pemberitahuan Putusan Banding
+362|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1168/Pdt.G/2018/PN Sby|12/03/2018 00:00:00|Wanprestasi|Tri Indawati|Bank Tabungan Negara Persero, Kantor Cabang Surabaya|Pemberitahuan Putusan Banding
+363|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1168/Pdt.G/2018/PN Sby|12/03/2018 00:00:00|Wanprestasi|Haryanto|Bank Tabungan Negara Persero, Kantor Cabang Surabaya|Pemberitahuan Putusan Banding
+364|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1172/Pdt.G/2018/PN Sby|12/04/2018 00:00:00|Wanprestasi|PT Berlian Budisakti|BEKTI MULYONO|Minutasi
+365|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1172/Pdt.G/2018/PN Sby|12/04/2018 00:00:00|Wanprestasi|PT Berlian Budisakti|ANDRIANITA NOVIANTI|Minutasi
+366|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1172/Pdt.G/2018/PN Sby|12/04/2018 00:00:00|Wanprestasi|PT Berlian Budisakti|RIO DEDY HERYAWAN|Minutasi
+367|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1180/Pdt.G/2018/PN Sby|12/06/2018 00:00:00|Wanprestasi|Kusuma Wahyudi|Nunung Nurhayati|Putusan Kasasi
+368|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1182/Pdt.G/2018/PN Sby|12/07/2018 00:00:00|Wanprestasi|Jason Liem|PT Mahkota Berlian Cemerlang|Minutasi
+369|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1182/Pdt.G/2018/PN Sby|12/07/2018 00:00:00|Wanprestasi|Julyerni Koesmono|PT Mahkota Berlian Cemerlang|Minutasi
+370|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1182/Pdt.G/2018/PN Sby|12/07/2018 00:00:00|Wanprestasi|Djie Tince Muhaji|PT Mahkota Berlian Cemerlang|Minutasi
+371|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1182/Pdt.G/2018/PN Sby|12/07/2018 00:00:00|Wanprestasi|Go Kok Kwang|PT Mahkota Berlian Cemerlang|Minutasi
+372|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1192/Pdt.G/2018/PN Sby|12/10/2018 00:00:00|Wanprestasi|PT Sura Raya Inti diwakili oleh Direktur Utama Rachmad Muhamadiyah, MBA|PT Asuransi Himalaya Pelindung Cabang Surabaya|Minutasi
+373|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1194/Pdt.G/2018/PN Sby|12/10/2018 00:00:00|Wanprestasi|Ang Himawan Santoso|PT Surya Bumimegah Sejahtera|Pengiriman Berkas Kasasi
+374|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1204/Pdt.G/2018/PN Sby|12/13/2018 00:00:00|Wanprestasi|Jap Fernando Yapiter|Sulistijo Gunawan Sia|Pemberitahuan Putusan Banding
+375|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1208/Pdt.G/2018/PN Sby|12/14/2018 00:00:00|Wanprestasi|Sunarmi|Woerjaningsih, SH|Minutasi
+376|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1208/Pdt.G/2018/PN Sby|12/14/2018 00:00:00|Wanprestasi|Sunarmi|Kasidi|Minutasi
+377|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1211/Pdt.G/2018/PN Sby|12/17/2018 00:00:00|Wanprestasi|Jatmiko Purwinoto, SH|Kwok Untung Sinarta|Minutasi
+378|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1211/Pdt.G/2018/PN Sby|12/17/2018 00:00:00|Wanprestasi|Jatmiko Purwinoto, SH|The Fany|Minutasi
+379|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1211/Pdt.G/2018/PN Sby|12/17/2018 00:00:00|Wanprestasi|Jatmiko Purwinoto, SH|Johannes Harjono Setiono Direktur PT Laksana Budaya|Minutasi
+380|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1211/Pdt.G/2018/PN Sby|12/17/2018 00:00:00|Wanprestasi|Jatmiko Purwinoto, SH|Tjandra Sundjaja, SH|Minutasi
+381|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1222/Pdt.G/2018/PN Sby|12/18/2018 00:00:00|Wanprestasi|Menik Rachmawati|Loo Hwie Jung|Pengiriman Berkas Kasasi
+382|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1222/Pdt.G/2018/PN Sby|12/18/2018 00:00:00|Wanprestasi|Menik Rachmawati|Loo Hwie Kwan|Pengiriman Berkas Kasasi
+383|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1222/Pdt.G/2018/PN Sby|12/18/2018 00:00:00|Wanprestasi|Menik Rachmawati|Loo Hwie Ming|Pengiriman Berkas Kasasi
+384|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1224/Pdt.G/2018/PN Sby|12/19/2018 00:00:00|Wanprestasi|Liem Donni Haroyanto Talim|Simon Halim|Pemberitahuan Putusan Banding
+385|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1224/Pdt.G/2018/PN Sby|12/19/2018 00:00:00|Wanprestasi|Liem Donni Haroyanto Talim|Heintjie Gunawan Njoto|Pemberitahuan Putusan Banding
+386|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1233/Pdt.G/2018/PN Sby|12/21/2018 00:00:00|Wanprestasi|PT Binajaya Perkasa Mandiri diwakili Direktirnya Burso Joviter Naibaho, SE|CV Surya kirana abadi Cq Ade Lestiono, ST dan Cipto Dewantoro|Pengiriman Berkas Kasasi
+387|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|114/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Markamah|Minutasi
+388|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|114/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Imam|Minutasi
+389|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|115/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Sagi|Minutasi
+390|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|115/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Siti Hoyijah|Minutasi
+391|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|116/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|H Syaifuddin|Minutasi
+392|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|116/Pdt.G.S/2018/PN Sby|12/27/2018 00:00:00|Wanprestasi|Bank Rakyat Indonesia, Persero Tbk Cabang Surabaya Kertajaya|Atik Susanti|Minutasi
+393|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Ir Sholahuddin Yusuf|PT Sipoa Internasional Jaya|Permohonan Eksekusi
+394|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Ir Sholahuddin Yusuf|Irianto Tanawidjaja, SH|Permohonan Eksekusi
+395|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Ir Sholahuddin Yusuf|Kepolisian Republik Indonesia cq Kepolisian Daerah Jawa Timur cq Dirkrimmum Polda Jatim|Permohonan Eksekusi
+396|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Eri Ardianto|PT Sipoa Internasional Jaya|Permohonan Eksekusi
+397|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Eri Ardianto|Irianto Tanawidjaja, SH|Permohonan Eksekusi
+398|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Eri Ardianto|Kepolisian Republik Indonesia cq Kepolisian Daerah Jawa Timur cq Dirkrimmum Polda Jatim|Permohonan Eksekusi
+399|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Diah Sulistyani, ST|PT Sipoa Internasional Jaya|Permohonan Eksekusi
+400|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Diah Sulistyani, ST|Irianto Tanawidjaja, SH|Permohonan Eksekusi
+401|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G/2019/PN Sby|01/08/2019 00:00:00|Wanprestasi|Diah Sulistyani, ST|Kepolisian Republik Indonesia cq Kepolisian Daerah Jawa Timur cq Dirkrimmum Polda Jatim|Permohonan Eksekusi
+402|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|17/Pdt.G/2019/PN Sby|01/09/2019 00:00:00|Wanprestasi|Jeffry Suryono|PT Bahtera Sungai Jedine diwakili oleh Ir Klemens Sukarno Candra|Minutasi
+403|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|27/Pdt.G/2019/PN Sby|01/10/2019 00:00:00|Wanprestasi|Ishak Supranata|Simon S Kwen|Minutasi
+404|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|27/Pdt.G/2019/PN Sby|01/10/2019 00:00:00|Wanprestasi|Ishak Supranata|Agnes Endang Juningsih|Minutasi
+405|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|27/Pdt.G/2019/PN Sby|01/10/2019 00:00:00|Wanprestasi|Ishak Supranata|Kepala Kantor Pertanahan Kota Surabaya I|Minutasi
+406|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|29/Pdt.G/2019/PN Sby|01/11/2019 00:00:00|Wanprestasi|Samsul Mustofa|Stefanus Sulayman|Minutasi
+407|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|29/Pdt.G/2019/PN Sby|01/11/2019 00:00:00|Wanprestasi|Samsul Mustofa|Agustinus Christianus Dongowea|Minutasi
+408|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|29/Pdt.G/2019/PN Sby|01/11/2019 00:00:00|Wanprestasi|Samsul Mustofa|Maria Baroroh, SH|Minutasi
+409|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|33/Pdt.G/2019/PN Sby|01/14/2019 00:00:00|Wanprestasi|Lutfy Basymeleh, ST|Idroes Bilfaqih|Permohonan Eksekusi
+410|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|39/Pdt.G/2019/PN Sby|01/15/2019 00:00:00|Wanprestasi|Hans William Sendjaja|PT Bank Central Asia, Tbk|Minutasi
+411|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2019/PN Sby|01/16/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Endang Purwati|Minutasi
+412|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|1/Pdt.G.S/2019/PN Sby|01/16/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Moch Supardi|Minutasi
+413|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|50/Pdt.G/2019/PN Sby|01/17/2019 00:00:00|Wanprestasi|Subandi|Susi Handayani|Minutasi
+414|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|50/Pdt.G/2019/PN Sby|01/17/2019 00:00:00|Wanprestasi|Subandi|Komaria|Minutasi
+415|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|2/Pdt.G.S/2019/PN Sby|01/17/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|H Djoko Sutrisno|Minutasi
+416|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|2/Pdt.G.S/2019/PN Sby|01/17/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|HjSuminah|Minutasi
+417|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|3/Pdt.G.S/2019/PN Sby|01/21/2019 00:00:00|Wanprestasi|PTFederal International Finance|Nur Hamidah|Minutasi
+418|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|55/Pdt.G/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|Aan Purnomo|Rr Mahardhini Pudji Iswani|Minutasi
+419|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|55/Pdt.G/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|Aan Purnomo|Rr MAHARDHINI PUDJI ISWATI|Minutasi
+420|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Djatu Agung Widodo|Minutasi
+421|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|4/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|H Hadi Sutopo|Minutasi
+422|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Fauziyatur Rochmah|Minutasi
+423|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|5/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Zainul Abidin|Minutasi
+424|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Aniek Mei Saroh|Minutasi
+425|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|6/Pdt.G.S/2019/PN Sby|01/22/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Santoso|Minutasi
+426|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|65/Pdt.G/2019/PN Sby|01/23/2019 00:00:00|Wanprestasi|Dr  Markus Lewi Santoso|Liem Eddy Santoso Wijaya|Minutasi
+427|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|8/Pdt.G.S/2019/PN Sby|01/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Ismi Ratnaningtyas|Minutasi
+428|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|9/Pdt.G.S/2019/PN Sby|01/31/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Mulyosari|Muhammad Khotib|Minutasi
+429|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|90/Pdt.G/2019/PN Sby|01/31/2019 00:00:00|Wanprestasi|Alexander Hendarmin Muljono|Haji Masrokin|Pemberitahuan Putus Kasasi
+430|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|91/Pdt.G/2019/PN Sby|01/31/2019 00:00:00|Wanprestasi|PT Patra Trading diwaliki Direktur Utamanya Adi Haryono|Mochammad Jasin Direktur CV Putra Samudra Indah|Pengiriman Berkas Kasasi
+431|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|91/Pdt.G/2019/PN Sby|01/31/2019 00:00:00|Wanprestasi|PT Patra Trading diwaliki Direktur Utamanya Adi Haryono|Mukhammad Aunnurrofiq Wakil Direktur CV Putra Samudra Indah|Pengiriman Berkas Kasasi
+432|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|91/Pdt.G/2019/PN Sby|01/31/2019 00:00:00|Wanprestasi|PT Patra Trading diwaliki Direktur Utamanya Adi Haryono|Suhartuti|Pengiriman Berkas Kasasi
+433|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|109/Pdt.G/2019/PN Sby|02/06/2019 00:00:00|Wanprestasi|Disamarkan|Disamarkan|Pengiriman Berkas Kasasi
+434|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|114/Pdt.G/2019/PN Sby|02/07/2019 00:00:00|Wanprestasi|Bambang Sutejo|Soegianto Lieonard|Minutasi
+435|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|131/Pdt.G/2019/PN Sby|02/12/2019 00:00:00|Wanprestasi|Yasmin|Ahmad Salman|Minutasi
+436|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|141/Pdt.G/2019/PN Sby|02/13/2019 00:00:00|Wanprestasi|Agus Santoso|William Santosa|Minutasi
+437|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|145/Pdt.G/2019/PN Sby|02/14/2019 00:00:00|Wanprestasi|PT Tripalindo Trans Mix diwakili direkturnya Setiono Limantono|Effendi Rupiawan|Minutasi
+438|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|146/Pdt.G/2019/PN Sby|02/14/2019 00:00:00|Wanprestasi|Santoso|Tan Jany|Minutasi
+439|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|146/Pdt.G/2019/PN Sby|02/14/2019 00:00:00|Wanprestasi|Santoso|Kuriono|Minutasi
+440|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|159/Pdt.G/2019/PN Sby|02/18/2019 00:00:00|Wanprestasi|Sunarmi|Sandi Bin Rusnan|Minutasi
+441|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|169/Pdt.G/2019/PN Sby|02/20/2019 00:00:00|Wanprestasi|Willy Lim|Biarton alias Braiton alias Brianton|Minutasi
+442|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|169/Pdt.G/2019/PN Sby|02/20/2019 00:00:00|Wanprestasi|Willy Lim|Henry Satria|Minutasi
+443|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|181/Pdt.G/2019/PN Sby|02/22/2019 00:00:00|Wanprestasi|Imam Subandhi Mascan|Tri Waluyo|Pengiriman Berkas Kasasi
+444|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|195/Pdt.G/2019/PN Sby|02/26/2019 00:00:00|Wanprestasi|Gondo Soebedjo|Soehardjo Gondo|Minutasi
+445|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|199/Pdt.G/2019/PN Sby|02/27/2019 00:00:00|Wanprestasi|Risawattie, SE, MAk|Muhammad Umar|Minutasi
+446|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|199/Pdt.G/2019/PN Sby|02/27/2019 00:00:00|Wanprestasi|Risawattie, SE, MAk|Rizia Dewi Wulansari|Minutasi
+447|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|10/Pdt.G.S/2019/PN Sby|02/28/2019 00:00:00|Wanprestasi|PT BRI Cabang Surabaya Diponegoro|Sutiyam|Minutasi
+448|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|212/Pdt.G/2019/PN Sby|03/01/2019 00:00:00|Wanprestasi|Mohammad Nur Cahyono|Induk Koperasi Karyawan Kereta Api|Minutasi
+449|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|229/Pdt.G/2019/PN Sby|03/05/2019 00:00:00|Wanprestasi|Sukadi, BC HK|Abdul Wachid|Minutasi
+450|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|231/Pdt.G/2019/PN Sby|03/06/2019 00:00:00|Wanprestasi|PT Grande Family View|Hermanto Gunawan|Pengiriman Berkas Kasasi
+451|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|232/Pdt.G/2019/PN Sby|03/06/2019 00:00:00|Wanprestasi|H Moh Dawam, SH|H Rifan|Pemberitahuan Putusan Banding
+452|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|238/Pdt.G/2019/PN Sby|03/08/2019 00:00:00|Wanprestasi|Njono Budiono|Roy Eka Putra|Pengiriman Berkas Kasasi
+453|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|241/Pdt.G/2019/PN Sby|03/11/2019 00:00:00|Wanprestasi|Marlia Rezki Utami|Kartika Ratna Kusuma|Pencabutan Perkara Banding
+454|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|241/Pdt.G/2019/PN Sby|03/11/2019 00:00:00|Wanprestasi|Marlia Rezki Utami|Sri Mulyono|Pencabutan Perkara Banding
+455|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|243/Pdt.G/2019/PN Sby|03/11/2019 00:00:00|Wanprestasi|Gondo Soebedjo|Soehardjo Gondo|Minutasi
+456|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Harjono Tejo|PT Tlatah Gema Anugerah|Minutasi
+457|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Harjono Tejo|PT TLATAH GEMA ANUGRAH|Minutasi
+458|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Merliana Goey|PT Tlatah Gema Anugerah|Minutasi
+459|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Merliana Goey|PT TLATAH GEMA ANUGRAH|Minutasi
+460|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Monica|PT Tlatah Gema Anugerah|Minutasi
+461|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Monica|PT TLATAH GEMA ANUGRAH|Minutasi
+462|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Yoewono Tedjo|PT Tlatah Gema Anugerah|Minutasi
+463|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Yoewono Tedjo|PT TLATAH GEMA ANUGRAH|Minutasi
+464|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Frenddy Agustan|PT Tlatah Gema Anugerah|Minutasi
+465|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Frenddy Agustan|PT TLATAH GEMA ANUGRAH|Minutasi
+466|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Wyman Prayugo, ST|PT Tlatah Gema Anugerah|Minutasi
+467|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Wyman Prayugo, ST|PT TLATAH GEMA ANUGRAH|Minutasi
+468|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Pang Wiyono Pangestoe|PT Tlatah Gema Anugerah|Minutasi
+469|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Pang Wiyono Pangestoe|PT TLATAH GEMA ANUGRAH|Minutasi
+470|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|FREDDY AGUSTAN|PT Tlatah Gema Anugerah|Minutasi
+471|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|249/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|FREDDY AGUSTAN|PT TLATAH GEMA ANUGRAH|Minutasi
+472|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Koperasi Serba Usaha Sentral Makmur|Prasetiawan|Minutasi
+473|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Koperasi Serba Usaha Sentral Makmur|Boaz Gunawan|Minutasi
+474|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Koperasi Serba Usaha Sentral Makmur|PT SALIM IVOMAS PRATAMA Tbk|Minutasi
+475|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|Koperasi Serba Usaha Sentral Makmur|BADAN PENYELENGGARA JAMINAN SOSIAL KETENAGAKERJAAN KANTOR CABANG SURABAYA TANJUNG PERAK|Minutasi
+476|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|KOPERASI SENTRAL MAKMUR|Prasetiawan|Minutasi
+477|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|KOPERASI SENTRAL MAKMUR|Boaz Gunawan|Minutasi
+478|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|KOPERASI SENTRAL MAKMUR|PT SALIM IVOMAS PRATAMA Tbk|Minutasi
+479|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|250/Pdt.G/2019/PN Sby|03/12/2019 00:00:00|Wanprestasi|KOPERASI SENTRAL MAKMUR|BADAN PENYELENGGARA JAMINAN SOSIAL KETENAGAKERJAAN KANTOR CABANG SURABAYA TANJUNG PERAK|Minutasi
+480|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|256/Pdt.G/2019/PN Sby|03/13/2019 00:00:00|Wanprestasi|Abdullah Muchibuddin Direktur Utama PT Puspa Agro|Satuan Kerja Pengadaan Bulog Subdivre Surabaya Selatan|Penerimaan Kontra Memori Banding
+481|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|256/Pdt.G/2019/PN Sby|03/13/2019 00:00:00|Wanprestasi|Abdullah Muchibuddin Direktur Utama PT Puspa Agro|Bulog Sub Divisi Regional Surabaya Selatan|Penerimaan Kontra Memori Banding
+482|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|256/Pdt.G/2019/PN Sby|03/13/2019 00:00:00|Wanprestasi|Abdullah Muchibuddin Direktur Utama PT Puspa Agro|Bulog Divisi Regional Jawa Timur|Penerimaan Kontra Memori Banding
+483|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|256/Pdt.G/2019/PN Sby|03/13/2019 00:00:00|Wanprestasi|Abdullah Muchibuddin Direktur Utama PT Puspa Agro|Perum Bulog|Penerimaan Kontra Memori Banding
+484|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|262/Pdt.G/2019/PN Sby|03/14/2019 00:00:00|Wanprestasi|Paulus Kurniawan|Jimmy Wijaya Santoso|Permohonan Eksekusi
+485|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|262/Pdt.G/2019/PN Sby|03/14/2019 00:00:00|Wanprestasi|Paulus Kurniawan|PT Bank Permata Tbk Cabang Panglima Sudirman Surabaya|Permohonan Eksekusi
+486|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G.S/2019/PN Sby|03/20/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Jemursari|Mistuti|Minutasi
+487|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|12/Pdt.G.S/2019/PN Sby|03/20/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Jemursari|Dwi Wiyanti|Minutasi
+488|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|281/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Eneco Holding Inc diwakili Presiden Direktur Yasuhiro Yamamoto|PT Solusi Bumi Lestari|Penerimaan Memori Kasasi
+489|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|281/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Eneco Holding Inc diwakili Presiden Direktur Yasuhiro Yamamoto|PT Eneco Teknologi Energi Indonesia|Penerimaan Memori Kasasi
+490|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|281/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Mr YASUHIRO YAMAMOTO|PT Solusi Bumi Lestari|Penerimaan Memori Kasasi
+491|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|281/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Mr YASUHIRO YAMAMOTO|PT Eneco Teknologi Energi Indonesia|Penerimaan Memori Kasasi
+492|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|286/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|M Machru Rozi|Ir Djoko Wahjudiono|Pengiriman Berkas PK
+493|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|286/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|M Machru Rozi|Hajjah Umi Habibah|Pengiriman Berkas PK
+494|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|286/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|M Machru Rozi|Dedi Wijaya, SH, MKn|Pengiriman Berkas PK
+495|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|287/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Handoko|Kepala Kantor Pertanahan Kota Surabaya I|Pemberitahuan Putusan Banding
+496|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|287/Pdt.G/2019/PN Sby|03/21/2019 00:00:00|Wanprestasi|Handoko|Kepala Kelurahan Siwalankerto|Pemberitahuan Putusan Banding
+497|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|13/Pdt.G.S/2019/PN Sby|03/22/2019 00:00:00|Wanprestasi|PT BRI Surabaya Cabang HR Muhammad|Puji Mulyono|Minutasi
+498|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|13/Pdt.G.S/2019/PN Sby|03/22/2019 00:00:00|Wanprestasi|PT BRI Surabaya Cabang HR Muhammad|Poniyati|Minutasi
+499|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|14/Pdt.G.S/2019/PN Sby|03/22/2019 00:00:00|Wanprestasi|PT BRI Surabaya Cabang HR Muhammad|EKO IRAWAN|Minutasi
+500|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|14/Pdt.G.S/2019/PN Sby|03/22/2019 00:00:00|Wanprestasi|PT BRI Surabaya Cabang HR Muhammad|SUWARNI|Minutasi
+501|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|15/Pdt.G.S/2019/PN Sby|03/26/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Moch Ali Ariyadi A|Minutasi
+502|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|15/Pdt.G.S/2019/PN Sby|03/26/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia, Persero, Tbk Cabang Surabaya Manukan|Sri Kayati|Minutasi
+503|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|16/Pdt.G.S/2019/PN Sby|03/26/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Moh Nasir|Minutasi
+504|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|17/Pdt.G.S/2019/PN Sby|03/26/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Surabaya Rajawali|Kasijati|Minutasi
+505|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|18/Pdt.G.S/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang HR Muhammad|Titik Rahayu|Minutasi
+506|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Made Ari Prawira|Minutasi
+507|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Made Movi Candra Martini|Minutasi
+508|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Lindawati|Minutasi
+509|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Muhammad Lukman|Minutasi
+510|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Andrew Christian Howard|Minutasi
+511|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|Sicilia alias Sisil|Minutasi
+512|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|SICILIA|Minutasi
+513|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|303/Pdt.G/2019/PN Sby|03/27/2019 00:00:00|Wanprestasi|Houry Widodo|NURHAYATI, SH, MKN|Minutasi
+514|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|309/Pdt.G/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|Tedy Sugito, The|The Edward Thendean|Pemberitahuan Putusan Banding
+515|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|309/Pdt.G/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|Tedy Sugito, The|PT ISA MANDIRI LINES|Pemberitahuan Putusan Banding
+516|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|19/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Linda|Minutasi
+517|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|20/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Nophianto Agung Pamungkas|Minutasi
+518|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|21/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Diponegoro|Parsono|Minutasi
+519|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|22/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Tbk Cabang Kusuma Bangsa Surabaya|Nur Wachidah|Minutasi
+520|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|22/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Tbk Cabang Kusuma Bangsa Surabaya|Antung Paudjiah|Minutasi
+521|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|23/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|H Kasan|Minutasi
+522|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|23/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Surabaya Cabang Kusuma Bangsa|Hj Mutik Anik|Minutasi
+523|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|24/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Kertajaya|Syamsul Hadi|Minutasi
+524|PENGADILAN NEGERI SURABAYA|https://sipp.pn-surabayakota.go.id/|24/Pdt.G.S/2019/PN Sby|03/28/2019 00:00:00|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Cabang Surabaya Kertajaya|Srianah|Minutasi
+525|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|08/27/2018 00:00:00|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
+526|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Eka Lazuardi Tirtha, SH|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+527|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|141/Pdt.G/2018/PN Nga|08/30/2018 00:00:00|Wanprestasi|Puji Astuti|Wiwik Indrawati Binti Haji Nurkholis|Pemberitahuan Putusan Banding
+528|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Artawan|Minutasi
+529|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Made Lisa Hariyani|Minutasi
+530|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ida Bagus Putu Purwadi|Minutasi
+531|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Fanny Veramon|Minutasi
+532|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gusti Ketut Sudantra|Minutasi
+533|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Nyoman Noriani|Minutasi
+534|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Sayu Putu Novi Primadani|Minutasi
+535|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Putu Agus Santika|Minutasi
+536|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2018/PN Nga|09/03/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Nyoman Sudiarsa|Minutasi
+537|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Nyoman Torni|Minutasi
+538|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Gede Suarna|Minutasi
+539|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Komang Merta Yasa|Minutasi
+540|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|10/Pdt.G.S/2018/PN Nga|09/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni Komang Tria andriani|Minutasi
+541|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|148/Pdt.G/2018/PN Nga|09/14/2018 00:00:00|Wanprestasi|Ni Ketut Ningsih|I Nyoman Sumarja|Permohonan Eksekusi
+542|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|11/Pdt.G.S/2018/PN Nga|09/25/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+543|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Zulkipli|Minutasi
+544|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|12/Pdt.G.S/2018/PN Nga|09/27/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Yuliati|Minutasi
+545|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|159/Pdt.G/2018/PN Nga|09/28/2018 00:00:00|Wanprestasi|I KETUT SUTAMA|I NENGAH LOKEN|Minutasi
+546|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|I Ketut Suastika|Minutasi
+547|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|14/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Ni ketut Sukerni|Minutasi
+548|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Miswati|Minutasi
+549|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|13/Pdt.G.S/2018/PN Nga|10/04/2018 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG NEGARA|Anang Supomo|Minutasi
+550|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|I NENGAH LADRA|Minutasi
+551|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|181/Pdt.G/2018/PN Nga|11/12/2018 00:00:00|Wanprestasi|I WAYAN MUTREM|NI WAYAN KENENG|Minutasi
+552|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Minutasi
+553|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|15/Pdt.G.S/2018/PN Nga|12/10/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Minutasi
+554|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|MAHARI|Pemberitahuan Putus Kasasi
+555|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|209/Pdt.G/2018/PN Nga|12/13/2018 00:00:00|Wanprestasi|NI LUH SRI ARTINI|NURMIATI|Pemberitahuan Putus Kasasi
+556|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|NI MADE SUMIASIH|Minutasi
+557|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2019/PN Nga|05/09/2019 00:00:00|Wanprestasi|PT BANK RAKYAT INDONESIA CABANG NEGARA|I GUSTI KOMANG OKA|Minutasi
+558|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|I Nengah Muliarsa|Minutasi
+559|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|2/Pdt.G.S/2019/PN Nga|05/21/2019 00:00:00|Wanprestasi|PTBPR Nusamba Kubutambahan|Fitria|Minutasi
+560|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|TAN HENDRA BIRAWAN|Pemberitahuan Putusan Banding
+561|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|108/Pdt.G/2019/PN Nga|06/26/2019 00:00:00|Wanprestasi|LEE SEUNGHEON|ERNAWATY|Pemberitahuan Putusan Banding
+562|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|I PUTU ARDANA|Minutasi
+563|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2019/PN Nga|07/17/2019 00:00:00|Wanprestasi|PT SARANA BALI VENTURA CABANG NEGARA|NI MADE SENI WATI|Minutasi
+564|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2019/PN Nga|09/26/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+565|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+566|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|8/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+567|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Nasihin|Minutasi
+568|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|6/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT BANK PERKREDITAN RAKYAT NUSAMBA KUBUTAMBAHAN CABANG NEGARA|Farida Ariani|Minutasi
+569|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I NENGAH SUGITA, KARYA SEJATI|Minutasi
+570|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|7/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Made Arbawa|Minutasi
+571|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|9/Pdt.G.S/2019/PN Nga|10/17/2019 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|I Gusti Ayu Sri UtamiSAG|Minutasi
+572|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|Agus Ciawan atau disebut juga I Gede Agus Ciawan|Minutasi
+573|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|236/Pdt.G/2019/PN Nga|12/04/2019 00:00:00|Wanprestasi|I Nyoman Tendra|I Gusti Komang Agus Astawa|Minutasi
+574|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|I GUSTI PUTU PURNAYASA|Minutasi
+575|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2020/PN Nga|01/22/2020 00:00:00|Wanprestasi|PT SARANA BALI VENTURA KANTOR CABANG JEMBRANA|DEWA AYU PUTU SANDEWI|Minutasi
+576|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|53/Pdt.G/2020/PN Nga|03/16/2020 00:00:00|Wanprestasi|Ni Ketut Sariani|Suherman|Minutasi
+577|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|2/Pdt.G.S/2020/PN Nga|06/10/2020 00:00:00|Wanprestasi|I GUSTI AYU PUTU MULIANI|I NENGAH ARDANA|Minutasi
+578|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|134/Pdt.G/2020/PN Nga|08/31/2020 00:00:00|Wanprestasi|PT Bali Nusa Makmur|Jap Mei Fang|Pengiriman Berkas Kasasi
+579|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|136/Pdt.G/2020/PN Nga|09/02/2020 00:00:00|Wanprestasi|Novita Carolina Fernandez|I Gede Puriawan|Pengiriman Berkas Kasasi
+580|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARTA|Minutasi
+581|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|151/Pdt.G/2020/PN Nga|09/10/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARTA|Minutasi
+582|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASMUNI|Minutasi
+583|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|3/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|ASTUTIK|Minutasi
+584|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|KADEK ADI PRABHA ARKA|Minutasi
+585|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|4/Pdt.G.S/2020/PN Nga|09/22/2020 00:00:00|Wanprestasi|PT Bank Pembangunan Daerah Bali Kantor Cabang Negara|NI KOMANG AYU HARDIASTUTI|Minutasi
+586|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+587|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|5/Pdt.G.S/2020/PN Nga|10/05/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+588|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I KOMANG GEDE ASTIKA WIBAWA|I NENGAH SUKARATA|Minutasi
+589|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|171/Pdt.G/2020/PN Nga|10/09/2020 00:00:00|Wanprestasi|I MADE SUTAMA SETIAWAN|I NENGAH SUKARATA|Minutasi
+590|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|221/Pdt.G/2020/PN Nga|12/14/2020 00:00:00|Wanprestasi|I Kadek Pardana|I Wayan Diarsa|Minutasi
+591|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|223/Pdt.G/2020/PN Nga|12/15/2020 00:00:00|Wanprestasi|Muhammad Rifai ST|Mohamad Anwar alias H Mohamad Anwar|Minutasi
+592|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA MADE KOMPIANG WIRAWAN|Minutasi
+593|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|1/Pdt.G.S/2021/PN Nga|07/02/2021 00:00:00|Wanprestasi|PT Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram|DEWA PUTU WASA|Minutasi
+594|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KOMANG SUARTAWAN alias KOMANG GAWAT|Persidangan
+595|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I NYOMAN SAMBA|Persidangan
+596|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|154/Pdt.G/2021/PN Nga|07/15/2021 00:00:00|Wanprestasi|I MADE KARYA|I KETUT SUASA|Persidangan
