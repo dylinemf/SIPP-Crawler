@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1439.2,2660</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1480.8,2661.6</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>TestParallel_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="32">
@@ -81,7 +81,7 @@
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="1449.6,2495.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="1491.2,2496.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt" />
       <Variable x:TypeArguments="x:Int32" Name="counter_parallel" />
@@ -96,7 +96,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Assign sap2010:Annotation.AnnotationText="Jumlah paralel proses yang dijalankan saat sekali jalan" DisplayName="Assign jumlah batch link" sap:VirtualizedContainerService.HintSize="1408,104" sap2010:WorkflowViewState.IdRef="Assign_2">
+    <Assign sap2010:Annotation.AnnotationText="Jumlah paralel proses yang dijalankan saat sekali jalan" DisplayName="Assign jumlah batch link" sap:VirtualizedContainerService.HintSize="1449.6,104" sap2010:WorkflowViewState.IdRef="Assign_2">
       <Assign.To>
         <OutArgument x:TypeArguments="x:Int32">[bagi]</OutArgument>
       </Assign.To>
@@ -109,20 +109,20 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </Assign>
-    <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="1408,2165.6" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" StartAt="0">
+    <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="1449.6,2167.2" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" StartAt="0">
       <ui:RepeatNumberOfTimesX.Body>
         <ActivityAction x:TypeArguments="x:Int32">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentItem" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1374.4,2007.2" sap2010:WorkflowViewState.IdRef="Sequence_6">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1416,2008" sap2010:WorkflowViewState.IdRef="Sequence_6">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <If Condition="[CurrentItem+1 &lt; Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" sap:VirtualizedContainerService.HintSize="1332.8,1712" sap2010:WorkflowViewState.IdRef="If_2">
+            <If Condition="[CurrentItem+1 &lt; Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" sap:VirtualizedContainerService.HintSize="1374.4,1712.8" sap2010:WorkflowViewState.IdRef="If_2">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -130,13 +130,13 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <If.Then>
-                <Sequence sap:VirtualizedContainerService.HintSize="424.8,399.2" sap2010:WorkflowViewState.IdRef="Sequence_12">
+                <Sequence sap:VirtualizedContainerService.HintSize="466.4,492" sap2010:WorkflowViewState.IdRef="Sequence_12">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ParallelForEach x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="tambahin skip untuk try catch&#xD;&#xA;" DisplayName="Parallel For Each" sap:VirtualizedContainerService.HintSize="383.2,306.4" sap2010:WorkflowViewState.IdRef="ParallelForEach`1_2" Values="[list_link_pn.GetRange((1+(CurrentItem*bagi)),bagi).ToList]">
+                  <ParallelForEach x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="tambahin skip untuk try catch&#xA;" DisplayName="Parallel For Each" sap:VirtualizedContainerService.HintSize="424.8,399.2" sap2010:WorkflowViewState.IdRef="ParallelForEach`1_2" Values="[list_link_pn.GetRange((1+(CurrentItem*bagi)),bagi).ToList]">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
@@ -146,22 +146,25 @@
                       <ActivityAction.Argument>
                         <DelegateInArgument x:TypeArguments="x:String" Name="link_pn1" />
                       </ActivityAction.Argument>
-                      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke ScrapingSIPP workflow" sap:VirtualizedContainerService.HintSize="333.6,113.6" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="ScrapingSIPP.xaml">
-                        <ui:InvokeWorkflowFile.Arguments>
-                          <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                            <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn1" />
-                          </InArgument>
-                          <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">
-                            <mva:VisualBasicValue x:TypeArguments="sd:DataTable" ExpressionText="in_jenis_perkara" />
-                          </InArgument>
-                        </ui:InvokeWorkflowFile.Arguments>
-                      </ui:InvokeWorkflowFile>
+                      <Sequence sap:VirtualizedContainerService.HintSize="375.2,206.4" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke ScrapingSIPP workflow" sap:VirtualizedContainerService.HintSize="333.6,113.6" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="ScrapingSIPP.xaml">
+                          <ui:InvokeWorkflowFile.Arguments>
+                            <InArgument x:TypeArguments="x:String" x:Key="in_link">[link_pn1]</InArgument>
+                            <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">[in_jenis_perkara]</InArgument>
+                          </ui:InvokeWorkflowFile.Arguments>
+                        </ui:InvokeWorkflowFile>
+                      </Sequence>
                     </ActivityAction>
                   </ParallelForEach>
                 </Sequence>
               </If.Then>
               <If.Else>
-                <Sequence sap:VirtualizedContainerService.HintSize="864,1552.8" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                <Sequence sap:VirtualizedContainerService.HintSize="864,1553.6" sap2010:WorkflowViewState.IdRef="Sequence_11">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -175,7 +178,7 @@
                       <InArgument x:TypeArguments="x:Int32">0</InArgument>
                     </Assign.Value>
                   </Assign>
-                  <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="822.4,1360" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_2" NumberOfTimes="[bagi]" StartAt="1">
+                  <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="822.4,1360.8" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_2" NumberOfTimes="[bagi]" StartAt="1">
                     <ui:RepeatNumberOfTimesX.Body>
                       <ActivityAction x:TypeArguments="x:Int32">
                         <ActivityAction.Argument>
@@ -216,12 +219,8 @@
                                           </ActivityAction.Argument>
                                           <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke ScrapingSIPP workflow" sap:VirtualizedContainerService.HintSize="333.6,113.6" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="ScrapingSIPP.xaml">
                                             <ui:InvokeWorkflowFile.Arguments>
-                                              <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                                                <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn2" />
-                                              </InArgument>
-                                              <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">
-                                                <mva:VisualBasicValue x:TypeArguments="sd:DataTable" ExpressionText="in_jenis_perkara" />
-                                              </InArgument>
+                                              <InArgument x:TypeArguments="x:String" x:Key="in_link">[link_pn2]</InArgument>
+                                              <InArgument x:TypeArguments="sd:DataTable" x:Key="in_jenis_perkara">[in_jenis_perkara]</InArgument>
                                             </ui:InvokeWorkflowFile.Arguments>
                                           </ui:InvokeWorkflowFile>
                                         </ActivityAction>
