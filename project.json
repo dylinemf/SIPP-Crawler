@@ -4,16 +4,25 @@
   "main": "Main.xaml",
   "dependencies": {
     "Auxiliobits.UtilityExcelToDictionary.Activities": "[1.2.3]",
+    "ChangeColumnDatatype.Activities": "[1.0.1]",
     "Microsoft.Activities": "[1.0.1]",
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "SFTP.Activities": "[2.0.0]",
+    "UiPath.DataService.Activities": "[21.6.1]",
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
     "UiPath.System.Activities": "[21.6.1-preview]",
     "UiPath.UIAutomation.Activities": "[21.4.4]"
   },
   "webServices": [],
-  "entitiesStores": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "tenantName": "DefaultTenant",
+      "namespace": "coba_link_sipp",
+      "uniqueReference": "TPBR0eaKiTDYKhqxv3cyi6IbNPCBeBAzDb542Drfgw4="
+    }
+  ],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
   "projectVersion": "1.0.0",
