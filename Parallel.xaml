@@ -1,16 +1,15 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="TestParallel" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:c="clr-namespace:coba_link_sipp;assembly=DataService.coba_link_sipp" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="TestParallel" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:c="clr-namespace:coba_link_sipp;assembly=DataService.coba_link_sipp" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
-    <x:Property Name="in_link_pn" Type="InArgument(scg:List(x:String))" />
+    <x:Property Name="in_link_pn" Type="InArgument(scg:IList(c:LinkWebSIPP))" />
     <x:Property Name="in_jenis_perkara" Type="InArgument(scg:IList(c:KlasifikasiPerkara))" />
-    <x:Property Name="ScrapingDT" Type="OutArgument(sd:DataTable)" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>2290,2999</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>824,950.4</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>TestParallel_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="34">
+    <scg:List x:TypeArguments="x:String" Capacity="64">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System.Activities.Expressions</x:String>
@@ -48,7 +47,7 @@
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <scg:List x:TypeArguments="AssemblyReference" Capacity="35">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="64">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -83,31 +82,27 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
       <AssemblyReference>DataService.coba_link_sipp</AssemblyReference>
       <AssemblyReference>UiPath.DataService.Definition</AssemblyReference>
+      <AssemblyReference>System.Collections.Immutable</AssemblyReference>
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="2300,2834" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="475.2,885.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
-      <Variable x:TypeArguments="sd:DataTable" Name="dt" />
-      <Variable x:TypeArguments="x:Int32" Name="counter_parallel" />
       <Variable x:TypeArguments="x:Int32" Name="bagi" />
-      <Variable x:TypeArguments="scg:List(x:String)" Default="[in_link_pn]" Name="list_link_pn" />
-      <Variable x:TypeArguments="x:Int32" Name="counter" />
-      <Variable x:TypeArguments="scg:List(x:String)" Default="[new List(Of String)]" Name="temp_dt" />
-      <Variable x:TypeArguments="x:Int32" Name="hit_tempdt" />
-      <Variable x:TypeArguments="x:String" Name="quick_scrap" />
+      <Variable x:TypeArguments="scg:IList(c:LinkWebSIPP)" Default="[in_link_pn]" Name="list_link_pn" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsPinned">False</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Assign sap2010:Annotation.AnnotationText="Jumlah paralel proses yang dijalankan saat sekali jalan" DisplayName="Assign jumlah batch link" sap:VirtualizedContainerService.HintSize="2258,104" sap2010:WorkflowViewState.IdRef="Assign_2">
+    <Assign sap2010:Annotation.AnnotationText="Jumlah paralel proses yang dijalankan saat sekali jalan" DisplayName="Assign jumlah batch link" sap:VirtualizedContainerService.HintSize="433.6,104" sap2010:WorkflowViewState.IdRef="Assign_2">
       <Assign.To>
         <OutArgument x:TypeArguments="x:Int32">[bagi]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">2</InArgument>
+        <InArgument x:TypeArguments="x:Int32">4</InArgument>
       </Assign.Value>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -115,252 +110,35 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </Assign>
-    <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="2258,2507" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" StartAt="0">
+    <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="433.6,556" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_1" NumberOfTimes="[Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" StartAt="0">
       <ui:RepeatNumberOfTimesX.Body>
         <ActivityAction x:TypeArguments="x:Int32">
           <ActivityAction.Argument>
-            <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentItem" />
+            <DelegateInArgument x:TypeArguments="x:Int32" Name="counter" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="2224,2349" sap2010:WorkflowViewState.IdRef="Sequence_6">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="362.4,396.8" sap2010:WorkflowViewState.IdRef="Sequence_6">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Assign sap:VirtualizedContainerService.HintSize="2182,60" sap2010:WorkflowViewState.IdRef="Assign_9">
-              <Assign.To>
-                <OutArgument x:TypeArguments="x:String">[quick_scrap]</OutArgument>
-              </Assign.To>
-              <Assign.Value>
-                <InArgument x:TypeArguments="x:String">y</InArgument>
-              </Assign.Value>
-            </Assign>
-            <If Condition="[CurrentItem+1 &lt; Convert.ToInt32(Math.Ceiling(list_link_pn.Count/bagi))]" sap:VirtualizedContainerService.HintSize="2182,1956" sap2010:WorkflowViewState.IdRef="If_2">
-              <sap:WorkflowViewStateService.ViewState>
-                <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                </scg:Dictionary>
-              </sap:WorkflowViewStateService.ViewState>
-              <If.Then>
-                <Sequence sap:VirtualizedContainerService.HintSize="847,648" sap2010:WorkflowViewState.IdRef="Sequence_12">
+            <ParallelForEach x:TypeArguments="c:LinkWebSIPP" DisplayName="Parallel For Each" sap:VirtualizedContainerService.HintSize="320.8,304" sap2010:WorkflowViewState.IdRef="ParallelForEach`1_4" Values="[list_link_pn.Skip(counter*bagi).Take(bagi)]">
+              <ActivityAction x:TypeArguments="c:LinkWebSIPP">
+                <ActivityAction.Argument>
+                  <DelegateInArgument x:TypeArguments="c:LinkWebSIPP" Name="link_pn" />
+                </ActivityAction.Argument>
+                <Sequence sap:VirtualizedContainerService.HintSize="271.2,155.2" sap2010:WorkflowViewState.IdRef="Sequence_13">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <ParallelForEach x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="tambahin skip untuk try catch&#xA;" DisplayName="Parallel For Each" sap:VirtualizedContainerService.HintSize="805,556" sap2010:WorkflowViewState.IdRef="ParallelForEach`1_2" Values="[list_link_pn.GetRange((1+(CurrentItem*bagi)),bagi).ToList]">
-                    <sap:WorkflowViewStateService.ViewState>
-                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                      </scg:Dictionary>
-                    </sap:WorkflowViewStateService.ViewState>
-                    <ActivityAction x:TypeArguments="x:String">
-                      <ActivityAction.Argument>
-                        <DelegateInArgument x:TypeArguments="x:String" Name="link_pn1" />
-                      </ActivityAction.Argument>
-                      <Sequence sap:VirtualizedContainerService.HintSize="755,364" sap2010:WorkflowViewState.IdRef="Sequence_13">
-                        <sap:WorkflowViewStateService.ViewState>
-                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                          </scg:Dictionary>
-                        </sap:WorkflowViewStateService.ViewState>
-                        <If Condition="[quick_scrap is &quot;y&quot;]" sap:VirtualizedContainerService.HintSize="713,272" sap2010:WorkflowViewState.IdRef="If_4">
-                          <If.Then>
-                            <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke DailyScraping workflow" sap:VirtualizedContainerService.HintSize="334,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_3" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="DailyScraping.xaml">
-                              <ui:InvokeWorkflowFile.Arguments>
-                                <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                                  <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn1" />
-                                </InArgument>
-                                <OutArgument x:TypeArguments="sd:DataTable" x:Key="filteredDT">
-                                  <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="ScrapingDT" />
-                                </OutArgument>
-                                <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">
-                                  <mva:VisualBasicValue x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" ExpressionText="in_jenis_perkara" />
-                                </InArgument>
-                              </ui:InvokeWorkflowFile.Arguments>
-                            </ui:InvokeWorkflowFile>
-                          </If.Then>
-                          <If.Else>
-                            <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke ScrapingSIPP workflow" sap:VirtualizedContainerService.HintSize="334,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="ScrapingSIPP.xaml">
-                              <ui:InvokeWorkflowFile.Arguments>
-                                <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                                  <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn1" />
-                                </InArgument>
-                                <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">
-                                  <mva:VisualBasicValue x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" ExpressionText="in_jenis_perkara" />
-                                </InArgument>
-                                <OutArgument x:TypeArguments="sd:DataTable" x:Key="filteredDT">
-                                  <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="ScrapingDT" />
-                                </OutArgument>
-                              </ui:InvokeWorkflowFile.Arguments>
-                            </ui:InvokeWorkflowFile>
-                          </If.Else>
-                        </If>
-                      </Sequence>
-                    </ActivityAction>
-                  </ParallelForEach>
+                  <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="229.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_6" Text="[link_pn.NamaPN]" />
                 </Sequence>
-              </If.Then>
-              <If.Else>
-                <Sequence sap:VirtualizedContainerService.HintSize="1290,1797" sap2010:WorkflowViewState.IdRef="Sequence_11">
-                  <sap:WorkflowViewStateService.ViewState>
-                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                    </scg:Dictionary>
-                  </sap:WorkflowViewStateService.ViewState>
-                  <Assign sap:VirtualizedContainerService.HintSize="1248,60" sap2010:WorkflowViewState.IdRef="Assign_8">
-                    <Assign.To>
-                      <OutArgument x:TypeArguments="x:Int32">[hit_tempdt]</OutArgument>
-                    </Assign.To>
-                    <Assign.Value>
-                      <InArgument x:TypeArguments="x:Int32">0</InArgument>
-                    </Assign.Value>
-                  </Assign>
-                  <ui:RepeatNumberOfTimesX DisplayName="Repeat Number of Times" sap:VirtualizedContainerService.HintSize="1248,1605" sap2010:WorkflowViewState.IdRef="RepeatNumberOfTimesX_2" NumberOfTimes="[bagi]" StartAt="1">
-                    <ui:RepeatNumberOfTimesX.Body>
-                      <ActivityAction x:TypeArguments="x:Int32">
-                        <ActivityAction.Argument>
-                          <DelegateInArgument x:TypeArguments="x:Int32" Name="item" />
-                        </ActivityAction.Argument>
-                        <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1214,1447" sap2010:WorkflowViewState.IdRef="Sequence_8">
-                          <sap:WorkflowViewStateService.ViewState>
-                            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                            </scg:Dictionary>
-                          </sap:WorkflowViewStateService.ViewState>
-                          <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1172,1355" sap2010:WorkflowViewState.IdRef="TryCatch_3">
-                            <TryCatch.Try>
-                              <Sequence sap:VirtualizedContainerService.HintSize="1134,1124" sap2010:WorkflowViewState.IdRef="Sequence_9">
-                                <sap:WorkflowViewStateService.ViewState>
-                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                  </scg:Dictionary>
-                                </sap:WorkflowViewStateService.ViewState>
-                                <If Condition="[hit_tempdt &lt;&gt; 1]" sap:VirtualizedContainerService.HintSize="1092,1032" sap2010:WorkflowViewState.IdRef="If_3">
-                                  <If.Then>
-                                    <Sequence sap:VirtualizedContainerService.HintSize="847,873" sap2010:WorkflowViewState.IdRef="Sequence_10">
-                                      <sap:WorkflowViewStateService.ViewState>
-                                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                                        </scg:Dictionary>
-                                      </sap:WorkflowViewStateService.ViewState>
-                                      <ParallelForEach x:TypeArguments="x:String" sap2010:Annotation.AnnotationText="tambahin skip untukk try catch" DisplayName="Parallel For Each" sap:VirtualizedContainerService.HintSize="805,543" sap2010:WorkflowViewState.IdRef="ParallelForEach`1_3" Values="[list_link_pn.GetRange((1+(CurrentItem*bagi)),(bagi-item)).ToList]">
-                                        <sap:WorkflowViewStateService.ViewState>
-                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
-                                          </scg:Dictionary>
-                                        </sap:WorkflowViewStateService.ViewState>
-                                        <ActivityAction x:TypeArguments="x:String">
-                                          <ActivityAction.Argument>
-                                            <DelegateInArgument x:TypeArguments="x:String" Name="link_pn2" />
-                                          </ActivityAction.Argument>
-                                          <Sequence sap:VirtualizedContainerService.HintSize="755,364" sap2010:WorkflowViewState.IdRef="Sequence_14">
-                                            <sap:WorkflowViewStateService.ViewState>
-                                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                              </scg:Dictionary>
-                                            </sap:WorkflowViewStateService.ViewState>
-                                            <If Condition="[quick_scrap is &quot;y&quot;]" sap:VirtualizedContainerService.HintSize="713,272" sap2010:WorkflowViewState.IdRef="If_5">
-                                              <If.Then>
-                                                <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke DailyScraping workflow" sap:VirtualizedContainerService.HintSize="334,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_4" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="DailyScraping.xaml">
-                                                  <ui:InvokeWorkflowFile.Arguments>
-                                                    <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                                                      <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn2" />
-                                                    </InArgument>
-                                                    <OutArgument x:TypeArguments="sd:DataTable" x:Key="filteredDT">
-                                                      <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="ScrapingDT" />
-                                                    </OutArgument>
-                                                    <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">
-                                                      <mva:VisualBasicValue x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" ExpressionText="in_jenis_perkara" />
-                                                    </InArgument>
-                                                  </ui:InvokeWorkflowFile.Arguments>
-                                                </ui:InvokeWorkflowFile>
-                                              </If.Then>
-                                              <If.Else>
-                                                <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke ScrapingSIPP workflow" sap:VirtualizedContainerService.HintSize="334,113" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="ScrapingSIPP.xaml">
-                                                  <ui:InvokeWorkflowFile.Arguments>
-                                                    <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                                                      <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn2" />
-                                                    </InArgument>
-                                                    <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">
-                                                      <mva:VisualBasicValue x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" ExpressionText="in_jenis_perkara" />
-                                                    </InArgument>
-                                                    <OutArgument x:TypeArguments="sd:DataTable" x:Key="filteredDT">
-                                                      <mva:VisualBasicReference x:TypeArguments="sd:DataTable" ExpressionText="ScrapingDT" />
-                                                    </OutArgument>
-                                                  </ui:InvokeWorkflowFile.Arguments>
-                                                </ui:InvokeWorkflowFile>
-                                              </If.Else>
-                                            </If>
-                                          </Sequence>
-                                        </ActivityAction>
-                                      </ParallelForEach>
-                                      <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="805,98" sap2010:WorkflowViewState.IdRef="MultipleAssign_5">
-                                        <ui:MultipleAssign.AssignOperations>
-                                          <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
-                                            <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_5">
-                                              <ui:AssignOperation.To>
-                                                <OutArgument x:TypeArguments="scg:List(x:String)">[temp_dt]</OutArgument>
-                                              </ui:AssignOperation.To>
-                                              <ui:AssignOperation.Value>
-                                                <InArgument x:TypeArguments="scg:List(x:String)">[list_link_pn.GetRange((1+(CurrentItem*bagi)),(bagi-item)).ToList]</InArgument>
-                                              </ui:AssignOperation.Value>
-                                            </ui:AssignOperation>
-                                          </scg:List>
-                                        </ui:MultipleAssign.AssignOperations>
-                                      </ui:MultipleAssign>
-                                      <Assign sap:VirtualizedContainerService.HintSize="805,60" sap2010:WorkflowViewState.IdRef="Assign_7">
-                                        <Assign.To>
-                                          <OutArgument x:TypeArguments="x:Int32">[hit_tempdt]</OutArgument>
-                                        </Assign.To>
-                                        <Assign.Value>
-                                          <InArgument x:TypeArguments="x:Int32">1</InArgument>
-                                        </Assign.Value>
-                                      </Assign>
-                                    </Sequence>
-                                  </If.Then>
-                                  <If.Else>
-                                    <ui:Break sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="Break_1" />
-                                  </If.Else>
-                                </If>
-                              </Sequence>
-                            </TryCatch.Try>
-                            <TryCatch.Catches>
-                              <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="717,21" sap2010:WorkflowViewState.IdRef="Catch`1_5">
-                                <sap:WorkflowViewStateService.ViewState>
-                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                                  </scg:Dictionary>
-                                </sap:WorkflowViewStateService.ViewState>
-                                <ActivityAction x:TypeArguments="s:Exception">
-                                  <ActivityAction.Argument>
-                                    <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
-                                  </ActivityAction.Argument>
-                                  <ui:Continue sap:VirtualizedContainerService.HintSize="200,22.4" sap2010:WorkflowViewState.IdRef="Continue_1" />
-                                </ActivityAction>
-                              </Catch>
-                            </TryCatch.Catches>
-                          </TryCatch>
-                        </Sequence>
-                      </ActivityAction>
-                    </ui:RepeatNumberOfTimesX.Body>
-                  </ui:RepeatNumberOfTimesX>
-                </Sequence>
-              </If.Else>
-            </If>
-            <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="1382,61" sap2010:WorkflowViewState.IdRef="WriteLine_5" Text="[string.Join(&quot;,&quot;,temp_dt.ToArray)]" />
-            <Assign sap:VirtualizedContainerService.HintSize="1382,60" sap2010:WorkflowViewState.IdRef="Assign_6">
-              <Assign.To>
-                <OutArgument x:TypeArguments="scg:List(x:String)">[temp_dt]</OutArgument>
-              </Assign.To>
-              <Assign.Value>
-                <InArgument x:TypeArguments="scg:List(x:String)">[new List(of String)]</InArgument>
-              </Assign.Value>
-            </Assign>
+              </ActivityAction>
+            </ParallelForEach>
           </Sequence>
         </ActivityAction>
       </ui:RepeatNumberOfTimesX.Body>
@@ -371,9 +149,9 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:RepeatNumberOfTimesX>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1458,51" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="433.6,52.8" sap2010:WorkflowViewState.IdRef="CommentOut_2">
       <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="200,83" sap2010:WorkflowViewState.IdRef="Sequence_4">
+        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="200,84.8" sap2010:WorkflowViewState.IdRef="Sequence_4">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
