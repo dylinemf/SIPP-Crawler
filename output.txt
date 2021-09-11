@@ -1,13 +1,24 @@
 ﻿No|Sumber_Data|Link_Web_PN|Nomor_Perkara|Tanggal_Register|Klasifikasi_Perkara|penggugat_pemohon_penuntut_umum|tergugat_termohon_terdakwa|Status_Perkara
 0|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|27/08/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-1|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-2|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|29/08/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-3|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|30/08/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-4|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|31/08/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-5|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|01/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-6|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|02/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-7|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|03/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-8|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|04/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-9|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|05/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-10|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|06/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
-11|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|07/09/2018|Wanprestasi|Ni Ketut Resik alias Ni Ketut Risek alias Ni Made Resik|I Putu Gita Prikusuma|Minutasi
+1|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Suko, SH, MH|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+2|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Suko, SH, MH|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+3|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Rodiyah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+4|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Rodiyah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+5|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Drs Mochamad Agus Irianto|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+6|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Drs Mochamad Agus Irianto|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+7|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Wildan Nurfahmi|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+8|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Wildan Nurfahmi|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+9|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Werda Elisa Dian Witra|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+10|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Werda Elisa Dian Witra|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+11|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Ummu Nihayah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+12|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Ummu Nihayah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+13|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Dra Rosyidah|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+14|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Dra Rosyidah|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+15|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Dessi Indri Rosmawati|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+16|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Dessi Indri Rosmawati|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+17|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Murniati|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+18|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Murniati|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+19|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Agus Setiyoutomo|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+20|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Agus Setiyoutomo|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
+21|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Sri Sunardi AH|PT Bumi Samudera Jedine selaku Developer Proyek Royal Afatar World|Minutasi
+22|PENGADILAN NEGERI NEGARA|https://sipp.pn-negara.go.id/|139/Pdt.G/2018/PN Nga|28/08/2018|Wanprestasi|Sri Sunardi AH|PT Sipoa Legacy Land ditulis juga PT Sipoa Group|Minutasi
