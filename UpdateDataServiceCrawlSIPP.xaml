@@ -5,10 +5,10 @@
   <this:UpdateDataServiceCrawlSIPP.op_dt>
     <InArgument x:TypeArguments="sd:DataTable" />
   </this:UpdateDataServiceCrawlSIPP.op_dt>
-  <sap:VirtualizedContainerService.HintSize>715,832</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>662,1343</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="32">
+    <scg:List x:TypeArguments="x:String" Capacity="58">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System</x:String>
@@ -38,10 +38,11 @@
       <x:String>System.Net.Mail</x:String>
       <x:String>Microsoft.VisualBasic</x:String>
       <x:String>UiPath.Core</x:String>
+      <x:String>System.Runtime.CompilerServices</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <scg:List x:TypeArguments="AssemblyReference" Capacity="64">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="37">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -78,54 +79,83 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
       <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Backup Monthly" sap:VirtualizedContainerService.HintSize="418,667" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Backup Monthly" sap:VirtualizedContainerService.HintSize="610,1178" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
-      <Variable x:TypeArguments="c:CrawlSIPP" Default="[new coba_link_sipp.CrawlSIPP]" Name="newOutput" />
+      <Variable x:TypeArguments="c:CrawlSIPP" Name="curCrawl" />
+      <Variable x:TypeArguments="scg:List(c:CrawlSIPP)" Name="listCrawls" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="376,575" sap2010:WorkflowViewState.IdRef="Sequence_4">
+    <Sequence sap:VirtualizedContainerService.HintSize="568,1086" sap2010:WorkflowViewState.IdRef="Sequence_4">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:Int32" Name="batchSize" />
+      </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           <x:Boolean x:Key="IsPinned">False</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke Delete Data More Than 3 Years workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="Delete Data More Than 3 Years.xaml">
+      <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke Delete Data More Than 3 Years workflow" sap:VirtualizedContainerService.HintSize="526,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="Delete Data More Than 3 Years.xaml">
         <ui:InvokeWorkflowFile.Arguments>
           <scg:Dictionary x:TypeArguments="x:String, Argument" />
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <Sequence sap:VirtualizedContainerService.HintSize="334,331" sap2010:WorkflowViewState.IdRef="Sequence_3">
+      <Assign DisplayName="Assign batch size" sap:VirtualizedContainerService.HintSize="526,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:Int32">[batchSize]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:Int32">1000</InArgument>
+        </Assign.Value>
+      </Assign>
+      <Assign sap:VirtualizedContainerService.HintSize="526,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+        <Assign.To>
+          <OutArgument x:TypeArguments="scg:List(c:CrawlSIPP)">[listCrawls]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="scg:List(c:CrawlSIPP)">[New List(Of CrawlSIPP)]</InArgument>
+        </Assign.Value>
+      </Assign>
+      <Sequence sap:VirtualizedContainerService.HintSize="526,642" sap2010:WorkflowViewState.IdRef="Sequence_3">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
-        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[op_dt]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="234,239" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+        <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[op_dt]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="484,51" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
           <ui:ForEachRow.Body>
             <ActivityAction x:TypeArguments="sd:DataRow">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="sd:DataRow" Name="CurrentRow" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_2">
+              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="376,684" sap2010:WorkflowViewState.IdRef="Sequence_2">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     <x:Boolean x:Key="IsPinned">False</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="341,346" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+                <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="334,377" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
                   <ui:MultipleAssign.AssignOperations>
                     <scg:List x:TypeArguments="ui:AssignOperation" Capacity="16">
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="s:Nullable(x:Decimal)">[newOutput.Nomor]</OutArgument>
+                          <OutArgument x:TypeArguments="c:CrawlSIPP">[curCrawl]</OutArgument>
+                        </ui:AssignOperation.To>
+                        <ui:AssignOperation.Value>
+                          <InArgument x:TypeArguments="c:CrawlSIPP">[New CrawlSIPP]</InArgument>
+                        </ui:AssignOperation.Value>
+                      </ui:AssignOperation>
+                      <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_10">
+                        <ui:AssignOperation.To>
+                          <OutArgument x:TypeArguments="s:Nullable(x:Decimal)">[curCrawl.Nomor]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="s:Nullable(x:Decimal)">[Convert.ToInt32(CurrentRow("No").ToString)]</InArgument>
@@ -133,7 +163,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.SumberData]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.SumberData]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("Sumber_Data").ToString]</InArgument>
@@ -141,7 +171,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.LinkPN]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.LinkPN]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("Link_Web_PN").ToString]</InArgument>
@@ -149,7 +179,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.NomorPerkara]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.NomorPerkara]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("Nomor_Perkara").ToString]</InArgument>
@@ -157,7 +187,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_5">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="s:Nullable(s:DateTime)">[newOutput.TanggalRegister]</OutArgument>
+                          <OutArgument x:TypeArguments="s:Nullable(s:DateTime)">[curCrawl.TanggalRegister]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="s:Nullable(s:DateTime)">[Convert.ToDateTime(CurrentRow("Tanggal_Register").ToString)]</InArgument>
@@ -165,7 +195,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_6">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.KlasifikasiPerkara]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.KlasifikasiPerkara]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("Klasifikasi_Perkara").ToString]</InArgument>
@@ -173,7 +203,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_7">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.PemohonPenggugatPU]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.PemohonPenggugatPU]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("penggugat_pemohon_penuntut_umum").ToString]</InArgument>
@@ -181,7 +211,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_8">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.TerGugatMohonDakwa]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.TerGugatMohonDakwa]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("tergugat_termohon_terdakwa").ToString]</InArgument>
@@ -189,7 +219,7 @@
                       </ui:AssignOperation>
                       <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_9">
                         <ui:AssignOperation.To>
-                          <OutArgument x:TypeArguments="x:String">[newOutput.StatusPerkara]</OutArgument>
+                          <OutArgument x:TypeArguments="x:String">[curCrawl.StatusPerkara]</OutArgument>
                         </ui:AssignOperation.To>
                         <ui:AssignOperation.Value>
                           <InArgument x:TypeArguments="x:String">[CurrentRow("Status_Perkara").ToString]</InArgument>
@@ -198,17 +228,41 @@
                     </scg:List>
                   </ui:MultipleAssign.AssignOperations>
                 </ui:MultipleAssign>
-                <uda:CreateEntityRecord x:TypeArguments="c:CrawlSIPP" OutputEntity="{x:Null}" ContinueOnError="False" DisplayName="Create Entity Record" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="341,220" sap2010:WorkflowViewState.IdRef="CreateEntityRecord`1_2" InputEntity="[newOutput]" TimeoutInMs="30000" />
+                <AddToCollection x:TypeArguments="c:CrawlSIPP" Collection="[listCrawls]" DisplayName="Add To Collection" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="AddToCollection`1_1" Item="[curCrawl]" />
+                <If Condition="[listCrawls.Count =batchSize]" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="If_1">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <If.Then>
+                    <uda:CreateMultipleEntityRecords x:TypeArguments="c:CrawlSIPP" FailedRecords="{x:Null}" OutputRecords="{x:Null}" ContinueBatchOnFailure="True" ContinueOnError="False" DisplayName="Create Multiple Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="341,220" sap2010:WorkflowViewState.IdRef="CreateMultipleEntityRecords`1_1" InputRecords="[listCrawls]" TimeoutInMs="30000" />
+                  </If.Then>
+                </If>
+                <ClearCollection x:TypeArguments="c:CrawlSIPP" Collection="[listCrawls]" DisplayName="Clear Collection" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="ClearCollection`1_1" />
               </Sequence>
             </ActivityAction>
           </ui:ForEachRow.Body>
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+        </ui:ForEachRow>
+        <If Condition="[listCrawls.Count &gt;0]" sap:VirtualizedContainerService.HintSize="484,397" sap2010:WorkflowViewState.IdRef="If_2">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               <x:Boolean x:Key="IsPinned">False</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-        </ui:ForEachRow>
+          <If.Then>
+            <uda:CreateMultipleEntityRecords x:TypeArguments="c:CrawlSIPP" FailedRecords="{x:Null}" OutputRecords="{x:Null}" ContinueBatchOnFailure="True" ContinueOnError="False" DisplayName="Create Multiple Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="341,220" sap2010:WorkflowViewState.IdRef="CreateMultipleEntityRecords`1_2" InputRecords="[listCrawls]" TimeoutInMs="30000" />
+          </If.Then>
+        </If>
+        <ClearCollection x:TypeArguments="c:CrawlSIPP" Collection="[listCrawls]" DisplayName="Clear Collection" sap:VirtualizedContainerService.HintSize="484,22" sap2010:WorkflowViewState.IdRef="ClearCollection`1_2" />
       </Sequence>
     </Sequence>
   </Sequence>
