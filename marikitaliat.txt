@@ -4,20 +4,6 @@ I WAYAN SUDARSANA
 
 Tergugat:
 MOHAMAD NASAR",Sidang pertama,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-154/Pdt.G/2021/PN Nga,07/15/2021 00:00:00,Wanprestasi,"Penggugat:
-I MADE KARYA
-
-Tergugat:
-1.I KOMANG SUARTAWAN alias KOMANG GAWAT
-2.I NYOMAN SAMBA
-3.I KETUT SUASA",Persidangan,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-154/Pdt.G/2021/PN Nga,07/15/2021 00:00:00,Wanprestasi,"Penggugat:
-I MADE KARYA
-
-Tergugat:
-1.I KOMANG SUARTAWAN alias KOMANG GAWAT
-2.I NYOMAN SAMBA
-3.I KETUT SUASA",Persidangan,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
 1/Pdt.G.S/2021/PN Nga,07/02/2021 00:00:00,Wanprestasi,"Penggugat:
 PT. Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram
 
@@ -36,13 +22,6 @@ PT. Bank Pembangunan Daerah Bali Kantor Cabang Negara
 Tergugat:
 1.ASMUNI
 2.ASTUTIK",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-154/Pdt.G/2021/PN Nga,07/15/2021 00:00:00,Wanprestasi,"Penggugat:
-I MADE KARYA
-
-Tergugat:
-1.I KOMANG SUARTAWAN alias KOMANG GAWAT
-2.I NYOMAN SAMBA
-3.I KETUT SUASA",Persidangan,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
 154/Pdt.G/2021/PN Nga,07/15/2021 00:00:00,Wanprestasi,"Penggugat:
 I MADE KARYA
 
