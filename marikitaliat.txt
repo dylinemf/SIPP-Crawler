@@ -1,37 +1,268 @@
 ﻿Column-1,Column-2,Column-3,Column-4,Column-5,Sumber Data,Link Web,Tanggal Entry
-191/Pdt.G/2021/PN Nga,09/14/2021 00:00:00,Wanprestasi,"Penggugat:
-I WAYAN SUDARSANA
+380/Pid.B/2021/PN Mlg,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
 
-Tergugat:
-MOHAMAD NASAR",Sidang pertama,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-1/Pdt.G.S/2021/PN Nga,07/02/2021 00:00:00,Wanprestasi,"Penggugat:
-PT. Batavia Prosperindo Finance, Tbk Kantor Cabang Mataram
+Terdakwa:
+SUDI HARTONO",Persidangan,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+315/Pid.B/2021/PN Mlg,06/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
 
-Tergugat:
-1.DEWA MADE KOMPIANG WIRAWAN
-2.DEWA PUTU WASA",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-5/Pdt.G.S/2020/PN Nga,10/05/2020 00:00:00,Wanprestasi,"Penggugat:
-1.I KOMANG GEDE ASTIKA WIBAWA
-2.I MADE SUTAMA SETIAWAN
+Terdakwa:
+MUHAMMAD MASRURI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+309/Pid.B/2021/PN Mlg,06/17/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
 
-Tergugat:
-I NENGAH SUKARATA",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-3/Pdt.G.S/2020/PN Nga,09/22/2020 00:00:00,Wanprestasi,"Penggugat:
-PT. Bank Pembangunan Daerah Bali Kantor Cabang Negara
+Terdakwa:
+MIFTAHUL FITHRI FERDIANSYAH",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+247/Pid.B/2021/PN Mlg,05/20/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DITA RAHMAWATI,SH
 
-Tergugat:
-1.ASMUNI
-2.ASTUTIK",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
-154/Pdt.G/2021/PN Nga,07/15/2021 00:00:00,Wanprestasi,"Penggugat:
-I MADE KARYA
+Terdakwa:
+DIAN WAHYU SUHADI als HADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+226/Pid.B/2021/PN Mlg,05/11/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
 
-Tergugat:
-1.I KOMANG SUARTAWAN alias KOMANG GAWAT
-2.I NYOMAN SAMBA
-3.I KETUT SUASA",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/17/2021 00:00:00
-4/Pdt.G.S/2020/PN Nga,09/22/2020 00:00:00,Wanprestasi,"Penggugat:
-PT. Bank Pembangunan Daerah Bali Kantor Cabang Negara
+Terdakwa:
+HERDIAN PUTRI HASTARI als. GEA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+112/Pid.B/2021/PN Mlg,03/03/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAMBANG EKA JAYA, S.H.
 
-Tergugat:
-1.KADEK ADI PRABHA ARKA
-2.NI KOMANG AYU HARDIASTUTI",Minutasi,PN JAKARTA PUSAT,http://sipp.pn-jakartapusat.go.id/,09/16/2021 00:00:00
+Terdakwa:
+DJOKO TRI AGUNG bin SUKARSAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+63/Pid.B/2021/PN Mlg,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEVI EKO ISTIAWAN, S.H.
+
+Terdakwa:
+PRAVANGASTA BAGUS WANTORO alias JAMBRONG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+15/Pid.B/2021/PN Mlg,01/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+MUH. FAHMI MIRZA BARATA, S.H.
+
+Terdakwa:
+ALDI TRI PRASETYO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+640/Pid.B/2020/PN Mlg,12/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, S.H., M.H.
+
+Terdakwa:
+HARIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+346/Pid.B/2021/PN Mlg,07/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ABDUL GOPUR, S.H.
+
+Terdakwa:
+CANDRA KIRANA",Persidangan,PN MALANG,https://sipp.pn-malang.go.id/,09/17/2021 00:00:00
+592/Pid.B/2020/PN Mlg,11/24/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+SUPRIADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+569/Pid.B/2020/PN Mlg,11/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENI SETIANI, SH
+
+Terdakwa:
+SITI NUR AINI als. ENI",Pemberitahuan Putusan Banding,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+386/Pid.B/2020/PN Mlg,07/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+IKA KUSUMAWATI RATNANINGRUM, SH
+
+Terdakwa:
+MOCHAMAD FAISAL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+263/Pid.B/2020/PN Mlg,05/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DWI ANGGINI, SH
+
+Terdakwa:
+1.APIT BIN RUSLI
+2.TOHIR BIN ASWAR",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+234/Pid.B/2020/PN Mlg,05/15/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+TAUFIK AMINUDIN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+207/Pid.B/2020/PN Mlg,05/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+TRISNAULAN ARISANTI, SH
+
+Terdakwa:
+RETNO HARI FIRMANSYAH Bin MOCH. HASIM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+4/Pid.Sus-Anak/2020/PN Mlg,03/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DENNY TRISNASARI,S.H.
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+84/Pid.B/2020/PN Mlg,02/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
+
+Terdakwa:
+NUR FADILA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+63/Pid.B/2020/PN Mlg,02/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+MOCH. SAIFUL als KABUL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+704/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, SH
+
+Terdakwa:
+MOH.ROIS FIRMANSYAH H.S.AG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+700/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+KOESHARTANTO, SH
+
+Terdakwa:
+PRASETYO EKA SUTANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+695/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+HANUNG KRISWANDONO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+694/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+JOHNSON SASONO JACOB",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+639/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+NOBERTUS ATRIS SOLO ALIAS NORIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+638/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+DERMINTARI UMBU SIDDA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+637/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+BENEDIKTUS YAKIMI PAN ALIAS ICON",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+627/Pid.B/2019/PN Mlg,11/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RANNY DIAJENG PURNAMASARI SH
+
+Terdakwa:
+KARIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+414/Pid.B/2019/PN Mlg,08/12/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DYMAS ADJI WIBOWO
+
+Terdakwa:
+RENALDY SETIAWAN SUSANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+334/Pid.B/2019/PN Mlg,06/27/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+SAHRI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+274/Pid.B/2019/PN Mlg,05/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+IQNAS ADAM WANANDY bin alm RONY HERMAWAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+222/Pid.B/2019/PN Mlg,05/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ASFINA FADHLIA, SH. M.Kn
+
+Terdakwa:
+TRIO ADY WINATA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+157/Pid.B/2019/PN Mlg,04/05/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
+
+Terdakwa:
+HERU PRASETYO UTOMO bin AGUS RUSNIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+619/Pid.B/2018/PN Mlg,12/18/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MUCHLIS NURHAKIM. SH
+
+Terdakwa:
+ANANG SUHARSONO Alias WAKHE Bin DASRUM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+509/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+YOSUA WIBISONO.",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+508/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+1.AKHMAD YUSUF EFENDI Alias CIPENG
+2.SAID EFFENDI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+38/Pid.B/2021/PN Nga,05/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+NI KETUT CAHAYA LISTIANI, SH.
+
+Terdakwa:
+SULTON MUBIN ALS. SUL",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+26/Pid.B/2021/PN Nga,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I WAYAN YUDA SATRIA, SH.
+
+Terdakwa:
+GUSTI NGURAH KETUT MURDANA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+8/Pid.C/2020/PN Nga,11/06/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+I PUTU GEDE SUMERTA MAHARDIKA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+90/Pid.B/2020/PN Nga,07/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Made Ayu Olin
+
+Terdakwa:
+I KADE JUNIHARTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+46/Pid.B/2020/PN Nga,04/08/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Wayan Deasy Sriaryani, SH.
+
+Terdakwa:
+RICKY ANDIKA PUTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+9/Pid.B/2020/PN Nga,01/22/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+I KADEK SUDARMA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+8/Pid.B/2020/PN Nga,01/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+NI WAYAN IUSTIKASARI
+
+Terdakwa:
+DENY FATURAHMAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+37/Pid.C/2019/PN Nga,11/15/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+I Putu Widiartama Putra
+
+Terdakwa:
+I PUTU OKA DARMAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+134/Pid.B/2019/PN Nga,10/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+NGURAH KOMANG JULI PERMANA ALS.PULIIGUSTI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+76/Pid.B/2019/PN Nga,06/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Monika Dian Anggraini, SH.
+
+Terdakwa:
+RACHMAD WAHYUDI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+50/Pid.B/2019/PN Nga,04/18/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Ivan Praditya Putra
+
+Terdakwa:
+I KOMANG SUJA ARTAWAN ALS.PEDRO",Pencabutan Perkara Banding,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+7/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+EDY SUTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+9/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+ANSORI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+4/Pid.Sus-Anak/2019/PN Nga,03/21/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+GEDION ARDANA RESWARI, SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+25/Pid.B/2019/PN Nga,02/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NI MADE DESI MEGA PRATIWI
+
+Terdakwa:
+PUTU MERTA ARIAWAN Alias GUMBRING",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+1/Pid.C/2019/PN Nga,01/11/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+I KETUT DASTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+105/Pid.B/2018/PN Nga,09/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+HELMI WAHYU HUTAMA
+
+Terdakwa:
+I NENGAH SUARDANA ALS DANOK",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+15/Pid.C/2018/PN Nga,09/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+YASUL BAHRI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
