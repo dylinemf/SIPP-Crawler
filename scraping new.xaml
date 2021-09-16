@@ -1,13 +1,13 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="scraping_new" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:c="clr-namespace:coba_link_sipp;assembly=DataService.coba_link_sipp" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:si="clr-namespace:System.IO;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="scraping_new" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:c="clr-namespace:coba_link_sipp;assembly=DataService.coba_link_sipp" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:p1="http://schemas.uipath.com/workflow/activities/ocr" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:si="clr-namespace:System.IO;assembly=mscorlib" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="in_link" Type="InArgument(x:String)" />
     <x:Property Name="filteredDT" Type="InOutArgument(sd:DataTable)" />
     <x:Property Name="in_jenis_perkara" Type="InArgument(scg:IList(c:KlasifikasiPerkara))" />
   </x:Members>
-  <sap:VirtualizedContainerService.HintSize>740,4173</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>981,6506</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="30">
+    <scg:List x:TypeArguments="x:String" Capacity="60">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System</x:String>
@@ -38,10 +38,15 @@
       <x:String>Microsoft.VisualBasic</x:String>
       <x:String>UiPath.CSV</x:String>
       <x:String>UiPath.CSV.Activities</x:String>
+      <x:String>UiPath.CV</x:String>
+      <x:String>UiPath.Shared.ObjectLibrary</x:String>
+      <x:String>UiPath.CV.Activities</x:String>
+      <x:String>UiPath.CV.Activities.Interfaces</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <scg:List x:TypeArguments="AssemblyReference" Capacity="34">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="68">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -76,9 +81,11 @@
       <AssemblyReference>DataService.coba_link_sipp</AssemblyReference>
       <AssemblyReference>UiPath.DataService.Definition</AssemblyReference>
       <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.CV</AssemblyReference>
+      <AssemblyReference>UiPath.CV.Activities</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Daily Scraping" sap:VirtualizedContainerService.HintSize="750,4008" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Daily Scraping" sap:VirtualizedContainerService.HintSize="991,6341" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="s:String[]" Name="test_link" />
       <Variable x:TypeArguments="sd:DataTable" Name="out_opDT" />
@@ -100,23 +107,29 @@
         <x:Boolean x:Key="IsPinned">False</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Assign DisplayName="Assign list link PN" sap:VirtualizedContainerService.HintSize="708,60" sap2010:WorkflowViewState.IdRef="Assign_1">
-      <Assign.To>
-        <OutArgument x:TypeArguments="s:String[]">[test_link]</OutArgument>
-      </Assign.To>
-      <Assign.Value>
-        <InArgument x:TypeArguments="s:String[]">[{"https://sipp.pn-negara.go.id", "http://sipp.pn-jakartapusat.go.id/"}]</InArgument>
-      </Assign.Value>
-    </Assign>
-    <Assign sap:VirtualizedContainerService.HintSize="708,60" sap2010:WorkflowViewState.IdRef="Assign_8">
-      <Assign.To>
-        <OutArgument x:TypeArguments="s:String[]">[jenis_perkara]</OutArgument>
-      </Assign.To>
-      <Assign.Value>
-        <InArgument x:TypeArguments="s:String[]">[{"wanprestasi"}]</InArgument>
-      </Assign.Value>
-    </Assign>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="708,51" sap2010:WorkflowViewState.IdRef="CommentOut_4">
+    <ui:MultipleAssign DisplayName="Multiple Assign" sap:VirtualizedContainerService.HintSize="949,129" sap2010:WorkflowViewState.IdRef="MultipleAssign_3">
+      <ui:MultipleAssign.AssignOperations>
+        <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_7">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="s:String[]">[test_link]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="s:String[]">[{"https://sipp.pn-malang.go.id/"}]</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+          <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_8">
+            <ui:AssignOperation.To>
+              <OutArgument x:TypeArguments="s:String[]">[jenis_perkara]</OutArgument>
+            </ui:AssignOperation.To>
+            <ui:AssignOperation.Value>
+              <InArgument x:TypeArguments="s:String[]">[{"Permohonan Pernyataan Pailit", "Penganiayaan"}]</InArgument>
+            </ui:AssignOperation.Value>
+          </ui:AssignOperation>
+        </scg:List>
+      </ui:MultipleAssign.AssignOperations>
+    </ui:MultipleAssign>
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="949,51" sap2010:WorkflowViewState.IdRef="CommentOut_4">
       <ui:CommentOut.Body>
         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="304,152" sap2010:WorkflowViewState.IdRef="Sequence_27">
           <sap:WorkflowViewStateService.ViewState>
@@ -141,19 +154,19 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="tiap link" sap:VirtualizedContainerService.HintSize="708,3625" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[test_link]">
+    <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="tiap link" sap:VirtualizedContainerService.HintSize="949,6228" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[test_link]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="item" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Seq tiap link" sap:VirtualizedContainerService.HintSize="672,3501" sap2010:WorkflowViewState.IdRef="Sequence_7">
+          <Sequence DisplayName="Seq tiap link" sap:VirtualizedContainerService.HintSize="913,6104" sap2010:WorkflowViewState.IdRef="Sequence_7">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="630,51" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+            <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="871,51" sap2010:WorkflowViewState.IdRef="CommentOut_1">
               <ui:CommentOut.Body>
                 <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_24">
                   <sap:WorkflowViewStateService.ViewState>
@@ -190,45 +203,45 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:CommentOut>
-            <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="tiap perkara" sap:VirtualizedContainerService.HintSize="630,3318" sap2010:WorkflowViewState.IdRef="ForEach`1_5" Values="[jenis_perkara]">
+            <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="tiap perkara" sap:VirtualizedContainerService.HintSize="871,5921" sap2010:WorkflowViewState.IdRef="ForEach`1_5" Values="[jenis_perkara]">
               <ui:ForEach.Body>
                 <ActivityAction x:TypeArguments="x:Object">
                   <ActivityAction.Argument>
                     <DelegateInArgument x:TypeArguments="x:Object" Name="perkara" />
                   </ActivityAction.Argument>
-                  <Sequence DisplayName="Seq tiap perkara" sap:VirtualizedContainerService.HintSize="594,3194" sap2010:WorkflowViewState.IdRef="Sequence_32">
+                  <Sequence DisplayName="Seq tiap perkara" sap:VirtualizedContainerService.HintSize="835,5797" sap2010:WorkflowViewState.IdRef="Sequence_32">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Get Max Num" sap:VirtualizedContainerService.HintSize="552,51" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="[item.ToString]">
+                    <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Get Max Num" sap:VirtualizedContainerService.HintSize="793,1801" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" Url="[item.ToString]">
                       <ui:OpenBrowser.Body>
                         <ActivityAction x:TypeArguments="x:Object">
                           <ActivityAction.Argument>
                             <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                           </ActivityAction.Argument>
-                          <Sequence DisplayName="Do_GetMN" sap:VirtualizedContainerService.HintSize="476,640" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                          <Sequence DisplayName="Do_GetMN" sap:VirtualizedContainerService.HintSize="644,1660" sap2010:WorkflowViewState.IdRef="Sequence_6">
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Attach Browser 'firefox.exe  SIPP'" sap:VirtualizedContainerService.HintSize="434,486" sap2010:WorkflowViewState.IdRef="BrowserScope_4" InformativeScreenshot="9b999c203910e7b110d2f62a9e1ae40d" Selector="&lt;html app='firefox.exe' title='SIPP' /&gt;">
+                            <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Attach Browser 'firefox.exe  SIPP'" sap:VirtualizedContainerService.HintSize="602,1506" sap2010:WorkflowViewState.IdRef="BrowserScope_4" InformativeScreenshot="9b999c203910e7b110d2f62a9e1ae40d" Selector="&lt;html app='firefox.exe' title='SIPP' /&gt;">
                               <ui:BrowserScope.Body>
                                 <ActivityAction x:TypeArguments="x:Object">
                                   <ActivityAction.Argument>
                                     <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                                   </ActivityAction.Argument>
-                                  <Sequence DisplayName="Seq recent data exist or not" sap:VirtualizedContainerService.HintSize="242,340" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                                  <Sequence DisplayName="Seq recent data exist or not" sap:VirtualizedContainerService.HintSize="568,1320" sap2010:WorkflowViewState.IdRef="Sequence_10">
                                     <sap:WorkflowViewStateService.ViewState>
                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                         <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                       </scg:Dictionary>
                                     </sap:WorkflowViewStateService.ViewState>
-                                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="CommentOut_2">
+                                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="526,51" sap2010:WorkflowViewState.IdRef="CommentOut_2">
                                       <ui:CommentOut.Body>
                                         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="418,490" sap2010:WorkflowViewState.IdRef="Sequence_25">
                                           <sap:WorkflowViewStateService.ViewState>
@@ -281,14 +294,14 @@
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
                                     </ui:CommentOut>
-                                    <Sequence DisplayName="Seq_While_GetMN" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                                    <Sequence DisplayName="Seq_While_GetMN" sap:VirtualizedContainerService.HintSize="526,1046" sap2010:WorkflowViewState.IdRef="Sequence_11">
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                           <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
-                                      <Assign DisplayName="Inisialisasi tgl determinan" sap:VirtualizedContainerService.HintSize="454,60" sap2010:WorkflowViewState.IdRef="Assign_3">
+                                      <Assign DisplayName="Inisialisasi tgl determinan" sap:VirtualizedContainerService.HintSize="484,60" sap2010:WorkflowViewState.IdRef="Assign_3">
                                         <Assign.To>
                                           <OutArgument x:TypeArguments="s:DateTime">[dateVar]</OutArgument>
                                         </Assign.To>
@@ -296,7 +309,7 @@
                                           <InArgument x:TypeArguments="s:DateTime">[Date.Now]</InArgument>
                                         </Assign.Value>
                                       </Assign>
-                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'INPUT  search-box'" EmptyField="True" sap:VirtualizedContainerService.HintSize="454,134" sap2010:WorkflowViewState.IdRef="TypeInto_1" Text="[perkara.ToString + &quot;[k(enter)]&quot;]">
+                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'INPUT  search-box'" EmptyField="True" sap:VirtualizedContainerService.HintSize="484,134" sap2010:WorkflowViewState.IdRef="TypeInto_1" Text="[perkara.ToString + &quot;[k(enter)]&quot;]">
                                         <ui:TypeInto.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ea1784c8-b3ca-4034-a404-94b532cd5e73" InformativeScreenshot="f5f34040f85e1b5ae647738e216e7b3d" Selector="&lt;webctrl tag='INPUT' /&gt;">
                                             <ui:Target.TimeoutMS>
@@ -314,15 +327,213 @@
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                       </ui:TypeInto>
-                                      <ui:InterruptibleWhile Condition="[dateVar &gt;Date.Now.AddYears(-3).Date]" DisplayName="While date in SIPP &gt; newestDate in output" sap:VirtualizedContainerService.HintSize="454,1371" sap2010:WorkflowViewState.IdRef="InterruptibleWhile_2">
-                                        <ui:InterruptibleWhile.Body>
-                                          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="418,1206" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                                      <ui:UiElementExists Exists="{x:Null}" DisplayName="Element Exists 'TD'" sap:VirtualizedContainerService.HintSize="484,106" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
+                                        <ui:UiElementExists.Target>
+                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2d63ca50-3e84-43a1-bfd1-347aa28fc739" InformativeScreenshot="31cb2432bc2023c451b161360fb85560" Selector="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TD' /&gt;">
+                                            <ui:Target.TimeoutMS>
+                                              <InArgument x:TypeArguments="x:Int32" />
+                                            </ui:Target.TimeoutMS>
+                                            <ui:Target.WaitForReady>
+                                              <InArgument x:TypeArguments="ui:WaitForReady" />
+                                            </ui:Target.WaitForReady>
+                                          </ui:Target>
+                                        </ui:UiElementExists.Target>
+                                      </ui:UiElementExists>
+                                      <p:CVScope ContinueOnError="{x:Null}" DelayBefore="{x:Null}" Server="{x:Null}" ApiKey="QdIGG4+Z7Aydr5pnShtP9SfZHJGEzNxl+51tzgP2tK33q/sJJ5B8nDuAnhZZtFwk/w2tXSOh7yfqPwhSxoTG2w==" CvMethod="ElementDetection, OCR" DesignTimeCacheId="3a9cb120-e157-4bcd-a63c-fd47d2133b5d" DisplayName="CV Screen Scope 'Data tidak ditemukan'" sap:VirtualizedContainerService.HintSize="484,51" sap2010:WorkflowViewState.IdRef="CVScope_1" Version="V2">
+                                        <p:CVScope.Body>
+                                          <ActivityAction x:TypeArguments="x:Object">
+                                            <ActivityAction.Argument>
+                                              <DelegateInArgument x:TypeArguments="x:Object" Name="CVSessionData" />
+                                            </ActivityAction.Argument>
+                                            <Sequence DisplayName="Do" sap2010:WorkflowViewState.IdRef="Sequence_38">
+                                              <p:CvElementExistsWithDescriptor Descriptor="[&quot;Target: Text 'Data Tidak diTemukan' (598,136,155,13)&quot;]" DesignTimeCacheId="3a9cb120-e157-4bcd-a63c-fd47d2133b5d" DesignTimeScaleFactor="1" DisplayName="'Data tidak ditemukan' Exists" sap:VirtualizedContainerService.HintSize="400,136" sap2010:WorkflowViewState.IdRef="CvElementExistsWithDescriptor_1" InformativeScreenshot="ade25047c54426aedd3bdc67b17d06ea" Result="[flag]" Version="V2">
+                                                <p:CvElementExistsWithDescriptor.DesignTimeDescriptor>
+                                                  <uc:CvDescriptor>
+                                                    <uc:CvDescriptor.Target>
+                                                      <uc:CvElementDescriptor DesignTimeArea="598, 136, 155, 13" ElementType="Text" Text="Data Tidak diTemukan" />
+                                                    </uc:CvDescriptor.Target>
+                                                  </uc:CvDescriptor>
+                                                </p:CvElementExistsWithDescriptor.DesignTimeDescriptor>
+                                              </p:CvElementExistsWithDescriptor>
+                                            </Sequence>
+                                          </ActivityAction>
+                                        </p:CVScope.Body>
+                                        <p:CVScope.DesignTimeCacheContainer>
+                                          <uc:CvCacheContainer>
+                                            <uc:CvCacheContainer.Caches>
+                                              <scg:List x:TypeArguments="uc:CVCache" Capacity="1">
+                                                <uc:CVCache DisplayName="Main Screen" Id="3a9cb120-e157-4bcd-a63c-fd47d2133b5d" InformativeScreenshot="2923e4ff4321b08337d39a6610246e07" LogicalPosition="5, 204" OcrText="DATA SELURUH PERKARA Pembaharuan Data : Selasa, 14 Sep. 2021 21:56:25 WIB, Total : 0 Perkara Permohonan Pernyataan Pailit Cari Pencarian Detil Prev 13 Next No Nomor Perkara Tanggal Klasifikasi Perkara Para Pihak Status Perkara Lama Link Register Proses Data Tidak diTemukan Prev 13 Next" Position="5, 204" ScreenshotGuid="6114999e-0649-43e9-90ae-d6cf34364b90" ServerVersion="1">
+                                                  <uc:CVCache.CvTables>
+                                                    <x:Array Type="uc:CvTableInfo">
+                                                      <uc:CvTableInfo>
+                                                        <uc:CvTableInfo.Columns>
+                                                          <x:Array Type="x:Int32">
+                                                            <x:Int32>5</x:Int32>
+                                                            <x:Int32>49</x:Int32>
+                                                            <x:Int32>272</x:Int32>
+                                                            <x:Int32>375</x:Int32>
+                                                            <x:Int32>597</x:Int32>
+                                                            <x:Int32>941</x:Int32>
+                                                            <x:Int32>1213</x:Int32>
+                                                            <x:Int32>1293</x:Int32>
+                                                          </x:Array>
+                                                        </uc:CvTableInfo.Columns>
+                                                        <uc:CvTableInfo.Rows>
+                                                          <x:Array Type="x:Int32">
+                                                            <x:Int32>79</x:Int32>
+                                                            <x:Int32>126</x:Int32>
+                                                            <x:Int32>155</x:Int32>
+                                                          </x:Array>
+                                                        </uc:CvTableInfo.Rows>
+                                                      </uc:CvTableInfo>
+                                                    </x:Array>
+                                                  </uc:CVCache.CvTables>
+                                                  <uc:CVCache.CvUiElements>
+                                                    <scg:List x:TypeArguments="uc:CvElementInfo" Capacity="64">
+                                                      <uc:CvElementInfo Category="Button" Region="307, 39, 61, 39" />
+                                                      <uc:CvElementInfo Category="Button" Region="1217, 38, 45, 29" />
+                                                      <uc:CvElementInfo Category="Button" Region="4, 166, 43, 28" />
+                                                      <uc:CvElementInfo Category="Button" Region="369, 38, 130, 41" />
+                                                      <uc:CvElementInfo Category="Button" Region="1298, 38, 45, 29" />
+                                                      <uc:CvElementInfo Category="Button" Region="85, 167, 45, 27" />
+                                                      <uc:CvElementInfo Category="Button" Region="8, 40, 296, 37" />
+                                                      <uc:CvElementInfo Category="Button" Region="1263, 38, 34, 29" />
+                                                      <uc:CvElementInfo Category="Button" Region="49, 166, 33, 28" />
+                                                      <uc:CvElementInfo Category="Button" Region="5, 82, 46, 47" />
+                                                      <uc:CvElementInfo Category="Button" Region="1285, 82, 61, 46" />
+                                                      <uc:CvElementInfo Category="Button" Region="377, 81, 224, 47" />
+                                                      <uc:CvElementInfo Category="Button" Region="51, 82, 223, 47" />
+                                                      <uc:CvElementInfo Category="Button" Region="271, 81, 107, 48" />
+                                                      <uc:CvElementInfo Category="Icon" Region="1263, 37, 34, 31" />
+                                                      <uc:CvElementInfo Category="Button" Region="943, 82, 266, 47" />
+                                                      <uc:CvElementInfo Category="Button" Region="602, 83, 340, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Region="597, 79, 344, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Region="941, 79, 272, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Region="1213, 79, 80, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Region="272, 79, 103, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Region="375, 79, 222, 47" />
+                                                      <uc:CvElementInfo Category="Button" Confidence="Runtime" Region="1211, 82, 75, 47" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="53, 167, 25, 25" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="58, 171, 15, 18" />
+                                                      <uc:CvElementInfo Category="InputBox" Confidence="Runtime" Region="3, 39, 305, 38" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="1219, 40, 40, 27" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="8, 170, 35, 21" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="1300, 39, 41, 27" />
+                                                      <uc:CvElementInfo Category="Icon" Confidence="Runtime" Region="89, 169, 37, 23" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="597, 126, 344, 29" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="49, 79, 223, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="5, 79, 44, 47" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1346, 80, 6, 48" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1290, 78, 53, 50" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1344, 126, 7, 33" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="941, 126, 352, 29" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="49, 126, 548, 29" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1283, 127, 64, 30" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1213, 126, 80, 29" />
+                                                      <uc:CvElementInfo Category="Cell" Confidence="Runtime" Region="1345, 79, 3, 52" />
+                                                    </scg:List>
+                                                  </uc:CVCache.CvUiElements>
+                                                  <uc:CVCache.OcrTexts>
+                                                    <scg:List x:TypeArguments="uc:OcrTextInfo" Capacity="64">
+                                                      <uc:OcrTextInfo Region="4, 9, 54, 18" Text="DATA" />
+                                                      <uc:OcrTextInfo Region="60, 9, 84, 18" Text="SELURUH" />
+                                                      <uc:OcrTextInfo Region="147, 8, 90, 20" Text="PERKARA" />
+                                                      <uc:OcrTextInfo Region="855, 12, 101, 14" Text="Pembaharuan" />
+                                                      <uc:OcrTextInfo Region="958, 12, 36, 14" Text="Data" />
+                                                      <uc:OcrTextInfo Region="995, 14, 7, 12" Text=":" />
+                                                      <uc:OcrTextInfo Region="1004, 12, 48, 15" Text="Selasa," />
+                                                      <uc:OcrTextInfo Region="1057, 13, 15, 13" Text="14" />
+                                                      <uc:OcrTextInfo Region="1074, 13, 31, 16" Text="Sep." />
+                                                      <uc:OcrTextInfo Region="1108, 12, 30, 14" Text="2021" />
+                                                      <uc:OcrTextInfo Region="1143, 12, 56, 14" Text="21:56:25" />
+                                                      <uc:OcrTextInfo Region="1201, 13, 30, 14" Text="WIB," />
+                                                      <uc:OcrTextInfo Region="1233, 12, 35, 15" Text="Total" />
+                                                      <uc:OcrTextInfo Region="1269, 14, 7, 12" Text=":" />
+                                                      <uc:OcrTextInfo Region="1277, 12, 10, 14" Text="0" />
+                                                      <uc:OcrTextInfo Region="1289, 12, 54, 14" Text="Perkara" />
+                                                      <uc:OcrTextInfo Region="13, 51, 87, 15" Text="Permohonan" />
+                                                      <uc:OcrTextInfo Region="100, 51, 79, 17" Text="Pernyataan" />
+                                                      <uc:OcrTextInfo Region="181, 51, 31, 14" Text="Pailit" />
+                                                      <uc:OcrTextInfo Region="322, 52, 30, 14" Text="Cari" />
+                                                      <uc:OcrTextInfo Region="382, 52, 70, 14" Text="Pencarian" />
+                                                      <uc:OcrTextInfo Region="453, 51, 33, 15" Text="Detil" />
+                                                      <uc:OcrTextInfo Region="1224, 46, 30, 14" Text="Prev" />
+                                                      <uc:OcrTextInfo Region="1274, 44, 9, 16" Text="13" />
+                                                      <uc:OcrTextInfo Region="1305, 45, 31, 14" Text="Next" />
+                                                      <uc:OcrTextInfo Region="15, 100, 23, 12" Text="No" />
+                                                      <uc:OcrTextInfo Region="108, 99, 50, 14" Text="Nomor" />
+                                                      <uc:OcrTextInfo Region="158, 98, 56, 15" Text="Perkara" />
+                                                      <uc:OcrTextInfo Region="295, 89, 59, 18" Text="Tanggal" />
+                                                      <uc:OcrTextInfo Region="427, 98, 66, 14" Text="Klasifikasi" />
+                                                      <uc:OcrTextInfo Region="495, 98, 55, 15" Text="Perkara" />
+                                                      <uc:OcrTextInfo Region="735, 99, 33, 13" Text="Para" />
+                                                      <uc:OcrTextInfo Region="770, 98, 40, 14" Text="Pihak" />
+                                                      <uc:OcrTextInfo Region="1027, 98, 43, 14" Text="Status" />
+                                                      <uc:OcrTextInfo Region="1072, 98, 55, 15" Text="Perkara" />
+                                                      <uc:OcrTextInfo Region="1228, 92, 41, 12" Text="Lama" />
+                                                      <uc:OcrTextInfo Region="1302, 98, 29, 14" Text="Link" />
+                                                      <uc:OcrTextInfo Region="296, 107, 58, 18" Text="Register" />
+                                                      <uc:OcrTextInfo Region="1226, 108, 45, 14" Text="Proses" />
+                                                      <uc:OcrTextInfo Region="598, 136, 35, 13" Text="Data" />
+                                                      <uc:OcrTextInfo Region="635, 136, 40, 13" Text="Tidak" />
+                                                      <uc:OcrTextInfo Region="676, 136, 77, 13" Text="diTemukan" />
+                                                      <uc:OcrTextInfo Region="10, 173, 30, 13" Text="Prev" />
+                                                      <uc:OcrTextInfo Region="61, 172, 8, 15" Text="13" />
+                                                      <uc:OcrTextInfo Region="92, 173, 30, 13" Text="Next" />
+                                                    </scg:List>
+                                                  </uc:CVCache.OcrTexts>
+                                                </uc:CVCache>
+                                              </scg:List>
+                                            </uc:CvCacheContainer.Caches>
+                                          </uc:CvCacheContainer>
+                                        </p:CVScope.DesignTimeCacheContainer>
+                                        <p:CVScope.OCREngine>
+                                          <ActivityFunc x:TypeArguments="sd1:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+                                            <ActivityFunc.Argument>
+                                              <DelegateInArgument x:TypeArguments="sd1:Image" Name="Image" />
+                                            </ActivityFunc.Argument>
+                                            <p1:UiPathScreenOCR Endpoint="{x:Null}" Output="{x:Null}" Text="{x:Null}" ApiKey="QdIGG4+Z7Aydr5pnShtP9SfZHJGEzNxl+51tzgP2tK33q/sJJ5B8nDuAnhZZtFwk/w2tXSOh7yfqPwhSxoTG2w==" ComputeSkewAngle="False" ExtractWords="True" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="UiPathScreenOCR_1" Image="[Image]" Language="en" Profile="Screen" Scale="1" />
+                                          </ActivityFunc>
+                                        </p:CVScope.OCREngine>
+                                        <p:CVScope.Target>
+                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="f50a3024-92a1-4f02-9ee5-6e2323a42075" InformativeScreenshot="8087c22f3dd290321c5f351d04b8af2c" Selector="&lt;webctrl id='konten' tag='DIV' /&gt;" WaitForReady="INTERACTIVE">
+                                            <ui:Target.TimeoutMS>
+                                              <InArgument x:TypeArguments="x:Int32" />
+                                            </ui:Target.TimeoutMS>
+                                          </ui:Target>
+                                        </p:CVScope.Target>
+                                        <p:CVScope.UseLocalServer>
+                                          <InArgument x:TypeArguments="x:Boolean" />
+                                        </p:CVScope.UseLocalServer>
+                                        <sap:WorkflowViewStateService.ViewState>
+                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                                          </scg:Dictionary>
+                                        </sap:WorkflowViewStateService.ViewState>
+                                      </p:CVScope>
+                                      <If Condition="[flag = True]" DisplayName="If tidak ada data" sap:VirtualizedContainerService.HintSize="484,352" sap2010:WorkflowViewState.IdRef="If_4">
+                                        <If.Then>
+                                          <Sequence sap:VirtualizedContainerService.HintSize="242,176" sap2010:WorkflowViewState.IdRef="Sequence_39">
                                             <sap:WorkflowViewStateService.ViewState>
                                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                               </scg:Dictionary>
                                             </sap:WorkflowViewStateService.ViewState>
-                                            <Sequence DisplayName="scroll ke bawah" sap:VirtualizedContainerService.HintSize="376,246" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                                            <ui:CloseTab Browser="{x:Null}" DisplayName="Close Tab" sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="CloseTab_3" />
+                                            <ui:Continue sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="Continue_1" />
+                                          </Sequence>
+                                        </If.Then>
+                                      </If>
+                                      <ui:InterruptibleWhile Condition="[dateVar &gt;Date.Now.AddYears(-3).Date]" DisplayName="While date in SIPP &gt; newestDate in output" sap:VirtualizedContainerService.HintSize="484,51" sap2010:WorkflowViewState.IdRef="InterruptibleWhile_2">
+                                        <ui:InterruptibleWhile.Body>
+                                          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="476,1730" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                                            <sap:WorkflowViewStateService.ViewState>
+                                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                              </scg:Dictionary>
+                                            </sap:WorkflowViewStateService.ViewState>
+                                            <Sequence DisplayName="scroll ke bawah" sap:VirtualizedContainerService.HintSize="434,246" sap2010:WorkflowViewState.IdRef="Sequence_2">
                                               <sap:WorkflowViewStateService.ViewState>
                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -348,7 +559,7 @@
                                                 </sap:WorkflowViewStateService.ViewState>
                                               </ui:SendHotkey>
                                             </Sequence>
-                                            <Sequence DisplayName="Tanggal reg terbawah" sap:VirtualizedContainerService.HintSize="376,399" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                                            <Sequence DisplayName="Tanggal reg terbawah" sap:VirtualizedContainerService.HintSize="434,399" sap2010:WorkflowViewState.IdRef="Sequence_5">
                                               <sap:WorkflowViewStateService.ViewState>
                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -377,7 +588,7 @@
                                                 </Assign.Value>
                                               </Assign>
                                             </Sequence>
-                                            <Sequence DisplayName="No terbawah" sap:VirtualizedContainerService.HintSize="376,298" sap2010:WorkflowViewState.IdRef="Sequence_17">
+                                            <Sequence DisplayName="No terbawah" sap:VirtualizedContainerService.HintSize="434,298" sap2010:WorkflowViewState.IdRef="Sequence_17">
                                               <sap:WorkflowViewStateService.ViewState>
                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -405,10 +616,10 @@
                                                 </Assign.Value>
                                               </Assign>
                                             </Sequence>
-                                            <TryCatch DisplayName="Try Catch next button" sap:VirtualizedContainerService.HintSize="376,51" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+                                            <TryCatch DisplayName="Try Catch next button" sap:VirtualizedContainerService.HintSize="434,575" sap2010:WorkflowViewState.IdRef="TryCatch_1">
                                               <sap:WorkflowViewStateService.ViewState>
                                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                                  <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                                 </scg:Dictionary>
                                               </sap:WorkflowViewStateService.ViewState>
@@ -472,13 +683,13 @@
                                         </ui:InterruptibleWhile.Body>
                                         <sap:WorkflowViewStateService.ViewState>
                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                                             <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                       </ui:InterruptibleWhile>
                                     </Sequence>
-                                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="CommentOut_3">
+                                    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="526,51" sap2010:WorkflowViewState.IdRef="CommentOut_3">
                                       <ui:CommentOut.Body>
                                         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="526,143" sap2010:WorkflowViewState.IdRef="Sequence_26">
                                           <sap:WorkflowViewStateService.ViewState>
@@ -513,50 +724,50 @@
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
                             </ui:BrowserScope>
-                            <ui:CloseTab Browser="{x:Null}" DisplayName="Close Tab" sap:VirtualizedContainerService.HintSize="434,22" sap2010:WorkflowViewState.IdRef="CloseTab_1" />
+                            <ui:CloseTab Browser="{x:Null}" DisplayName="Close Tab" sap:VirtualizedContainerService.HintSize="602,22" sap2010:WorkflowViewState.IdRef="CloseTab_1" />
                           </Sequence>
                         </ActivityAction>
                       </ui:OpenBrowser.Body>
-                      <sap:WorkflowViewStateService.ViewState>
-                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                        </scg:Dictionary>
-                      </sap:WorkflowViewStateService.ViewState>
-                    </ui:OpenBrowser>
-                    <Sequence DisplayName="Seq_Crawl" sap:VirtualizedContainerService.HintSize="552,2920" sap2010:WorkflowViewState.IdRef="Sequence_18">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Open Browser_Crawl" sap:VirtualizedContainerService.HintSize="510,726" sap2010:WorkflowViewState.IdRef="OpenBrowser_2" Url="[item. ToString]">
+                    </ui:OpenBrowser>
+                    <Sequence DisplayName="Seq_Crawl" sap:VirtualizedContainerService.HintSize="793,3003" sap2010:WorkflowViewState.IdRef="Sequence_18">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:OpenBrowser CommunicationMethod="{x:Null}" Hidden="{x:Null}" NewSession="{x:Null}" Private="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Open Browser_Crawl" sap:VirtualizedContainerService.HintSize="510,809" sap2010:WorkflowViewState.IdRef="OpenBrowser_2" Url="[item. ToString]">
                         <ui:OpenBrowser.Body>
                           <ActivityAction x:TypeArguments="x:Object">
                             <ActivityAction.Argument>
                               <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                             </ActivityAction.Argument>
-                            <Sequence DisplayName="Data Scraping" sap:VirtualizedContainerService.HintSize="476,625" sap2010:WorkflowViewState.IdRef="Sequence_14">
+                            <Sequence DisplayName="Data Scraping" sap:VirtualizedContainerService.HintSize="476,708" sap2010:WorkflowViewState.IdRef="Sequence_14">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                   <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Attach Browser 'SIPP Page'" sap:VirtualizedContainerService.HintSize="434,471" sap2010:WorkflowViewState.IdRef="BrowserScope_2" InformativeScreenshot="783ca54db696b9fc620bba1c5bff9615" Selector="&lt;html app='firefox.exe' title='SIPP' /&gt;">
+                              <ui:BrowserScope Browser="{x:Null}" SearchScope="{x:Null}" TimeoutMS="{x:Null}" UiBrowser="{x:Null}" BrowserType="Firefox" DisplayName="Attach Browser 'SIPP Page'" sap:VirtualizedContainerService.HintSize="434,554" sap2010:WorkflowViewState.IdRef="BrowserScope_2" InformativeScreenshot="783ca54db696b9fc620bba1c5bff9615" Selector="&lt;html app='firefox.exe' title='SIPP' /&gt;">
                                 <ui:BrowserScope.Body>
                                   <ActivityAction x:TypeArguments="x:Object">
                                     <ActivityAction.Argument>
                                       <DelegateInArgument x:TypeArguments="x:Object" Name="ContextTarget" />
                                     </ActivityAction.Argument>
-                                    <Sequence DisplayName="Do crawl" sap:VirtualizedContainerService.HintSize="242,325" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                                    <Sequence DisplayName="Do crawl" sap:VirtualizedContainerService.HintSize="376,408" sap2010:WorkflowViewState.IdRef="Sequence_13">
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
-                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'INPUT  search-box'" EmptyField="True" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="TypeInto_2" Text="[perkara.ToString + &quot;[k(enter)]&quot;]">
+                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'INPUT  search-box'" EmptyField="True" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="TypeInto_2" Text="[perkara.ToString + &quot;[k(enter)]&quot;]">
                                         <ui:TypeInto.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ea1784c8-b3ca-4034-a404-94b532cd5e73" InformativeScreenshot="f5f34040f85e1b5ae647738e216e7b3d" Selector="&lt;webctrl tag='INPUT' /&gt;">
                                             <ui:Target.TimeoutMS>
@@ -569,12 +780,12 @@
                                         </ui:TypeInto.Target>
                                         <sap:WorkflowViewStateService.ViewState>
                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                            <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                             <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                       </ui:TypeInto>
-                                      <ui:ExtractData DelayBetweenPagesMS="{x:Null}" ContinueOnError="True" DataTable="[ExtractDataTable]" DisplayName="Extract Structured Data 'TABLE  tablePerkaraAll'" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest' /&gt;" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="ExtractData_1" MaxNumberOfResults="[MaxNum]" NextLinkSelector="&lt;webctrl aaname='Next' parentid='selector_bottom' tag='A' /&gt;" SimulateClick="True">
+                                      <ui:ExtractData DelayBetweenPagesMS="{x:Null}" ContinueOnError="True" DataTable="[ExtractDataTable]" DisplayName="Extract Structured Data 'TABLE  tablePerkaraAll'" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest' /&gt;" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="ExtractData_1" MaxNumberOfResults="[MaxNum]" NextLinkSelector="&lt;webctrl aaname='Next' parentid='selector_bottom' tag='A' /&gt;" SimulateClick="True">
                                         <ui:ExtractData.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="bba8265b-f6d0-4794-8770-0b44d2dacfe0" InformativeScreenshot="bc4b2ed177f469e187b18afebae63b23" Selector="&lt;webctrl tag='TABLE' /&gt;" WaitForReady="COMPLETE">
                                             <ui:Target.TimeoutMS>
@@ -589,7 +800,7 @@
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                       </ui:ExtractData>
-                                      <ui:GetFullText DisplayName="Get Full Text namaPN" sap:VirtualizedContainerService.HintSize="200,51" sap2010:WorkflowViewState.IdRef="GetFullText_3" IgnoreHidden="False">
+                                      <ui:GetFullText DisplayName="Get Full Text namaPN" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="GetFullText_3" IgnoreHidden="False">
                                         <ui:GetFullText.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="eb9e4302-ac56-4062-84f9-505953524840" InformativeScreenshot="a4292830e15f658ca841d9ef884cc993" Selector="&lt;webctrl tag='STRONG' /&gt;" WaitForReady="COMPLETE">
                                             <ui:Target.TimeoutMS>
@@ -815,10 +1026,10 @@
                         </sap:WorkflowViewStateService.ViewState>
                       </ui:ForEachRow>
                     </Sequence>
-                    <TryCatch DisplayName="Try Catch write csv" sap:VirtualizedContainerService.HintSize="552,51" sap2010:WorkflowViewState.IdRef="TryCatch_4">
+                    <TryCatch DisplayName="Try Catch write csv" sap:VirtualizedContainerService.HintSize="793,821" sap2010:WorkflowViewState.IdRef="TryCatch_4">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
