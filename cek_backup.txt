@@ -281,3 +281,4779 @@ Penyidik Polsek Melaya
 
 Terdakwa:
 YASUL BAHRI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+380/Pid.B/2021/PN Mlg,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
+
+Terdakwa:
+SUDI HARTONO",Persidangan,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+346/Pid.B/2021/PN Mlg,07/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ABDUL GOPUR, S.H.
+
+Terdakwa:
+CANDRA KIRANA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+315/Pid.B/2021/PN Mlg,06/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
+
+Terdakwa:
+MUHAMMAD MASRURI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+309/Pid.B/2021/PN Mlg,06/17/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
+
+Terdakwa:
+MIFTAHUL FITHRI FERDIANSYAH",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+247/Pid.B/2021/PN Mlg,05/20/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DITA RAHMAWATI,SH
+
+Terdakwa:
+DIAN WAHYU SUHADI als HADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+226/Pid.B/2021/PN Mlg,05/11/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
+
+Terdakwa:
+HERDIAN PUTRI HASTARI als. GEA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+112/Pid.B/2021/PN Mlg,03/03/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAMBANG EKA JAYA, S.H.
+
+Terdakwa:
+DJOKO TRI AGUNG bin SUKARSAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+63/Pid.B/2021/PN Mlg,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEVI EKO ISTIAWAN, S.H.
+
+Terdakwa:
+PRAVANGASTA BAGUS WANTORO alias JAMBRONG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+15/Pid.B/2021/PN Mlg,01/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+MUH. FAHMI MIRZA BARATA, S.H.
+
+Terdakwa:
+ALDI TRI PRASETYO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+640/Pid.B/2020/PN Mlg,12/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, S.H., M.H.
+
+Terdakwa:
+HARIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+592/Pid.B/2020/PN Mlg,11/24/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+SUPRIADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+569/Pid.B/2020/PN Mlg,11/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENI SETIANI, SH
+
+Terdakwa:
+SITI NUR AINI als. ENI",Pemberitahuan Putusan Banding,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+386/Pid.B/2020/PN Mlg,07/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+IKA KUSUMAWATI RATNANINGRUM, SH
+
+Terdakwa:
+MOCHAMAD FAISAL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+263/Pid.B/2020/PN Mlg,05/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DWI ANGGINI, SH
+
+Terdakwa:
+1.APIT BIN RUSLI
+2.TOHIR BIN ASWAR",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+234/Pid.B/2020/PN Mlg,05/15/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+TAUFIK AMINUDIN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+207/Pid.B/2020/PN Mlg,05/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+TRISNAULAN ARISANTI, SH
+
+Terdakwa:
+RETNO HARI FIRMANSYAH Bin MOCH. HASIM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+4/Pid.Sus-Anak/2020/PN Mlg,03/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DENNY TRISNASARI,S.H.
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+84/Pid.B/2020/PN Mlg,02/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
+
+Terdakwa:
+NUR FADILA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+63/Pid.B/2020/PN Mlg,02/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+MOCH. SAIFUL als KABUL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+704/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, SH
+
+Terdakwa:
+MOH.ROIS FIRMANSYAH H.S.AG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+700/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+KOESHARTANTO, SH
+
+Terdakwa:
+PRASETYO EKA SUTANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+695/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+HANUNG KRISWANDONO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+694/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+JOHNSON SASONO JACOB",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+639/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+NOBERTUS ATRIS SOLO ALIAS NORIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+638/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+DERMINTARI UMBU SIDDA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+637/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+BENEDIKTUS YAKIMI PAN ALIAS ICON",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+627/Pid.B/2019/PN Mlg,11/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RANNY DIAJENG PURNAMASARI SH
+
+Terdakwa:
+KARIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+414/Pid.B/2019/PN Mlg,08/12/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DYMAS ADJI WIBOWO
+
+Terdakwa:
+RENALDY SETIAWAN SUSANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+334/Pid.B/2019/PN Mlg,06/27/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+SAHRI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+274/Pid.B/2019/PN Mlg,05/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+IQNAS ADAM WANANDY bin alm RONY HERMAWAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+222/Pid.B/2019/PN Mlg,05/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ASFINA FADHLIA, SH. M.Kn
+
+Terdakwa:
+TRIO ADY WINATA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+157/Pid.B/2019/PN Mlg,04/05/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
+
+Terdakwa:
+HERU PRASETYO UTOMO bin AGUS RUSNIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+619/Pid.B/2018/PN Mlg,12/18/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MUCHLIS NURHAKIM. SH
+
+Terdakwa:
+ANANG SUHARSONO Alias WAKHE Bin DASRUM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+509/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+YOSUA WIBISONO.",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+508/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+1.AKHMAD YUSUF EFENDI Alias CIPENG
+2.SAID EFFENDI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/16/2021 00:00:00
+38/Pid.B/2021/PN Nga,05/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+NI KETUT CAHAYA LISTIANI, SH.
+
+Terdakwa:
+SULTON MUBIN ALS. SUL",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+26/Pid.B/2021/PN Nga,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I WAYAN YUDA SATRIA, SH.
+
+Terdakwa:
+GUSTI NGURAH KETUT MURDANA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+8/Pid.C/2020/PN Nga,11/06/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+I PUTU GEDE SUMERTA MAHARDIKA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+90/Pid.B/2020/PN Nga,07/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Made Ayu Olin
+
+Terdakwa:
+I KADE JUNIHARTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+46/Pid.B/2020/PN Nga,04/08/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Wayan Deasy Sriaryani, SH.
+
+Terdakwa:
+RICKY ANDIKA PUTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+9/Pid.B/2020/PN Nga,01/22/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+I KADEK SUDARMA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+8/Pid.B/2020/PN Nga,01/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+NI WAYAN IUSTIKASARI
+
+Terdakwa:
+DENY FATURAHMAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+37/Pid.C/2019/PN Nga,11/15/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+I Putu Widiartama Putra
+
+Terdakwa:
+I PUTU OKA DARMAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+134/Pid.B/2019/PN Nga,10/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+NGURAH KOMANG JULI PERMANA ALS.PULIIGUSTI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+76/Pid.B/2019/PN Nga,06/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Monika Dian Anggraini, SH.
+
+Terdakwa:
+RACHMAD WAHYUDI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+50/Pid.B/2019/PN Nga,04/18/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Ivan Praditya Putra
+
+Terdakwa:
+I KOMANG SUJA ARTAWAN ALS.PEDRO",Pencabutan Perkara Banding,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+7/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+EDY SUTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+9/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+ANSORI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+4/Pid.Sus-Anak/2019/PN Nga,03/21/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+GEDION ARDANA RESWARI, SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+25/Pid.B/2019/PN Nga,02/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NI MADE DESI MEGA PRATIWI
+
+Terdakwa:
+PUTU MERTA ARIAWAN Alias GUMBRING",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+1/Pid.C/2019/PN Nga,01/11/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+I KETUT DASTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+105/Pid.B/2018/PN Nga,09/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+HELMI WAHYU HUTAMA
+
+Terdakwa:
+I NENGAH SUARDANA ALS DANOK",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+15/Pid.C/2018/PN Nga,09/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+YASUL BAHRI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/16/2021 00:00:00
+22/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PARMAN JODI SIANTURI
+
+Termohon:
+1.PT MELIANA PERKASA SEJAHTERA
+2.SOEHANDI JOENOES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BUDI SUTRISNO
+2.KURNIAWAN SETYO UTOMO
+3.THOMAS TULUS PRASETYO
+4.YUDI WAHYU KRISTANTO
+5.AGUSTINA MUNJARYATI
+
+Termohon:
+CV INTI KHARISMA FURNITURE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/09/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+dr A FERIKALNDRIANTO
+
+Termohon:
+PT. ABIMANYULAND CAHYA ASIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BANTAR ISNADI
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Roy Kristianto
+2.Wirawan,
+3.Edi Soebekan Ekowanto
+
+Termohon:
+Achmad Kliwon Utomo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Arief Tri Laksono
+2.Aulia Rizki Wijaya
+
+Termohon:
+PT. STAR PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Nico Yunata Wijaya
+2.Rendy Yan Ferdinand
+3.Ade Teguh Chandra
+
+Termohon:
+Putri Dian Agustina",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+AHMAD MUDZAKIR
+
+Termohon:
+TEGUH SUPURBO",Tidak Memenuhi Syarat Formil,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DARMAWAN TRI ARIANTO
+2.ETTY WIDAYATI
+3.LANNY SETYAWATI
+4.DJUN GUNAWAN
+
+Termohon:
+KOPERASI SIMPAN PINJAM GUNA ARTHA SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DENNY SUWANTO
+2.BUDI KURNIA WIDAYATI
+
+Termohon:
+Koperasi Simpan Pinjam Aman Artha Sejahtera",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/06/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SEMBADA KARYA INDIGENE
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA,
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Semangat Berkat Melimpah
+
+Termohon:
+Risa Julianingrum",Pengiriman Berkas Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HASTANTO BOWO WOESONO
+2.AMI PRAWATI
+
+Termohon:
+PT. SALAM TEGUH PERKASA , PT.STP",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SITI ALIMAH
+
+Termohon:
+Koperasi Simpan Pinjam Syariah Logam Mulia",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ASIAN ENERGY HYDRO POWER, PTE. LTD.,
+
+Termohon:
+1.PT Berkat Manunggal Jaya
+2.AGUS BUDIHARTO
+3.Bapak Iskandar Poejiono
+4.Bapak Wahyu Iskandar,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/05/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Bank Rakyat Indonesia Persero Tbk
+
+Termohon:
+PT SEMAR PELITA SEJATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/30/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+LINAWATI SARTONO
+
+Termohon:
+1.CV. DAFELL INDONESIA
+2.OEI LIE HWEE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.drh. CAHYADITYA PRATAMA PUTRA, M.Sc.,
+2.ERINA SANDYASTA, A. MD.,
+
+Termohon:
+PT. MALIOBORO ENSU SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. ARI PONCO SETYADI, S.E., selaku Direktur PT. BPR Adipura Santosa Dahulu PT. BPR Nguter Sukoharjo
+
+Termohon:
+ALI AHMAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/19/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SONI SUHARYONO
+
+Termohon:
+1.JIMMY SOEGIARTO
+2.PT ELANG MAS SEMBADA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Adipura Agung Sakti
+
+Termohon:
+PT Adipura Agung Sakti",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2021/PN Niaga Smg,01/14/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+WARSITI selaku Direktur CV Tri Guna Jaya
+
+Termohon:
+PT. ABDI MULYA BERKAH",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+32/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+RIDWAN RAHARJO
+
+Termohon:
+BUDI HARTONO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+31/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.Bank Commonwealth
+
+Termohon:
+PT TIRTA AMARTA PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+30/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Very Budiawan selaku DIREKTUR PT ALFA POLIMER INDONESIA
+
+Termohon:
+1.CV APINDO
+2.ARIF RAHARDJO
+3.PINTO WIBOWO
+4.DONI TARUNA
+5.LINA NUR AFNI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+29/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. MANDIRI UTAMA TEHNIK
+2.PT. ENERGI LIDAH API
+
+Termohon:
+1.CV. TESUPA YOGYAKARTA
+2.YOVINA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA SRI SURANINGSIH
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM SENTRAL ARTHA SEJAHTERA
+2.AGATHA CHRISTYA PUJIWAHYUNINGSIH
+3.HERMAWAN SETIA BUDI, SE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+27/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/11/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SULIS
+
+Termohon:
+PT. HUSNA ALIDINOMO KARYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+26/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Disamarkan
+
+Termohon:
+Disamarkan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+25/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+DHANY HARYANTO
+
+Termohon:
+1.PT. KUSUMA MULIA SURYA PERKASA
+2.PT. SANCORINO DAMAI SEJAHTERA
+3.PT. PREMIER GLOBAL KUSUMANEGARA
+4.PT. ELANG JAYA PLASTIKINDO
+5.PT. RIOPENDAWA GALASUKSES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2020/PN Niaga Smg,09/24/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. FARMCSO FEED INDONESIA
+
+Termohon:
+LUKMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/25/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOKO NUGROHO
+
+Termohon:
+PT. PISMATEX TEXTILE INDUSTRY",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. REJO MADUSARI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BOEDY HARTONO
+2.JOHAN DJAJAKUSUMA
+
+Termohon:
+1.CV. Manunggal Jaya Perkasa,
+2.SANTOSO HINDARTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Yongki
+2.Ari Ginanjar Wibowo
+
+Termohon:
+1.PT. Riasarana Putrajaya
+2.Sugiono Sindarto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Nyonya NURLAILA BERNADIN
+
+Termohon:
+AGUS HARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BANK OCBC NISP,Tbk
+
+Termohon:
+1.PT ISTANA CENDRAWASIH MOTOR
+2.TUAN HENDRIK WIJAYA
+3.NYONYA LIENG INGGELINA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK CHINA CONSTRUCTION BANK INDONESIA dahulu PT. BANK WINDU KENTJANA INTERNASIONAL, Tbk
+
+Termohon:
+1.CV. SEMPURNA BOGA MAKMUR
+2.PO RAGIL BEDJO PURNOMO
+3.Ny. LIEM LILIANA YULIA,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/09/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.ALBERT RIYADI SUWONO, S.H., M.Kn.
+2.BUNADI SUWONO LIEM, SH
+3.LAURENSIA WINDY JAYA, S.E., S.H., M.Kn.
+
+Termohon:
+SANTOSO WINOTO alias TJANG TSE SAN",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BPR Adipura Santosa
+
+Termohon:
+RISWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2020/PN Niaga Smg,05/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.IVAN DWI KUSUMA
+2.LANNA WIJAYA
+
+Termohon:
+Koperasi Simpan Pinjam Intidana. Dkk.",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. Sarang Mulia Mandiri
+2.CV. Apollo Sakti Motor
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. WILLY SUDJONO
+
+Termohon:
+1.PT. ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.HARDIMAS KOKOH MANDIRI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SUKSES MAJU BERSAMA
+
+Termohon:
+PT. KOKORIA",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SISMONO REKSO WARDOYO
+2.V. ELIANI ERAWATI S
+
+Termohon:
+KOPERASI SIMPAN PINJAM JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/04/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. KUSUMA JAYA PERSADA
+
+Termohon:
+PT. MEGATAMA PUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Herman Kadari
+2.WAHYU HAFID
+3.H. Henny Supriadi Koentoyo
+
+Termohon:
+PT. Central Multi Rotopack",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Setiyono
+
+Termohon:
+1.UD. MUTIARA JAYA
+2.EDHI WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/28/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SETIA MAKMUR
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. TOSSA SHAKTI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/15/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK MAYBANK INDONESIA TBK
+
+Termohon:
+PT. TOSSA SHAKTI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/08/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.INDRIANI WIDYA HASTUTY
+2.DAMIANUS GAGAT DWI PARYANA
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM DANAMULIA
+2.SITI NUR ZUBAEDAH
+3.ENDAH KURNIAWATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2019/PN Niaga Smg,12/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/17/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. PETRA PERSADA SENTOSA
+
+Termohon:
+1.AGUNG KOESBIYANTO,
+2.RINA MARTIANA WIDIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Mitra Karya Usaha Sejahtera
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOSEPH CHAN FOOK ONN
+
+Termohon:
+1.PT. MULYA JAYA PERKASA CEMERLANG
+2.YOHANES SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/24/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK VICTORIA SYARIAH
+
+Termohon:
+H. FUAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SURYA INDO GEMILANG
+
+Termohon:
+1.CV. SAMUDERA
+2.RIANTO MUKJANTO
+3.ANTHONY RIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SANTI WIDIJASTUTI SH
+2.YULIANTI
+
+Termohon:
+PT KRISMA WATU LAND",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BIMBO KERTAPATI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. DIAN RAKYAT
+
+Termohon:
+1.CV. ANEKA ILMU
+2.H. SUWANTO, SE.MM",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HARYADI
+2.IMAM BASUKI
+
+Termohon:
+1.PT ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUPRAMONCO
+2.BUDI HARTONO
+3.SLAMET WAHYUDI, S.Sos
+4.YUNI SUPRIYANTO
+
+Termohon:
+GANGSAR TRISDIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2019/PN Niaga Smg,07/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ROBERT DIONO LOHO
+
+Termohon:
+PT. INDOMULTI PLASINDO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+INRI RAWIS DKK
+
+Termohon:
+PT INDUSTRI DAN DAGANG AMOR ABADI SEMARANG",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. HARDO SOLOPLAST
+
+Termohon:
+1.PT. SUKSES ABADI KARYA INTI
+2.PT. DUNIA PANGAN
+3.PT. JATISARI SRIREJEKI
+4.PT. INDO BERAS UNGGUL",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/02/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MARTHIUS CHRISTIJONO
+
+Termohon:
+YUDIANTO AGUNG SAPUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/15/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Ir. YUSUF AJI TOROB DKK
+
+Termohon:
+Ir. ARMEDTA BUDI ASMARA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/10/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BERLIAN EMAS SEJAHTERA
+
+Termohon:
+HADI UTOMO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/25/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ENIWATI HALIM SOETIKNO DKK
+
+Termohon:
+KSP JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+TEGUH YUDOPAMBUDI
+
+Termohon:
+OENNY JAUWHANNES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA RAHAYU BUDHIATI DKK
+
+Termohon:
+KSP JATENG MANDIRI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SARWONO
+
+Termohon:
+Tn. SONNY HENDRAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MELIANI DKK
+
+Termohon:
+GO DODDY PUTRA PRAYOGO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+568/Pid.B/2021/PN Smg,09/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+MULYONO Als Pak MUL Bin SODIKIN.",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+567/Pid.B/2021/PN Smg,09/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+OEI HOK SUN BIN OEI SEE BENG Alm",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+557/Pid.B/2021/PN Smg,08/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+SAEFUL ANWAR alias SUWUNG bin SAYADI",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+518/Pid.B/2021/PN Smg,08/12/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD ZA IM WAHYUDI, SH
+
+Terdakwa:
+EGY SYAHPUTRA bin Alm DJOJO SUWITO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+449/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.HELGA ARIES PERDANA bin ABDUL GANI
+2.DENI PRASETYO bin SUWARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+450/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+P. WULANDARI, SH
+
+Terdakwa:
+SAID ALMASARI NAHDI Bin ARSAD NAHDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2021/PN Smg,07/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Shandy Kurniawan Pratama Bin Nur Awan Agus Santoso",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+439/Pid.B/2021/PN Smg,07/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+HUDA TRIA SAPUTRA Bin SUBUR SANTOSO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pid.C/2021/PN Smg,07/05/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Agus Prastyanto
+
+Terdakwa:
+Apriliya Metis Purnamawati alias Nonik",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+410/Pid.B/2021/PN Smg,07/01/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+RIO PANGESTU Bin AHMAD LEONARD MANDAGI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+402/Pid.B/2021/PN Smg,06/28/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+TRI ANDARTO, SH
+
+Terdakwa:
+ANGGA BIN Alm SUMARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+399/Pid.B/2021/PN Smg,06/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M SUPRIYANTO
+
+Terdakwa:
+ENDRA CAHYA MUJIADI Bin MUJIADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+331/Pid.B/2021/PN Smg,05/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+HERI RIKMAWAN BIN RASMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+251/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+NGATEMIN Bin AMAT AMIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+Remigius Mosa Bin Petrus Raki Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+205/Pid.B/2021/PN Smg,04/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+RIZKI SUGIARTO Als KEKEK Bin MUGIONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+199/Pid.B/2021/PN Smg,03/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+W YUANITA SENDY N, SH
+
+Terdakwa:
+Ferry Yanuar Kristanto Bin Herman Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.C/2021/PN Smg,02/24/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Budi Susanto
+
+Terdakwa:
+SOFIANA ARZA MAULA Binti MUCH SOFYAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+84/Pid.B/2021/PN Smg,02/08/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERICA NORMASARI, SH
+
+Terdakwa:
+1.SANDI JOKO KRISTANTO Bin KRISTANTUS DJAKISAN
+2.ADI CAHYO PURNOMO Bin KRISTANTUS DJAKISAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+80/Pid.B/2021/PN Smg,02/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+GITA SANTIKA
+
+Terdakwa:
+Julian Richie Hermawan Bin Alm Soedjak",Pemberitahuan Putusan Banding,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.C/2021/PN Smg,01/25/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M. WAHADI
+
+Terdakwa:
+Aldo Sebastian Suprapto bin Guntoro Suprapto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+60/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+HERY SUSANTO Alias BLONDO Bin SAMSUHADI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+61/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+DARSONO alias KEMPUNG Bin WONGSO Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+52/Pid.B/2021/PN Smg,01/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.ANDI IRAWAN Bin ASWANDI.
+2.BOWO WICAKSONO Bin JOKO TUTUKO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pid.C/2021/PN Smg,01/06/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Wahyu Sudrajad
+
+Terdakwa:
+Zulkarnaein alias Zul bin Ady Raswanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.B/2021/PN Smg,01/04/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DODIT JANUARIANTO als. DODIT Bin alm DIDIK SURYADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+726/Pid.B/2020/PN Smg,12/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+ACHMAD RIDWAN Bin MUCHAMAD AMIRUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pid.C/2020/PN Smg,11/12/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+SARIMIN, SH
+
+Terdakwa:
+LICHAFID Als SERLY Binti SAKRONI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+653/Pid.B/2020/PN Smg,11/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DOHAN KAMALUDIN alias ARAB Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+649/Pid.B/2020/PN Smg,11/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+RIFKY NOR AFFANDI Alias GARENG Bin Alm FANI KUMALA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pid.C/2020/PN Smg,10/08/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Rheinanto Yulius K
+
+Terdakwa:
+Rukanah binti alm Iskak",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+521/Pid.B/2020/PN Smg,09/07/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+AGUNG WASIS PAMUJI Bin AFANDI alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+499/Pid.B/2020/PN Smg,08/25/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+1.KEVIN CHRISNANDIKA bin AGUNG BUDI HARYANTO
+2.DIMAS SAPUTRO bin STEFANUS JUNJUNG PRAKOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pid.C/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Yoga Tegar Saputra SH
+
+Terdakwa:
+Husein Herlino bin Mochamad Rifai,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pid.Sus-Anak/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+465/Pid.B/2020/PN Smg,08/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITHRIYAH,SH
+
+Terdakwa:
+SURANTO Alias RANTO Bin SUKIRNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+464/Pid.B/2020/PN Smg,08/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HATMA ADITYA JANANURAGA SH
+
+Terdakwa:
+RIVAL ARIANTO Als.LONDO Bin ARISMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+IVAN ARDHANA SUSANTO Bin DWI SUSANTO",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+444/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+SHAHIDAN AFDABin AHMAD FENUS",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+430/Pid.B/2020/PN Smg,07/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+1.MUH ABDUL AJIS Bin MUH ABDUL MAJID
+2.DINAR TEGUH PRABOWO Bin alm AHMAD SUNYOTO
+3.EKO RIYADI alias JAMBRONG Bin alm AHMAD SUNYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+415/Pid.B/2020/PN Smg,07/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.SISWANTO bin UNTUNG WARDOYO
+2.BERNADO BUDI PRASOJO bin DAUD MARPAUNG
+3.FREDI PRASETYO bin SETYOHARJO
+4.DIAN BUNTORO Bin EDI SUPARNO.
+5.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+6.HENRI KURNIAWAN bin HASAN HARIRIK
+7.PETRUS PRASTIYO bin SUJAM YOHANES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+401/Pid.B/2020/PN Smg,07/02/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Muhammad Umar Prayogi Bin Agus Ferry Mathias",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+384/Pid.B/2020/PN Smg,06/29/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ZAHRI AENIWATI , SH
+
+Terdakwa:
+BUDI CAHYONO Bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+342/Pid.B/2020/PN Smg,06/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ARIF SULISTYA BUDI bin Drs.SUJITO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+295/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITRIYAH, SH
+
+Terdakwa:
+GAYUH WISNU AJI ALIAS GAYUH SISWONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+302/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+NIKO NOVAL EKA SAPUTRA bin JOKO SUSILO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+225/Pid.B/2020/PN Smg,04/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.RYEIBEL ANGGITHA BASKORO Bin BUDI BASKORO
+2.MOCH. FATHUR RAZI Bin SUMAWIYANTO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.C/2020/PN Smg,04/09/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Aji Wijaya SH
+
+Terdakwa:
+Denny Yudianto Pradana",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+175/Pid.B/2020/PN Smg,03/23/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+JOSUA RENALDO alias YOS Bin BASIRAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+161/Pid.B/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.AMPRI MARDIKA Bin SURATMAN
+2.IRAWAN Bin MUHAMMAD ZAINI
+3.ADE PUTRA MAHARDIKA Bin Alm KADAR ISWADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+157/Pid.B/2020/PN Smg,03/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+UNGGUL WICAKSONO Alias PIONG Bin WIDODO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pid.C/2020/PN Smg,03/11/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Teguh Bekti
+
+Terdakwa:
+Budi santoso bin Muhamad Sofyan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+138/Pid.B/2020/PN Smg,03/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AMAT SAFII bin SARDJANI
+2.ISWANTO bin SUTOMO
+3.JONI ISTANTO bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+131/Pid.B/2020/PN Smg,03/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+HARDIYANTO alias ARDI Bin SUPRIYANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+86/Pid.B/2020/PN Smg,02/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+Bannu Artha Mulia bin Muhamad Iskandar",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+48/Pid.B/2020/PN Smg,01/30/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+EKO BUDI PRASETYO Bin SEMEDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.Sus-Anak/2020/PN Smg,01/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pid.B/2020/PN Smg,01/21/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+SUGIYANTO Als SUGIK BIN alm NGASIPAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+875/Pid.B/2019/PN Smg,12/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+1.AGUN WINARDI Bin Alm LOSO
+2.WIDODO SOERONIOTO Bin Alm SOETOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+803/Pid.B/2019/PN Smg,11/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+1.KUSTONO Bin alm TARNO MIHARJO
+2.EKO SETIYANTO Bin Alm SUROSO SLAMET
+3.CHANDRA ADI SAPUTRA Bin alm MULDIONO
+4.AGUS SETIAWAN
+5.MARYOTO Al BOLONG Bin Alm DARMADI
+6.FAJAR CHRISTANTO Bin ARIF EKO HANDOKO
+7.AGUNG SUSANTO Bin SANTOSO
+8.BUDI KURNIAWAN Bin Alm SUHADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+764/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.RISKI SANDI MAHENDRA Bin SUGIYANTO.
+2.SEPTIAN PRANAMA PUTRA Bin RUSLI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+763/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ALEXANDER EDISON ALFATUR TANJUNG Bin SEMSAILUS MARCELO LALUPUA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+758/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Terdakwa:
+JAMAL bin MOH. AMINUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+751/Pid.B/2019/PN Smg,10/22/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+SOKO WARDONO BIN HARSO WARDONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+739/Pid.B/2019/PN Smg,10/17/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIANI DIAH KALVIKAWATI,SH
+
+Terdakwa:
+ALVIN SETIAWAN BIN SONI SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+706/Pid.B/2019/PN Smg,10/03/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+RIZKY PANDU SATRIA Bin ARIK WINTORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+692/Pid.B/2019/PN Smg,09/25/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+DOHAN KAMALUDIN Alias JOHAN Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+667/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NALA ARJHUNTO,SH
+
+Terdakwa:
+1.MOHAMMAD MAFI DAVID BIN SUGIASTONO
+2.FAUZI ADE FIRMASNYAH ALS KECING BIN BAMBANG SUTEJO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+675/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Joko Imawanto alias Bobi bin Imam Susanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+47/Pid.C/2019/PN Smg,09/18/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+TURYONO
+
+Terdakwa:
+KHOERUL MUSTAJAB Bin MUFID",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+646/Pid.B/2019/PN Smg,09/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+ADI KURNIAWAN bin RUSLAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+604/Pid.B/2019/PN Smg,08/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+1.Denny Rully Pradana Bin Rully Ismono
+2.Rully Ismono bin Effendy
+3.Sunyoto Bin Sukasdjo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+531/Pid.B/2019/PN Smg,07/30/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NIAM FIRDAUS,SH
+
+Terdakwa:
+SUWANTO als AMING bin KASENO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+471/Pid.B/2019/PN Smg,07/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+MUHAMAD ADI IRAWAN BIN LEGIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2019/PN Smg,07/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+YANI ERNAWATI,S.H
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+426/Pid.B/2019/PN Smg,06/24/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+BUDI YUWONO BIN USUP MARTO UTOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+400/Pid.B/2019/PN Smg,05/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+SETIYONO als JABRIK bin KARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+284/Pid.B/2019/PN Smg,04/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+1.YOMI RASNA TARNIYANTO BIN DWI BUDIYANTO
+2.DEWA FUAD PRIYONO Als BERTO Bin MADUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+246/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+ERWAN SANTOSO Bin SUPARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+LILIK PUJIANTO Bin SUTRISNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+236/Pid.B/2019/PN Smg,04/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+MOH QOSIM Bin DJAIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+221/Pid.B/2019/PN Smg,03/26/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+TONI CAHYONO Bin KWA TJIAN SUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+40/Pid.C/2019/PN Smg,03/25/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M BAHRIN,SH
+
+Terdakwa:
+RULLY BAHARUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pid.C/2019/PN Smg,03/04/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Sukrisnadi, S.Ag
+
+Terdakwa:
+H BAMBANG MARYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+122/Pid.B/2019/PN Smg,02/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+FREDI PRASETYO Bin SUPRI,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.B/2019/PN Smg,01/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SATENO,SH
+
+Terdakwa:
+1.JULIANTO TARIDA Alias SITANGGANG Alias JOSEP Bin LIAS SITANGGANG
+2.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+3.RIYAWAN Alis MAS IR Bin DURI
+4.JOEL WELIMSON LUBIS Alias LUBIS Bin MARULI LUBIS
+5.JUNIACI PARLAUNGAN SAUT PARULIAN Bin LUTHER SILALAHI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+900/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+RIKI SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+899/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+NUR DAVIT SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+898/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+SANTOSO Alias SADAM Bin SUTRIYO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+867/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+JOKO NURYANTO Bin DJAETUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+866/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.ARI SETIAWAN bin WINARTO
+2.NIKO SETIAWAN Bin CAHYONO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+852/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+RUDI SULISTYO alias BAGONG bin HERI ANJASMORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+826/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AHMAD FAUZI SAPUTRO als. PONYO bin NARTO
+2.ANGGIT SEPTIAWAN als. JENGKI bin KUSWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+831/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSILOWATI IDANINGSIH, SH
+
+Terdakwa:
+1.ANDREI AKBAR PRATAMA Bin SUBADI
+2.HIMBO SAPUTRO Bin WINADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+97/Pid.C/2018/PN Smg,11/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+EKO PRIYANTONO
+
+Terdakwa:
+ACHMAD TAUFIK",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+799/Pid.B/2018/PN Smg,11/19/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA KHAIRUNNISA,SH
+
+Terdakwa:
+ANDIKA DWI PRASETYO Bin SUYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+796/Pid.B/2018/PN Smg,11/15/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Kayantu Bagoes Saputro Alias Kayan Bin Sartono Saleh Tunggal",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+702/Pid.B/2018/PN Smg,10/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+NARMIN BIN SULAR",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+681/Pid.B/2018/PN Smg,10/02/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+DANI SURYAWAN bin JUMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PARMAN JODI SIANTURI
+
+Termohon:
+1.PT MELIANA PERKASA SEJAHTERA
+2.SOEHANDI JOENOES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BUDI SUTRISNO
+2.KURNIAWAN SETYO UTOMO
+3.THOMAS TULUS PRASETYO
+4.YUDI WAHYU KRISTANTO
+5.AGUSTINA MUNJARYATI
+
+Termohon:
+CV INTI KHARISMA FURNITURE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/09/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+dr A FERIKALNDRIANTO
+
+Termohon:
+PT. ABIMANYULAND CAHYA ASIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BANTAR ISNADI
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Roy Kristianto
+2.Wirawan,
+3.Edi Soebekan Ekowanto
+
+Termohon:
+Achmad Kliwon Utomo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Arief Tri Laksono
+2.Aulia Rizki Wijaya
+
+Termohon:
+PT. STAR PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Nico Yunata Wijaya
+2.Rendy Yan Ferdinand
+3.Ade Teguh Chandra
+
+Termohon:
+Putri Dian Agustina",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+AHMAD MUDZAKIR
+
+Termohon:
+TEGUH SUPURBO",Tidak Memenuhi Syarat Formil,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DARMAWAN TRI ARIANTO
+2.ETTY WIDAYATI
+3.LANNY SETYAWATI
+4.DJUN GUNAWAN
+
+Termohon:
+KOPERASI SIMPAN PINJAM GUNA ARTHA SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DENNY SUWANTO
+2.BUDI KURNIA WIDAYATI
+
+Termohon:
+Koperasi Simpan Pinjam Aman Artha Sejahtera",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/06/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SEMBADA KARYA INDIGENE
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA,
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Semangat Berkat Melimpah
+
+Termohon:
+Risa Julianingrum",Pengiriman Berkas Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HASTANTO BOWO WOESONO
+2.AMI PRAWATI
+
+Termohon:
+PT. SALAM TEGUH PERKASA , PT.STP",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SITI ALIMAH
+
+Termohon:
+Koperasi Simpan Pinjam Syariah Logam Mulia",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ASIAN ENERGY HYDRO POWER, PTE. LTD.,
+
+Termohon:
+1.PT Berkat Manunggal Jaya
+2.AGUS BUDIHARTO
+3.Bapak Iskandar Poejiono
+4.Bapak Wahyu Iskandar,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/05/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Bank Rakyat Indonesia Persero Tbk
+
+Termohon:
+PT SEMAR PELITA SEJATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/30/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+LINAWATI SARTONO
+
+Termohon:
+1.CV. DAFELL INDONESIA
+2.OEI LIE HWEE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.drh. CAHYADITYA PRATAMA PUTRA, M.Sc.,
+2.ERINA SANDYASTA, A. MD.,
+
+Termohon:
+PT. MALIOBORO ENSU SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. ARI PONCO SETYADI, S.E., selaku Direktur PT. BPR Adipura Santosa Dahulu PT. BPR Nguter Sukoharjo
+
+Termohon:
+ALI AHMAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/19/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SONI SUHARYONO
+
+Termohon:
+1.JIMMY SOEGIARTO
+2.PT ELANG MAS SEMBADA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Adipura Agung Sakti
+
+Termohon:
+PT Adipura Agung Sakti",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2021/PN Niaga Smg,01/14/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+WARSITI selaku Direktur CV Tri Guna Jaya
+
+Termohon:
+PT. ABDI MULYA BERKAH",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+32/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+RIDWAN RAHARJO
+
+Termohon:
+BUDI HARTONO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+31/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.Bank Commonwealth
+
+Termohon:
+PT TIRTA AMARTA PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+30/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Very Budiawan selaku DIREKTUR PT ALFA POLIMER INDONESIA
+
+Termohon:
+1.CV APINDO
+2.ARIF RAHARDJO
+3.PINTO WIBOWO
+4.DONI TARUNA
+5.LINA NUR AFNI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+29/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. MANDIRI UTAMA TEHNIK
+2.PT. ENERGI LIDAH API
+
+Termohon:
+1.CV. TESUPA YOGYAKARTA
+2.YOVINA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA SRI SURANINGSIH
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM SENTRAL ARTHA SEJAHTERA
+2.AGATHA CHRISTYA PUJIWAHYUNINGSIH
+3.HERMAWAN SETIA BUDI, SE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+27/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/11/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SULIS
+
+Termohon:
+PT. HUSNA ALIDINOMO KARYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+26/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Disamarkan
+
+Termohon:
+Disamarkan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+25/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+DHANY HARYANTO
+
+Termohon:
+1.PT. KUSUMA MULIA SURYA PERKASA
+2.PT. SANCORINO DAMAI SEJAHTERA
+3.PT. PREMIER GLOBAL KUSUMANEGARA
+4.PT. ELANG JAYA PLASTIKINDO
+5.PT. RIOPENDAWA GALASUKSES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2020/PN Niaga Smg,09/24/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. FARMCSO FEED INDONESIA
+
+Termohon:
+LUKMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/25/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOKO NUGROHO
+
+Termohon:
+PT. PISMATEX TEXTILE INDUSTRY",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. REJO MADUSARI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BOEDY HARTONO
+2.JOHAN DJAJAKUSUMA
+
+Termohon:
+1.CV. Manunggal Jaya Perkasa,
+2.SANTOSO HINDARTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Yongki
+2.Ari Ginanjar Wibowo
+
+Termohon:
+1.PT. Riasarana Putrajaya
+2.Sugiono Sindarto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Nyonya NURLAILA BERNADIN
+
+Termohon:
+AGUS HARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BANK OCBC NISP,Tbk
+
+Termohon:
+1.PT ISTANA CENDRAWASIH MOTOR
+2.TUAN HENDRIK WIJAYA
+3.NYONYA LIENG INGGELINA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK CHINA CONSTRUCTION BANK INDONESIA dahulu PT. BANK WINDU KENTJANA INTERNASIONAL, Tbk
+
+Termohon:
+1.CV. SEMPURNA BOGA MAKMUR
+2.PO RAGIL BEDJO PURNOMO
+3.Ny. LIEM LILIANA YULIA,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/09/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.ALBERT RIYADI SUWONO, S.H., M.Kn.
+2.BUNADI SUWONO LIEM, SH
+3.LAURENSIA WINDY JAYA, S.E., S.H., M.Kn.
+
+Termohon:
+SANTOSO WINOTO alias TJANG TSE SAN",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BPR Adipura Santosa
+
+Termohon:
+RISWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2020/PN Niaga Smg,05/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.IVAN DWI KUSUMA
+2.LANNA WIJAYA
+
+Termohon:
+Koperasi Simpan Pinjam Intidana. Dkk.",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. Sarang Mulia Mandiri
+2.CV. Apollo Sakti Motor
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. WILLY SUDJONO
+
+Termohon:
+1.PT. ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.HARDIMAS KOKOH MANDIRI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SUKSES MAJU BERSAMA
+
+Termohon:
+PT. KOKORIA",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SISMONO REKSO WARDOYO
+2.V. ELIANI ERAWATI S
+
+Termohon:
+KOPERASI SIMPAN PINJAM JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/04/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. KUSUMA JAYA PERSADA
+
+Termohon:
+PT. MEGATAMA PUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Herman Kadari
+2.WAHYU HAFID
+3.H. Henny Supriadi Koentoyo
+
+Termohon:
+PT. Central Multi Rotopack",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Setiyono
+
+Termohon:
+1.UD. MUTIARA JAYA
+2.EDHI WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/28/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SETIA MAKMUR
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. TOSSA SHAKTI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/15/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK MAYBANK INDONESIA TBK
+
+Termohon:
+PT. TOSSA SHAKTI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/08/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.INDRIANI WIDYA HASTUTY
+2.DAMIANUS GAGAT DWI PARYANA
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM DANAMULIA
+2.SITI NUR ZUBAEDAH
+3.ENDAH KURNIAWATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2019/PN Niaga Smg,12/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/17/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. PETRA PERSADA SENTOSA
+
+Termohon:
+1.AGUNG KOESBIYANTO,
+2.RINA MARTIANA WIDIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Mitra Karya Usaha Sejahtera
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOSEPH CHAN FOOK ONN
+
+Termohon:
+1.PT. MULYA JAYA PERKASA CEMERLANG
+2.YOHANES SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/24/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK VICTORIA SYARIAH
+
+Termohon:
+H. FUAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SURYA INDO GEMILANG
+
+Termohon:
+1.CV. SAMUDERA
+2.RIANTO MUKJANTO
+3.ANTHONY RIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SANTI WIDIJASTUTI SH
+2.YULIANTI
+
+Termohon:
+PT KRISMA WATU LAND",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BIMBO KERTAPATI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. DIAN RAKYAT
+
+Termohon:
+1.CV. ANEKA ILMU
+2.H. SUWANTO, SE.MM",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HARYADI
+2.IMAM BASUKI
+
+Termohon:
+1.PT ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUPRAMONCO
+2.BUDI HARTONO
+3.SLAMET WAHYUDI, S.Sos
+4.YUNI SUPRIYANTO
+
+Termohon:
+GANGSAR TRISDIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2019/PN Niaga Smg,07/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ROBERT DIONO LOHO
+
+Termohon:
+PT. INDOMULTI PLASINDO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+INRI RAWIS DKK
+
+Termohon:
+PT INDUSTRI DAN DAGANG AMOR ABADI SEMARANG",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. HARDO SOLOPLAST
+
+Termohon:
+1.PT. SUKSES ABADI KARYA INTI
+2.PT. DUNIA PANGAN
+3.PT. JATISARI SRIREJEKI
+4.PT. INDO BERAS UNGGUL",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/02/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MARTHIUS CHRISTIJONO
+
+Termohon:
+YUDIANTO AGUNG SAPUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/15/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Ir. YUSUF AJI TOROB DKK
+
+Termohon:
+Ir. ARMEDTA BUDI ASMARA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/10/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BERLIAN EMAS SEJAHTERA
+
+Termohon:
+HADI UTOMO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/25/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ENIWATI HALIM SOETIKNO DKK
+
+Termohon:
+KSP JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+TEGUH YUDOPAMBUDI
+
+Termohon:
+OENNY JAUWHANNES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA RAHAYU BUDHIATI DKK
+
+Termohon:
+KSP JATENG MANDIRI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SARWONO
+
+Termohon:
+Tn. SONNY HENDRAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MELIANI DKK
+
+Termohon:
+GO DODDY PUTRA PRAYOGO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+568/Pid.B/2021/PN Smg,09/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+MULYONO Als Pak MUL Bin SODIKIN.",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+567/Pid.B/2021/PN Smg,09/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+OEI HOK SUN BIN OEI SEE BENG Alm",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+557/Pid.B/2021/PN Smg,08/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+SAEFUL ANWAR alias SUWUNG bin SAYADI",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+518/Pid.B/2021/PN Smg,08/12/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD ZA IM WAHYUDI, SH
+
+Terdakwa:
+EGY SYAHPUTRA bin Alm DJOJO SUWITO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+449/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.HELGA ARIES PERDANA bin ABDUL GANI
+2.DENI PRASETYO bin SUWARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+450/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+P. WULANDARI, SH
+
+Terdakwa:
+SAID ALMASARI NAHDI Bin ARSAD NAHDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2021/PN Smg,07/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Shandy Kurniawan Pratama Bin Nur Awan Agus Santoso",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+439/Pid.B/2021/PN Smg,07/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+HUDA TRIA SAPUTRA Bin SUBUR SANTOSO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pid.C/2021/PN Smg,07/05/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Agus Prastyanto
+
+Terdakwa:
+Apriliya Metis Purnamawati alias Nonik",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+410/Pid.B/2021/PN Smg,07/01/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+RIO PANGESTU Bin AHMAD LEONARD MANDAGI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+402/Pid.B/2021/PN Smg,06/28/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+TRI ANDARTO, SH
+
+Terdakwa:
+ANGGA BIN Alm SUMARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+399/Pid.B/2021/PN Smg,06/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M SUPRIYANTO
+
+Terdakwa:
+ENDRA CAHYA MUJIADI Bin MUJIADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+331/Pid.B/2021/PN Smg,05/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+HERI RIKMAWAN BIN RASMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+251/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+NGATEMIN Bin AMAT AMIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+Remigius Mosa Bin Petrus Raki Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+205/Pid.B/2021/PN Smg,04/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+RIZKI SUGIARTO Als KEKEK Bin MUGIONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+199/Pid.B/2021/PN Smg,03/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+W YUANITA SENDY N, SH
+
+Terdakwa:
+Ferry Yanuar Kristanto Bin Herman Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.C/2021/PN Smg,02/24/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Budi Susanto
+
+Terdakwa:
+SOFIANA ARZA MAULA Binti MUCH SOFYAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+84/Pid.B/2021/PN Smg,02/08/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERICA NORMASARI, SH
+
+Terdakwa:
+1.SANDI JOKO KRISTANTO Bin KRISTANTUS DJAKISAN
+2.ADI CAHYO PURNOMO Bin KRISTANTUS DJAKISAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+80/Pid.B/2021/PN Smg,02/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+GITA SANTIKA
+
+Terdakwa:
+Julian Richie Hermawan Bin Alm Soedjak",Pemberitahuan Putusan Banding,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.C/2021/PN Smg,01/25/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M. WAHADI
+
+Terdakwa:
+Aldo Sebastian Suprapto bin Guntoro Suprapto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+60/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+HERY SUSANTO Alias BLONDO Bin SAMSUHADI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+61/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+DARSONO alias KEMPUNG Bin WONGSO Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+52/Pid.B/2021/PN Smg,01/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.ANDI IRAWAN Bin ASWANDI.
+2.BOWO WICAKSONO Bin JOKO TUTUKO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pid.C/2021/PN Smg,01/06/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Wahyu Sudrajad
+
+Terdakwa:
+Zulkarnaein alias Zul bin Ady Raswanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.B/2021/PN Smg,01/04/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DODIT JANUARIANTO als. DODIT Bin alm DIDIK SURYADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+726/Pid.B/2020/PN Smg,12/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+ACHMAD RIDWAN Bin MUCHAMAD AMIRUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pid.C/2020/PN Smg,11/12/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+SARIMIN, SH
+
+Terdakwa:
+LICHAFID Als SERLY Binti SAKRONI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+653/Pid.B/2020/PN Smg,11/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DOHAN KAMALUDIN alias ARAB Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+649/Pid.B/2020/PN Smg,11/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+RIFKY NOR AFFANDI Alias GARENG Bin Alm FANI KUMALA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pid.C/2020/PN Smg,10/08/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Rheinanto Yulius K
+
+Terdakwa:
+Rukanah binti alm Iskak",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+521/Pid.B/2020/PN Smg,09/07/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+AGUNG WASIS PAMUJI Bin AFANDI alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+499/Pid.B/2020/PN Smg,08/25/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+1.KEVIN CHRISNANDIKA bin AGUNG BUDI HARYANTO
+2.DIMAS SAPUTRO bin STEFANUS JUNJUNG PRAKOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pid.C/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Yoga Tegar Saputra SH
+
+Terdakwa:
+Husein Herlino bin Mochamad Rifai,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pid.Sus-Anak/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+465/Pid.B/2020/PN Smg,08/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITHRIYAH,SH
+
+Terdakwa:
+SURANTO Alias RANTO Bin SUKIRNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+464/Pid.B/2020/PN Smg,08/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HATMA ADITYA JANANURAGA SH
+
+Terdakwa:
+RIVAL ARIANTO Als.LONDO Bin ARISMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+IVAN ARDHANA SUSANTO Bin DWI SUSANTO",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+444/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+SHAHIDAN AFDABin AHMAD FENUS",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+430/Pid.B/2020/PN Smg,07/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+1.MUH ABDUL AJIS Bin MUH ABDUL MAJID
+2.DINAR TEGUH PRABOWO Bin alm AHMAD SUNYOTO
+3.EKO RIYADI alias JAMBRONG Bin alm AHMAD SUNYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+415/Pid.B/2020/PN Smg,07/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.SISWANTO bin UNTUNG WARDOYO
+2.BERNADO BUDI PRASOJO bin DAUD MARPAUNG
+3.FREDI PRASETYO bin SETYOHARJO
+4.DIAN BUNTORO Bin EDI SUPARNO.
+5.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+6.HENRI KURNIAWAN bin HASAN HARIRIK
+7.PETRUS PRASTIYO bin SUJAM YOHANES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+401/Pid.B/2020/PN Smg,07/02/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Muhammad Umar Prayogi Bin Agus Ferry Mathias",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+384/Pid.B/2020/PN Smg,06/29/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ZAHRI AENIWATI , SH
+
+Terdakwa:
+BUDI CAHYONO Bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+342/Pid.B/2020/PN Smg,06/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ARIF SULISTYA BUDI bin Drs.SUJITO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+295/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITRIYAH, SH
+
+Terdakwa:
+GAYUH WISNU AJI ALIAS GAYUH SISWONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+302/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+NIKO NOVAL EKA SAPUTRA bin JOKO SUSILO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+225/Pid.B/2020/PN Smg,04/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.RYEIBEL ANGGITHA BASKORO Bin BUDI BASKORO
+2.MOCH. FATHUR RAZI Bin SUMAWIYANTO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.C/2020/PN Smg,04/09/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Aji Wijaya SH
+
+Terdakwa:
+Denny Yudianto Pradana",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+175/Pid.B/2020/PN Smg,03/23/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+JOSUA RENALDO alias YOS Bin BASIRAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+161/Pid.B/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.AMPRI MARDIKA Bin SURATMAN
+2.IRAWAN Bin MUHAMMAD ZAINI
+3.ADE PUTRA MAHARDIKA Bin Alm KADAR ISWADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+157/Pid.B/2020/PN Smg,03/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+UNGGUL WICAKSONO Alias PIONG Bin WIDODO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pid.C/2020/PN Smg,03/11/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Teguh Bekti
+
+Terdakwa:
+Budi santoso bin Muhamad Sofyan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+138/Pid.B/2020/PN Smg,03/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AMAT SAFII bin SARDJANI
+2.ISWANTO bin SUTOMO
+3.JONI ISTANTO bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+131/Pid.B/2020/PN Smg,03/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+HARDIYANTO alias ARDI Bin SUPRIYANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+86/Pid.B/2020/PN Smg,02/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+Bannu Artha Mulia bin Muhamad Iskandar",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+48/Pid.B/2020/PN Smg,01/30/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+EKO BUDI PRASETYO Bin SEMEDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.Sus-Anak/2020/PN Smg,01/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pid.B/2020/PN Smg,01/21/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+SUGIYANTO Als SUGIK BIN alm NGASIPAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+875/Pid.B/2019/PN Smg,12/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+1.AGUN WINARDI Bin Alm LOSO
+2.WIDODO SOERONIOTO Bin Alm SOETOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+803/Pid.B/2019/PN Smg,11/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+1.KUSTONO Bin alm TARNO MIHARJO
+2.EKO SETIYANTO Bin Alm SUROSO SLAMET
+3.CHANDRA ADI SAPUTRA Bin alm MULDIONO
+4.AGUS SETIAWAN
+5.MARYOTO Al BOLONG Bin Alm DARMADI
+6.FAJAR CHRISTANTO Bin ARIF EKO HANDOKO
+7.AGUNG SUSANTO Bin SANTOSO
+8.BUDI KURNIAWAN Bin Alm SUHADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+764/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.RISKI SANDI MAHENDRA Bin SUGIYANTO.
+2.SEPTIAN PRANAMA PUTRA Bin RUSLI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+763/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ALEXANDER EDISON ALFATUR TANJUNG Bin SEMSAILUS MARCELO LALUPUA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+758/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Terdakwa:
+JAMAL bin MOH. AMINUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+751/Pid.B/2019/PN Smg,10/22/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+SOKO WARDONO BIN HARSO WARDONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+739/Pid.B/2019/PN Smg,10/17/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIANI DIAH KALVIKAWATI,SH
+
+Terdakwa:
+ALVIN SETIAWAN BIN SONI SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+706/Pid.B/2019/PN Smg,10/03/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+RIZKY PANDU SATRIA Bin ARIK WINTORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+692/Pid.B/2019/PN Smg,09/25/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+DOHAN KAMALUDIN Alias JOHAN Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+667/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NALA ARJHUNTO,SH
+
+Terdakwa:
+1.MOHAMMAD MAFI DAVID BIN SUGIASTONO
+2.FAUZI ADE FIRMASNYAH ALS KECING BIN BAMBANG SUTEJO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+675/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Joko Imawanto alias Bobi bin Imam Susanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+47/Pid.C/2019/PN Smg,09/18/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+TURYONO
+
+Terdakwa:
+KHOERUL MUSTAJAB Bin MUFID",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+646/Pid.B/2019/PN Smg,09/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+ADI KURNIAWAN bin RUSLAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+604/Pid.B/2019/PN Smg,08/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+1.Denny Rully Pradana Bin Rully Ismono
+2.Rully Ismono bin Effendy
+3.Sunyoto Bin Sukasdjo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+531/Pid.B/2019/PN Smg,07/30/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NIAM FIRDAUS,SH
+
+Terdakwa:
+SUWANTO als AMING bin KASENO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+471/Pid.B/2019/PN Smg,07/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+MUHAMAD ADI IRAWAN BIN LEGIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2019/PN Smg,07/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+YANI ERNAWATI,S.H
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+426/Pid.B/2019/PN Smg,06/24/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+BUDI YUWONO BIN USUP MARTO UTOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+400/Pid.B/2019/PN Smg,05/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+SETIYONO als JABRIK bin KARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+284/Pid.B/2019/PN Smg,04/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+1.YOMI RASNA TARNIYANTO BIN DWI BUDIYANTO
+2.DEWA FUAD PRIYONO Als BERTO Bin MADUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+246/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+ERWAN SANTOSO Bin SUPARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+LILIK PUJIANTO Bin SUTRISNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+236/Pid.B/2019/PN Smg,04/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+MOH QOSIM Bin DJAIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+221/Pid.B/2019/PN Smg,03/26/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+TONI CAHYONO Bin KWA TJIAN SUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+40/Pid.C/2019/PN Smg,03/25/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M BAHRIN,SH
+
+Terdakwa:
+RULLY BAHARUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pid.C/2019/PN Smg,03/04/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Sukrisnadi, S.Ag
+
+Terdakwa:
+H BAMBANG MARYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+122/Pid.B/2019/PN Smg,02/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+FREDI PRASETYO Bin SUPRI,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.B/2019/PN Smg,01/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SATENO,SH
+
+Terdakwa:
+1.JULIANTO TARIDA Alias SITANGGANG Alias JOSEP Bin LIAS SITANGGANG
+2.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+3.RIYAWAN Alis MAS IR Bin DURI
+4.JOEL WELIMSON LUBIS Alias LUBIS Bin MARULI LUBIS
+5.JUNIACI PARLAUNGAN SAUT PARULIAN Bin LUTHER SILALAHI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+900/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+RIKI SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+899/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+NUR DAVIT SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+898/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+SANTOSO Alias SADAM Bin SUTRIYO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+867/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+JOKO NURYANTO Bin DJAETUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+866/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.ARI SETIAWAN bin WINARTO
+2.NIKO SETIAWAN Bin CAHYONO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+852/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+RUDI SULISTYO alias BAGONG bin HERI ANJASMORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+826/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AHMAD FAUZI SAPUTRO als. PONYO bin NARTO
+2.ANGGIT SEPTIAWAN als. JENGKI bin KUSWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+831/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSILOWATI IDANINGSIH, SH
+
+Terdakwa:
+1.ANDREI AKBAR PRATAMA Bin SUBADI
+2.HIMBO SAPUTRO Bin WINADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+97/Pid.C/2018/PN Smg,11/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+EKO PRIYANTONO
+
+Terdakwa:
+ACHMAD TAUFIK",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+799/Pid.B/2018/PN Smg,11/19/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA KHAIRUNNISA,SH
+
+Terdakwa:
+ANDIKA DWI PRASETYO Bin SUYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+796/Pid.B/2018/PN Smg,11/15/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Kayantu Bagoes Saputro Alias Kayan Bin Sartono Saleh Tunggal",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+702/Pid.B/2018/PN Smg,10/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+NARMIN BIN SULAR",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+681/Pid.B/2018/PN Smg,10/02/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+DANI SURYAWAN bin JUMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PARMAN JODI SIANTURI
+
+Termohon:
+1.PT MELIANA PERKASA SEJAHTERA
+2.SOEHANDI JOENOES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BUDI SUTRISNO
+2.KURNIAWAN SETYO UTOMO
+3.THOMAS TULUS PRASETYO
+4.YUDI WAHYU KRISTANTO
+5.AGUSTINA MUNJARYATI
+
+Termohon:
+CV INTI KHARISMA FURNITURE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/09/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+dr A FERIKALNDRIANTO
+
+Termohon:
+PT. ABIMANYULAND CAHYA ASIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2021/PN Niaga Smg,08/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BANTAR ISNADI
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Roy Kristianto
+2.Wirawan,
+3.Edi Soebekan Ekowanto
+
+Termohon:
+Achmad Kliwon Utomo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2021/PN Niaga Smg,07/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Arief Tri Laksono
+2.Aulia Rizki Wijaya
+
+Termohon:
+PT. STAR PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Nico Yunata Wijaya
+2.Rendy Yan Ferdinand
+3.Ade Teguh Chandra
+
+Termohon:
+Putri Dian Agustina",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+AHMAD MUDZAKIR
+
+Termohon:
+TEGUH SUPURBO",Tidak Memenuhi Syarat Formil,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2021/PN Niaga Smg,06/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DARMAWAN TRI ARIANTO
+2.ETTY WIDAYATI
+3.LANNY SETYAWATI
+4.DJUN GUNAWAN
+
+Termohon:
+KOPERASI SIMPAN PINJAM GUNA ARTHA SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DENNY SUWANTO
+2.BUDI KURNIA WIDAYATI
+
+Termohon:
+Koperasi Simpan Pinjam Aman Artha Sejahtera",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/06/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SEMBADA KARYA INDIGENE
+
+Termohon:
+1.PT. KARYA MITRA NUGRAHA,
+2.PT. KURNIA ADIJAYA MANDIRI
+3.PERMADIE SETIAKUSUMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2021/PN Niaga Smg,05/03/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Semangat Berkat Melimpah
+
+Termohon:
+Risa Julianingrum",Pengiriman Berkas Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HASTANTO BOWO WOESONO
+2.AMI PRAWATI
+
+Termohon:
+PT. SALAM TEGUH PERKASA , PT.STP",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SITI ALIMAH
+
+Termohon:
+Koperasi Simpan Pinjam Syariah Logam Mulia",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ASIAN ENERGY HYDRO POWER, PTE. LTD.,
+
+Termohon:
+1.PT Berkat Manunggal Jaya
+2.AGUS BUDIHARTO
+3.Bapak Iskandar Poejiono
+4.Bapak Wahyu Iskandar,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2021/PN Niaga Smg,04/05/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Bank Rakyat Indonesia Persero Tbk
+
+Termohon:
+PT SEMAR PELITA SEJATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/30/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+LINAWATI SARTONO
+
+Termohon:
+1.CV. DAFELL INDONESIA
+2.OEI LIE HWEE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.drh. CAHYADITYA PRATAMA PUTRA, M.Sc.,
+2.ERINA SANDYASTA, A. MD.,
+
+Termohon:
+PT. MALIOBORO ENSU SEJAHTERA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2021/PN Niaga Smg,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. ARI PONCO SETYADI, S.E., selaku Direktur PT. BPR Adipura Santosa Dahulu PT. BPR Nguter Sukoharjo
+
+Termohon:
+ALI AHMAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/19/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SONI SUHARYONO
+
+Termohon:
+1.JIMMY SOEGIARTO
+2.PT ELANG MAS SEMBADA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2021/PN Niaga Smg,02/08/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Adipura Agung Sakti
+
+Termohon:
+PT Adipura Agung Sakti",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2021/PN Niaga Smg,01/14/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+WARSITI selaku Direktur CV Tri Guna Jaya
+
+Termohon:
+PT. ABDI MULYA BERKAH",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+32/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+RIDWAN RAHARJO
+
+Termohon:
+BUDI HARTONO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+31/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.Bank Commonwealth
+
+Termohon:
+PT TIRTA AMARTA PRIMA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+30/Pdt.Sus-Pailit/2020/PN Niaga Smg,12/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Very Budiawan selaku DIREKTUR PT ALFA POLIMER INDONESIA
+
+Termohon:
+1.CV APINDO
+2.ARIF RAHARDJO
+3.PINTO WIBOWO
+4.DONI TARUNA
+5.LINA NUR AFNI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+29/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. MANDIRI UTAMA TEHNIK
+2.PT. ENERGI LIDAH API
+
+Termohon:
+1.CV. TESUPA YOGYAKARTA
+2.YOVINA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA SRI SURANINGSIH
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM SENTRAL ARTHA SEJAHTERA
+2.AGATHA CHRISTYA PUJIWAHYUNINGSIH
+3.HERMAWAN SETIA BUDI, SE",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+27/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/11/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SULIS
+
+Termohon:
+PT. HUSNA ALIDINOMO KARYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+26/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Disamarkan
+
+Termohon:
+Disamarkan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+25/Pdt.Sus-Pailit/2020/PN Niaga Smg,11/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+DHANY HARYANTO
+
+Termohon:
+1.PT. KUSUMA MULIA SURYA PERKASA
+2.PT. SANCORINO DAMAI SEJAHTERA
+3.PT. PREMIER GLOBAL KUSUMANEGARA
+4.PT. ELANG JAYA PLASTIKINDO
+5.PT. RIOPENDAWA GALASUKSES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2020/PN Niaga Smg,09/24/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. FARMCSO FEED INDONESIA
+
+Termohon:
+LUKMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/25/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOKO NUGROHO
+
+Termohon:
+PT. PISMATEX TEXTILE INDUSTRY",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2020/PN Niaga Smg,08/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. REJO MADUSARI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BOEDY HARTONO
+2.JOHAN DJAJAKUSUMA
+
+Termohon:
+1.CV. Manunggal Jaya Perkasa,
+2.SANTOSO HINDARTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Yongki
+2.Ari Ginanjar Wibowo
+
+Termohon:
+1.PT. Riasarana Putrajaya
+2.Sugiono Sindarto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/30/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Nyonya NURLAILA BERNADIN
+
+Termohon:
+AGUS HARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BANK OCBC NISP,Tbk
+
+Termohon:
+1.PT ISTANA CENDRAWASIH MOTOR
+2.TUAN HENDRIK WIJAYA
+3.NYONYA LIENG INGGELINA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2020/PN Niaga Smg,07/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK CHINA CONSTRUCTION BANK INDONESIA dahulu PT. BANK WINDU KENTJANA INTERNASIONAL, Tbk
+
+Termohon:
+1.CV. SEMPURNA BOGA MAKMUR
+2.PO RAGIL BEDJO PURNOMO
+3.Ny. LIEM LILIANA YULIA,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/09/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.ALBERT RIYADI SUWONO, S.H., M.Kn.
+2.BUNADI SUWONO LIEM, SH
+3.LAURENSIA WINDY JAYA, S.E., S.H., M.Kn.
+
+Termohon:
+SANTOSO WINOTO alias TJANG TSE SAN",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2020/PN Niaga Smg,06/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BPR Adipura Santosa
+
+Termohon:
+RISWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2020/PN Niaga Smg,05/26/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.IVAN DWI KUSUMA
+2.LANNA WIJAYA
+
+Termohon:
+Koperasi Simpan Pinjam Intidana. Dkk.",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. Sarang Mulia Mandiri
+2.CV. Apollo Sakti Motor
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+A. WILLY SUDJONO
+
+Termohon:
+1.PT. ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT.HARDIMAS KOKOH MANDIRI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/12/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SUKSES MAJU BERSAMA
+
+Termohon:
+PT. KOKORIA",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/10/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SISMONO REKSO WARDOYO
+2.V. ELIANI ERAWATI S
+
+Termohon:
+KOPERASI SIMPAN PINJAM JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/04/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. KUSUMA JAYA PERSADA
+
+Termohon:
+PT. MEGATAMA PUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/03/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Herman Kadari
+2.WAHYU HAFID
+3.H. Henny Supriadi Koentoyo
+
+Termohon:
+PT. Central Multi Rotopack",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2020/PN Niaga Smg,03/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Setiyono
+
+Termohon:
+1.UD. MUTIARA JAYA
+2.EDHI WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/28/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SETIA MAKMUR
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/20/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. TOSSA SHAKTI
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/16/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/15/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK MAYBANK INDONESIA TBK
+
+Termohon:
+PT. TOSSA SHAKTI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2020/PN Niaga Smg,01/08/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.INDRIANI WIDYA HASTUTY
+2.DAMIANUS GAGAT DWI PARYANA
+
+Termohon:
+1.KOPERASI SIMPAN PINJAM DANAMULIA
+2.SITI NUR ZUBAEDAH
+3.ENDAH KURNIAWATI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2019/PN Niaga Smg,12/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. UNITED SHIPPING INDONESIA
+
+Termohon:
+PT. TOSSA SHAKTI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/17/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. PETRA PERSADA SENTOSA
+
+Termohon:
+1.AGUNG KOESBIYANTO,
+2.RINA MARTIANA WIDIA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. Mitra Karya Usaha Sejahtera
+
+Termohon:
+Tidak ada Termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2019/PN Niaga Smg,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+JOSEPH CHAN FOOK ONN
+
+Termohon:
+1.PT. MULYA JAYA PERKASA CEMERLANG
+2.YOHANES SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/24/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK VICTORIA SYARIAH
+
+Termohon:
+H. FUAD",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SURYA INDO GEMILANG
+
+Termohon:
+1.CV. SAMUDERA
+2.RIANTO MUKJANTO
+3.ANTHONY RIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SANTI WIDIJASTUTI SH
+2.YULIANTI
+
+Termohon:
+PT KRISMA WATU LAND",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2019/PN Niaga Smg,09/16/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+BIMBO KERTAPATI
+
+Termohon:
+tidak ada termohonnya",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. DIAN RAKYAT
+
+Termohon:
+1.CV. ANEKA ILMU
+2.H. SUWANTO, SE.MM",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HARYADI
+2.IMAM BASUKI
+
+Termohon:
+1.PT ASLI MOTOR KLATEN
+2.PURNOMO BUDI SANTOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2019/PN Niaga Smg,08/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUPRAMONCO
+2.BUDI HARTONO
+3.SLAMET WAHYUDI, S.Sos
+4.YUNI SUPRIYANTO
+
+Termohon:
+GANGSAR TRISDIANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2019/PN Niaga Smg,07/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ROBERT DIONO LOHO
+
+Termohon:
+PT. INDOMULTI PLASINDO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+INRI RAWIS DKK
+
+Termohon:
+PT INDUSTRI DAN DAGANG AMOR ABADI SEMARANG",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/06/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. HARDO SOLOPLAST
+
+Termohon:
+1.PT. SUKSES ABADI KARYA INTI
+2.PT. DUNIA PANGAN
+3.PT. JATISARI SRIREJEKI
+4.PT. INDO BERAS UNGGUL",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2019/PN Niaga Smg,05/02/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MARTHIUS CHRISTIJONO
+
+Termohon:
+YUDIANTO AGUNG SAPUTRA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/15/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Ir. YUSUF AJI TOROB DKK
+
+Termohon:
+Ir. ARMEDTA BUDI ASMARA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2019/PN Niaga Smg,04/10/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BERLIAN EMAS SEJAHTERA
+
+Termohon:
+HADI UTOMO",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/25/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ENIWATI HALIM SOETIKNO DKK
+
+Termohon:
+KSP JATENG MANDIRI",Pemberitahuan Putus Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2019/PN Niaga Smg,03/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+TEGUH YUDOPAMBUDI
+
+Termohon:
+OENNY JAUWHANNES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+VERONICA RAHAYU BUDHIATI DKK
+
+Termohon:
+KSP JATENG MANDIRI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+SARWONO
+
+Termohon:
+Tn. SONNY HENDRAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2019/PN Niaga Smg,02/26/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+MELIANI DKK
+
+Termohon:
+GO DODDY PUTRA PRAYOGO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+568/Pid.B/2021/PN Smg,09/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+MULYONO Als Pak MUL Bin SODIKIN.",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+567/Pid.B/2021/PN Smg,09/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+OEI HOK SUN BIN OEI SEE BENG Alm",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+557/Pid.B/2021/PN Smg,08/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+SAEFUL ANWAR alias SUWUNG bin SAYADI",Persidangan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+518/Pid.B/2021/PN Smg,08/12/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD ZA IM WAHYUDI, SH
+
+Terdakwa:
+EGY SYAHPUTRA bin Alm DJOJO SUWITO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+449/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.HELGA ARIES PERDANA bin ABDUL GANI
+2.DENI PRASETYO bin SUWARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+450/Pid.B/2021/PN Smg,07/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+P. WULANDARI, SH
+
+Terdakwa:
+SAID ALMASARI NAHDI Bin ARSAD NAHDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2021/PN Smg,07/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Shandy Kurniawan Pratama Bin Nur Awan Agus Santoso",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+439/Pid.B/2021/PN Smg,07/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+HUDA TRIA SAPUTRA Bin SUBUR SANTOSO",Tuntutan,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+16/Pid.C/2021/PN Smg,07/05/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Agus Prastyanto
+
+Terdakwa:
+Apriliya Metis Purnamawati alias Nonik",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+410/Pid.B/2021/PN Smg,07/01/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+RIO PANGESTU Bin AHMAD LEONARD MANDAGI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+402/Pid.B/2021/PN Smg,06/28/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+TRI ANDARTO, SH
+
+Terdakwa:
+ANGGA BIN Alm SUMARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+399/Pid.B/2021/PN Smg,06/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M SUPRIYANTO
+
+Terdakwa:
+ENDRA CAHYA MUJIADI Bin MUJIADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+331/Pid.B/2021/PN Smg,05/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+HERI RIKMAWAN BIN RASMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+251/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+NGATEMIN Bin AMAT AMIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2021/PN Smg,04/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+Remigius Mosa Bin Petrus Raki Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+205/Pid.B/2021/PN Smg,04/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+RIZKI SUGIARTO Als KEKEK Bin MUGIONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+199/Pid.B/2021/PN Smg,03/30/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+W YUANITA SENDY N, SH
+
+Terdakwa:
+Ferry Yanuar Kristanto Bin Herman Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.C/2021/PN Smg,02/24/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Budi Susanto
+
+Terdakwa:
+SOFIANA ARZA MAULA Binti MUCH SOFYAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+84/Pid.B/2021/PN Smg,02/08/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ERICA NORMASARI, SH
+
+Terdakwa:
+1.SANDI JOKO KRISTANTO Bin KRISTANTUS DJAKISAN
+2.ADI CAHYO PURNOMO Bin KRISTANTUS DJAKISAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+80/Pid.B/2021/PN Smg,02/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+GITA SANTIKA
+
+Terdakwa:
+Julian Richie Hermawan Bin Alm Soedjak",Pemberitahuan Putusan Banding,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.C/2021/PN Smg,01/25/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M. WAHADI
+
+Terdakwa:
+Aldo Sebastian Suprapto bin Guntoro Suprapto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+60/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+HERY SUSANTO Alias BLONDO Bin SAMSUHADI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+61/Pid.B/2021/PN Smg,01/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+DARSONO alias KEMPUNG Bin WONGSO Alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+52/Pid.B/2021/PN Smg,01/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.ANDI IRAWAN Bin ASWANDI.
+2.BOWO WICAKSONO Bin JOKO TUTUKO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+1/Pid.C/2021/PN Smg,01/06/2021 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Wahyu Sudrajad
+
+Terdakwa:
+Zulkarnaein alias Zul bin Ady Raswanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+4/Pid.B/2021/PN Smg,01/04/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DODIT JANUARIANTO als. DODIT Bin alm DIDIK SURYADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+726/Pid.B/2020/PN Smg,12/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+ACHMAD RIDWAN Bin MUCHAMAD AMIRUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+21/Pid.C/2020/PN Smg,11/12/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+SARIMIN, SH
+
+Terdakwa:
+LICHAFID Als SERLY Binti SAKRONI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+653/Pid.B/2020/PN Smg,11/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPINTO PRIYONO
+
+Terdakwa:
+DOHAN KAMALUDIN alias ARAB Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+649/Pid.B/2020/PN Smg,11/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+RIFKY NOR AFFANDI Alias GARENG Bin Alm FANI KUMALA WIJAYA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+19/Pid.C/2020/PN Smg,10/08/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Rheinanto Yulius K
+
+Terdakwa:
+Rukanah binti alm Iskak",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+521/Pid.B/2020/PN Smg,09/07/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+AGUNG WASIS PAMUJI Bin AFANDI alm",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+499/Pid.B/2020/PN Smg,08/25/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Terdakwa:
+1.KEVIN CHRISNANDIKA bin AGUNG BUDI HARYANTO
+2.DIMAS SAPUTRO bin STEFANUS JUNJUNG PRAKOSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+17/Pid.C/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Yoga Tegar Saputra SH
+
+Terdakwa:
+Husein Herlino bin Mochamad Rifai,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+18/Pid.Sus-Anak/2020/PN Smg,08/19/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+465/Pid.B/2020/PN Smg,08/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITHRIYAH,SH
+
+Terdakwa:
+SURANTO Alias RANTO Bin SUKIRNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+464/Pid.B/2020/PN Smg,08/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HATMA ADITYA JANANURAGA SH
+
+Terdakwa:
+RIVAL ARIANTO Als.LONDO Bin ARISMANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+446/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+IVAN ARDHANA SUSANTO Bin DWI SUSANTO",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+444/Pid.B/2020/PN Smg,07/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+SHAHIDAN AFDABin AHMAD FENUS",Penyerahan Kontra Memori Kasasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+430/Pid.B/2020/PN Smg,07/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+1.MUH ABDUL AJIS Bin MUH ABDUL MAJID
+2.DINAR TEGUH PRABOWO Bin alm AHMAD SUNYOTO
+3.EKO RIYADI alias JAMBRONG Bin alm AHMAD SUNYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+415/Pid.B/2020/PN Smg,07/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+1.SISWANTO bin UNTUNG WARDOYO
+2.BERNADO BUDI PRASOJO bin DAUD MARPAUNG
+3.FREDI PRASETYO bin SETYOHARJO
+4.DIAN BUNTORO Bin EDI SUPARNO.
+5.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+6.HENRI KURNIAWAN bin HASAN HARIRIK
+7.PETRUS PRASTIYO bin SUJAM YOHANES",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+401/Pid.B/2020/PN Smg,07/02/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Muhammad Umar Prayogi Bin Agus Ferry Mathias",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+384/Pid.B/2020/PN Smg,06/29/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ZAHRI AENIWATI , SH
+
+Terdakwa:
+BUDI CAHYONO Bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+342/Pid.B/2020/PN Smg,06/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ARIF SULISTYA BUDI bin Drs.SUJITO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+295/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FITRIYAH, SH
+
+Terdakwa:
+GAYUH WISNU AJI ALIAS GAYUH SISWONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+302/Pid.B/2020/PN Smg,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+NIKO NOVAL EKA SAPUTRA bin JOKO SUSILO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+225/Pid.B/2020/PN Smg,04/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ARDHIKA WISNUP,SH
+
+Terdakwa:
+1.RYEIBEL ANGGITHA BASKORO Bin BUDI BASKORO
+2.MOCH. FATHUR RAZI Bin SUMAWIYANTO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.C/2020/PN Smg,04/09/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Aji Wijaya SH
+
+Terdakwa:
+Denny Yudianto Pradana",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+175/Pid.B/2020/PN Smg,03/23/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+JOSUA RENALDO alias YOS Bin BASIRAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+161/Pid.B/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.AMPRI MARDIKA Bin SURATMAN
+2.IRAWAN Bin MUHAMMAD ZAINI
+3.ADE PUTRA MAHARDIKA Bin Alm KADAR ISWADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2020/PN Smg,03/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIANA WINDAWATI,SH.MHUM
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+157/Pid.B/2020/PN Smg,03/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSTIAWATI,SH.MH
+
+Terdakwa:
+UNGGUL WICAKSONO Alias PIONG Bin WIDODO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+6/Pid.C/2020/PN Smg,03/11/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Teguh Bekti
+
+Terdakwa:
+Budi santoso bin Muhamad Sofyan",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+138/Pid.B/2020/PN Smg,03/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AMAT SAFII bin SARDJANI
+2.ISWANTO bin SUTOMO
+3.JONI ISTANTO bin MARYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+131/Pid.B/2020/PN Smg,03/04/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+HARDIYANTO alias ARDI Bin SUPRIYANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+86/Pid.B/2020/PN Smg,02/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDIN, SH
+
+Terdakwa:
+Bannu Artha Mulia bin Muhamad Iskandar",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+48/Pid.B/2020/PN Smg,01/30/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+EKO BUDI PRASETYO Bin SEMEDI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.Sus-Anak/2020/PN Smg,01/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+28/Pid.B/2020/PN Smg,01/21/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS ERNIYATI,SH.MH
+
+Terdakwa:
+SUGIYANTO Als SUGIK BIN alm NGASIPAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+875/Pid.B/2019/PN Smg,12/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+PRIHANANTO,SH
+
+Terdakwa:
+1.AGUN WINARDI Bin Alm LOSO
+2.WIDODO SOERONIOTO Bin Alm SOETOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+803/Pid.B/2019/PN Smg,11/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA AYU PRATAMA,SH
+
+Terdakwa:
+1.KUSTONO Bin alm TARNO MIHARJO
+2.EKO SETIYANTO Bin Alm SUROSO SLAMET
+3.CHANDRA ADI SAPUTRA Bin alm MULDIONO
+4.AGUS SETIAWAN
+5.MARYOTO Al BOLONG Bin Alm DARMADI
+6.FAJAR CHRISTANTO Bin ARIF EKO HANDOKO
+7.AGUNG SUSANTO Bin SANTOSO
+8.BUDI KURNIAWAN Bin Alm SUHADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+764/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+1.RISKI SANDI MAHENDRA Bin SUGIYANTO.
+2.SEPTIAN PRANAMA PUTRA Bin RUSLI.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+763/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Gilang Prama Jasa
+
+Terdakwa:
+ALEXANDER EDISON ALFATUR TANJUNG Bin SEMSAILUS MARCELO LALUPUA",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+758/Pid.B/2019/PN Smg,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Fitria Yudhiana SH
+
+Terdakwa:
+JAMAL bin MOH. AMINUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+751/Pid.B/2019/PN Smg,10/22/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SYAFRUDDIN,SH
+
+Terdakwa:
+SOKO WARDONO BIN HARSO WARDONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+739/Pid.B/2019/PN Smg,10/17/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIANI DIAH KALVIKAWATI,SH
+
+Terdakwa:
+ALVIN SETIAWAN BIN SONI SETIAWAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+706/Pid.B/2019/PN Smg,10/03/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+RIZKY PANDU SATRIA Bin ARIK WINTORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+692/Pid.B/2019/PN Smg,09/25/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+DOHAN KAMALUDIN Alias JOHAN Bin ANWAR FAHRUROZI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+667/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NALA ARJHUNTO,SH
+
+Terdakwa:
+1.MOHAMMAD MAFI DAVID BIN SUGIASTONO
+2.FAUZI ADE FIRMASNYAH ALS KECING BIN BAMBANG SUTEJO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+675/Pid.B/2019/PN Smg,09/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+Joko Imawanto alias Bobi bin Imam Susanto",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+47/Pid.C/2019/PN Smg,09/18/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+TURYONO
+
+Terdakwa:
+KHOERUL MUSTAJAB Bin MUFID",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+646/Pid.B/2019/PN Smg,09/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+ADI KURNIAWAN bin RUSLAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+604/Pid.B/2019/PN Smg,08/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ADIMAS HARYOSETYO
+
+Terdakwa:
+1.Denny Rully Pradana Bin Rully Ismono
+2.Rully Ismono bin Effendy
+3.Sunyoto Bin Sukasdjo",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+531/Pid.B/2019/PN Smg,07/30/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NIAM FIRDAUS,SH
+
+Terdakwa:
+SUWANTO als AMING bin KASENO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+471/Pid.B/2019/PN Smg,07/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+MUHAMAD ADI IRAWAN BIN LEGIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+9/Pid.Sus-Anak/2019/PN Smg,07/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+YANI ERNAWATI,S.H
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+426/Pid.B/2019/PN Smg,06/24/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FARAH DIAN WIJAYANTI, SH.MH
+
+Terdakwa:
+BUDI YUWONO BIN USUP MARTO UTOMO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+400/Pid.B/2019/PN Smg,05/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+SETIYONO als JABRIK bin KARTONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+284/Pid.B/2019/PN Smg,04/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+INDAH LAILA SH.MH
+
+Terdakwa:
+1.YOMI RASNA TARNIYANTO BIN DWI BUDIYANTO
+2.DEWA FUAD PRIYONO Als BERTO Bin MADUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+246/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+M.SUPRIYANTO,SH.
+
+Terdakwa:
+ERWAN SANTOSO Bin SUPARNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+250/Pid.B/2019/PN Smg,04/09/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Darwin Situmeang, SH
+
+Terdakwa:
+LILIK PUJIANTO Bin SUTRISNO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+236/Pid.B/2019/PN Smg,04/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Puji Andrayani , SH
+
+Terdakwa:
+MOH QOSIM Bin DJAIMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+221/Pid.B/2019/PN Smg,03/26/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Nofiati Djamiah,SH,MHum.
+
+Terdakwa:
+TONI CAHYONO Bin KWA TJIAN SUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+40/Pid.C/2019/PN Smg,03/25/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+M BAHRIN,SH
+
+Terdakwa:
+RULLY BAHARUDIN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+15/Pid.C/2019/PN Smg,03/04/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Sukrisnadi, S.Ag
+
+Terdakwa:
+H BAMBANG MARYOTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+122/Pid.B/2019/PN Smg,02/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+FREDI PRASETYO Bin SUPRI,",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+3/Pid.B/2019/PN Smg,01/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SATENO,SH
+
+Terdakwa:
+1.JULIANTO TARIDA Alias SITANGGANG Alias JOSEP Bin LIAS SITANGGANG
+2.PONINTON NAINGGOLAN Alias PITON Bin MARDI NAINGGOLAN
+3.RIYAWAN Alis MAS IR Bin DURI
+4.JOEL WELIMSON LUBIS Alias LUBIS Bin MARULI LUBIS
+5.JUNIACI PARLAUNGAN SAUT PARULIAN Bin LUTHER SILALAHI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+900/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+RIKI SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+899/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+BAGUS SUSENO,SH.,MH
+
+Terdakwa:
+NUR DAVIT SETYAWAN Als KIRUN Bin RUSMINTARSO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+898/Pid.B/2018/PN Smg,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+RINA CHRISTINA T,SH
+
+Terdakwa:
+SANTOSO Alias SADAM Bin SUTRIYO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+867/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+JOKO NURYANTO Bin DJAETUN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+866/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.ARI SETIAWAN bin WINARTO
+2.NIKO SETIAWAN Bin CAHYONO.",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+852/Pid.B/2018/PN Smg,12/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+RUDI SULISTYO alias BAGONG bin HERI ANJASMORO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+826/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+STEVEN LAZARUS,SH.
+
+Terdakwa:
+1.AHMAD FAUZI SAPUTRO als. PONYO bin NARTO
+2.ANGGIT SEPTIAWAN als. JENGKI bin KUSWANTO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+831/Pid.B/2018/PN Smg,11/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSILOWATI IDANINGSIH, SH
+
+Terdakwa:
+1.ANDREI AKBAR PRATAMA Bin SUBADI
+2.HIMBO SAPUTRO Bin WINADI",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+97/Pid.C/2018/PN Smg,11/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+EKO PRIYANTONO
+
+Terdakwa:
+ACHMAD TAUFIK",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+799/Pid.B/2018/PN Smg,11/19/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+VIDYA KHAIRUNNISA,SH
+
+Terdakwa:
+ANDIKA DWI PRASETYO Bin SUYONO",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+796/Pid.B/2018/PN Smg,11/15/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ERA HANDAYANI SH,MH
+
+Terdakwa:
+Kayantu Bagoes Saputro Alias Kayan Bin Sartono Saleh Tunggal",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+702/Pid.B/2018/PN Smg,10/11/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEWI RAHMANINGSIH NUGROHO, SHs
+
+Terdakwa:
+NARMIN BIN SULAR",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+681/Pid.B/2018/PN Smg,10/02/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+Rilke Dj Palar,SH
+
+Terdakwa:
+DANI SURYAWAN bin JUMAN",Minutasi,PN SEMARANG,sipp.pn-semarangkota.go.id/,09/18/2021 00:00:00
+26/Pdt.Sus-Pailit/2021/PN Niaga Sby,09/07/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.FRIDA SAMOSIR
+2.DARMO SIANTURI
+3.ERVINA
+4.MERIKA MARPAUNG
+
+Termohon:
+ERNITA FLORA MARPAUNG",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+25/Pdt.Sus-Pailit/2021/PN Niaga Sby,09/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT LESTARI KHATULISTIWA
+2.PT. PELAYARAN WAHANA GEMILANG SAMUDERA RAYA DalamPailit
+
+Termohon:
+PT. HASWIN HIJAU PERKASA",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2021/PN Niaga Sby,08/25/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.AGUS FANDI
+2.AGUS SALEH
+
+Termohon:
+MUHAMMAD LUTFI EDYANTO, SE",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2021/PN Niaga Sby,07/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.MOHAMMAD BAHRUL ULUM
+2.HASAN BISRI
+
+Termohon:
+1.PT. SINAR BARU KARYA MAKMUR
+2.MELYANAWATI
+3.HARIYANTO TEDJO",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2021/PN Niaga Sby,07/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Chandra Natalie Widjaja,
+
+Termohon:
+PT. Corpus Asa Mandiri",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2021/PN Niaga Sby,07/27/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+ONGKY WIRA SETIAWAN
+
+Termohon:
+1.CV. HOLTI TECH
+2.HENDRO SURATMAN",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2021/PN Niaga Sby,06/22/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+TUTIEK RETNOWATI
+
+Termohon:
+H. ACHMAD SIDQUS SYAHDI, SE. alias ACHMAD SIDQUS SYAHDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2021/PN Niaga Sby,06/21/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Drs. H. MUHAMMAD ZAKKI, M. Si
+
+Termohon:
+PT. KATINGAN INMAS SARANA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2021/PN Niaga Sby,06/11/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+AGUSTIAWAN DINATA
+
+Termohon:
+BUDHI GUNAWAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2021/PN Niaga Sby,06/11/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+AGUSTIAWAN DINATA
+
+Termohon:
+PT. SAVOURY SMART POINT",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2021/PN Niaga Sby,06/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.ADREAS LEONARDI DOTULUNG
+2.YUNUS
+
+Termohon:
+1.CV. KARYA MANDIRI
+2.SARWAN HADI SUSANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2021/PN Niaga Sby,05/28/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. KHARISMA PEMASARAN BERSAMA NUSANTARA
+
+Termohon:
+1.PT. SAKTI MAIT JAYA LANGIT
+2.PT. MENTARI aGUNG JAYA USAHA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2021/PN Niaga Sby,05/18/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. TIMBERDANA
+2.PT. HUTAN MAHLIGAI
+
+Termohon:
+PT. RIMBA RAYA LESTARI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2021/PN Niaga Sby,05/05/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.AGUS SULTONI, SE.
+2.AHMAD BASTHOMI
+
+Termohon:
+1.CV. SINAR MULIA MANDIRI
+2.CHINTIA NINDYAWATI ROFISA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/25/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+Rachmat Nasruladi
+
+Termohon:
+PT. DAYA AGUNG SINERGI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.AJIS SETIAWAN
+2.NURUL HIDAYAH
+
+Termohon:
+Koperasi Mandiri Artha Makmur",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. SLASIH
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. SLASIH
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV. HALILI JAYA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2021/PN Niaga Sby,03/01/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. HALILI JAYA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2021/PN Niaga Sby,02/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Sukarno
+2.Agus Pradityo, SE.
+
+Termohon:
+PT. Dayu Anugrah Persadha",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2021/PN Niaga Sby,02/17/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Seaport Services Indonesia
+
+Termohon:
+PT MENTARI SEJATI PERKASA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2021/PN Niaga Sby,02/16/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. SEAN BALE ADHIGANA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2021/PN Niaga Sby,02/10/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. SLASIH
+2.CV. SLASIH
+3.ACHMAD BARDI
+4.DWI MIRNAWATI
+5.PT. HALILI JAYA
+6.CV. HALILI JAYA
+7.SIYAMI YULIANA
+8.MIMIT CATRI YULIA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2021/PN Niaga Sby,02/02/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.MADE SUDIKSA
+2.MADE MUDIARDANA
+
+Termohon:
+NI KETUT DARMINI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2021/PN Niaga Sby,01/26/2021 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. SLASIH
+2.CV. SLASIH
+3.ACHMAD BARDI
+4.DWI MIRNAWATI
+5.PT. HALILI JAYA
+6.CV. HALILI JAYA
+7.SIYAMI YULIANA
+8.MIMIT CATRI YULIA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2020/PN Niaga Sby,12/23/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.AJIS SETIAWAN
+2.NURUL HIDAYAH
+3.YULANKE ARIES INDRASARI, S.E
+
+Termohon:
+Koperasi Mandiri Artha Makmur",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2020/PN Niaga Sby,12/18/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.ITOK FAJAR YUSMAN
+2.ARIF JUNAEDI
+3.MUNASIKAH EKO P
+4.RUFAIDAH
+5.EVI DWI INDRAYANI
+6.ANA SEPTIARINI
+7.ALI SUPRAPTO
+8.MOH. MUHAIMIN
+9.KUSWARI
+10.ILA FITRI NURJANAH
+11.HENDRIK DWI IRAWAN
+12.MUHAMMAD KHASAN BISRI
+13.ILHAM MUBARROK
+
+Termohon:
+1.CV.SINAR AGUNG PERKASA
+2.JOSEPH JULIANTO KANGINAN",Permohonan Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2020/PN Niaga Sby,12/11/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.RUDY ANGTHONIO
+2.ANDRY ARDIANSYAH HARTONO, SE., Ak.
+
+Termohon:
+PT. RITA SINAR INDAH",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2020/PN Niaga Sby,12/02/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+CV SURIN INDAH JAYA
+
+Termohon:
+1.CV. DANAMEL SUMBER MAKMUR
+2.DANNY INDARTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2020/PN Niaga Sby,08/25/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT INDOTRANS LESTARI
+
+Termohon:
+PT BINTANG INTI KARYA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2020/PN Niaga Sby,07/22/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. BINTANG NUSANTARA LINDA
+2.PT. MEGA BUANA TEKNIK
+3.PRAMANA
+
+Termohon:
+PT. BINA BUMI ADIDAYA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2020/PN Niaga Sby,05/19/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. PANCA NIAGA BALI
+2.CV. BUANA GRAHA MANDIRI
+
+Termohon:
+PT. ESC URBAN FOOD",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2020/PN Niaga Sby,04/17/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+NICO
+
+Termohon:
+WILLIAM SUPIT.",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2020/PN Niaga Sby,03/24/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.JOKO BUDIONO
+2.YUDHI ARIADI
+
+Termohon:
+1.CV. NUSANTARA CIPTA SEJAHTERA
+2.TITUT SETIAWAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2020/PN Niaga Sby,03/13/2020 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUBIANTO PRAJOGO
+2.SANGGONO GUNADI
+
+Termohon:
+1.CV. GUNA USAHA SUKSES
+2.BAGIONO GUNADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+30/Pdt.Sus-Pailit/2019/PN Niaga Sby,12/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.LINDA
+2.VENDY SUDIYANTO GOEIJ
+
+Termohon:
+1.PT. ANUGRAH KEMBANG SAWIT SEJAHTERA
+2.PT. USAHA KALTIM MANDIRI
+3.PT. TEKNIK UTAMA MANDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+29/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/25/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.NANANG DJUNAIDI, S.T.
+2.YENNY LINGGAWATI
+
+Termohon:
+STEFANUS SUGIHARTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+26/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.CV. Benteng Mas Perkasa
+2.CV. TOV
+
+Termohon:
+PT. Teknik Utama Mandiri",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+27/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.CV. Benteng Mas Perkasa
+2.CV. TOV
+
+Termohon:
+PT. Usaha Kaltim Mandiri",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+28/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/19/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.CV. Benteng Mas Perkasa
+2.CV. Mega Jaya Makmur
+
+Termohon:
+PT. Anugrah Kembang Sawit Sejahtera",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+25/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/13/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. BANK BUKOPIN Tbk
+
+Termohon:
+CALVIN BAMBANG HARTONO",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+24/Pdt.Sus-Pailit/2019/PN Niaga Sby,11/05/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUYATNO
+2.EDI RIYANTO
+3.SUGENG
+4.RUDIANTO
+5.SOLIKIN
+6.ALAM DARMA RISDIANTO
+7.AHMAD SOIM
+8.SAMPURNO
+9.NUR CAHYO
+10.SUTAJI
+11.FARIS FAHRURI
+
+Termohon:
+1.PT. Sinar Pembangunan Abadi
+2.SUNARDJO WIDHARTA
+3.RONNY WIDHARTA",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+23/Pdt.Sus-Pailit/2019/PN Niaga Sby,10/21/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.HERBERT
+2.LIEM FILIXS
+
+Termohon:
+PT. LELEWATU SUMBA ARCHIPELAGO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+22/Pdt.Sus-Pailit/2019/PN Niaga Sby,10/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT Orbarador
+2.PT. RUKUN JAYA MANDIRI
+
+Termohon:
+PT. META ADHYA TIRTA UMBULAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+21/Pdt.Sus-Pailit/2019/PN Niaga Sby,09/09/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.Ishari
+2.GENDUT MUJIONO
+3.DJEMARI
+4.Muhaimin Arki Ardyansyah
+5.Erwin Setyadi
+6.AGUS WIDODO
+7.YULIANTO
+8.MUHDOR
+9.Gondo Wuryanto
+
+Termohon:
+PT. DUTACIPTA PAKARPERKASA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2019/PN Niaga Sby,08/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. BHAKTI PANCAWARA
+2.CV. JALA ARTHA
+
+Termohon:
+PT.SANDA PERMAI ABADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2019/PN Niaga Sby,08/14/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT. KUMALA DISTRIBUSINDO PRATAMA
+
+Termohon:
+DIRINYA SENDIRI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2019/PN Niaga Sby,07/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BANK ARTHA GRAHA INTERNASIONAL, TBK
+
+Termohon:
+1.PT Bukit Uluwatu Villa,Tbk
+2.Franky Tjahyadikarta
+3.Okie Rehardi Lukita",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2019/PN Niaga Sby,07/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.CITRA RIZKHA EKANITA
+2.ASIH NURBIAH HARTINI
+3.RIO SETIAWAN
+
+Termohon:
+1.KSU MITRA PERKASA
+2.WELLY SUKARTO, S.E., M.M",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+16/Pdt.Sus-Pailit/2019/PN Niaga Sby,05/29/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.MELIANI
+2.JO ANANTA YOSHUA SURYA
+3.ARIEF PURNAWAN
+4.BOEDY HARTONO
+5.DONNY THUMEWAH SH
+6.DWI RATNASARI
+7.TAN SIOE AN NIO LILIS
+
+Termohon:
+1.CV. Persada Jaya
+2.Ang Andrian Setiawan Anggasari
+3.Shinta Meilyanti, S.Pd",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+15/Pdt.Sus-Pailit/2019/PN Niaga Sby,05/24/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT WAHYU MULYO SUKSES
+2.DR. SLAMET WAHJUDI,SH,MBA
+3.MULYADIN,SH,MH
+
+Termohon:
+PT. TIMUR RAYA MAS",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+14/Pdt.Sus-Pailit/2019/PN Niaga Sby,05/20/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.SUNARMI SH,MH
+2.SUROSO
+
+Termohon:
+1.KSU MITRA PERKASA
+2.WELLY SUKARTO,SE,MM
+3.HERLINA OKTAVIA
+4.OKY ANDAYANI WIDYASARI,SKH
+5.DADIN INDRIANI,SS
+6.NILA KUMALASARI SH",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+13/Pdt.Sus-Pailit/2019/PN Niaga Sby,05/02/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+LYDIA SANJAYA SE
+
+Termohon:
+PT SINAR DJAJA CAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+12/Pdt.Sus-Pailit/2019/PN Niaga Sby,04/29/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT INTAN BARUPRANA FINANCE
+
+Termohon:
+1.PT PETRONA MINING CONTRACTORS
+2.RONI FAUZAN",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+10/Pdt.Sus-Pailit/2019/PN Niaga Sby,04/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.BOEDY HARTONO
+2.DONNY THUMEWAH SH
+3.INRI RAWIS
+
+Termohon:
+PT TUNGGAL UNGGUL NUGRAHA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+11/Pdt.Sus-Pailit/2019/PN Niaga Sby,04/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT BANK ARTHA GRAHA INTERNASIONAL, TBK
+
+Termohon:
+1.PT Bukit Uluwatu Villa,Tbk
+2.Franky Tjahyadikarta
+3.Okie Rehardi Lukita",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+9/Pdt.Sus-Pailit/2019/PN Niaga Sby,04/02/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+RUSI VERIANI
+
+Termohon:
+WELLY SUKARTO",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+8/Pdt.Sus-Pailit/2019/PN Niaga Sby,04/01/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. PHILTERA
+2.Mr. Song Jin Ho
+
+Termohon:
+PT. DIGITAL VISI MEDIA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+7/Pdt.Sus-Pailit/2019/PN Niaga Sby,03/25/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.LAUW SANG GANDA
+2.DAVID TANJUNG
+3.JAP YOHANES BAPTISTA
+
+Termohon:
+CV INDAH BUMI GEMILANG",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+6/Pdt.Sus-Pailit/2019/PN Niaga Sby,03/11/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.DAVE SALIM
+2.DENNI ARDIANSYAH
+
+Termohon:
+1.PWIE TJIE LAN
+2.PT KARUNIA SENTOSA PLASTIK",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+5/Pdt.Sus-Pailit/2019/PN Niaga Sby,03/04/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT Gentamulia Infra
+
+Termohon:
+PT. Hidup Bagus Sehat",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2/Pdt.Sus-Pailit/2019/PN Niaga Sby,02/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT SASA INTI
+
+Termohon:
+1.PT NILA KENCANA
+2.HERMANTO POEDJIONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3/Pdt.Sus-Pailit/2019/PN Niaga Sby,02/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT SASA INTI
+
+Termohon:
+1.PT INDO PUTRA KENCANA
+2.HENDRO POEDJIONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+4/Pdt.Sus-Pailit/2019/PN Niaga Sby,02/12/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. BENTENG KHARISMA MEGAHJAYA
+2.CV. ANUGERAH ABADI
+3.PT TUNAS JAYA SANUR
+
+Termohon:
+PT. SUMMIT ABADI",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1/Pdt.Sus-Pailit/2019/PN Niaga Sby,02/08/2019 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT ASLI INDO RAYA
+
+Termohon:
+PT. MULTI GUNA JASA",Pemberitahuan Putus Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+20/Pdt.Sus-Pailit/2018/PN Niaga Sby,11/08/2018 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.PT. WISMATATA ELTRA PERKASA
+2.Drs. ANDREAS LIANTO
+
+Termohon:
+PT MOJOPAHIT ENERGI DINAMIKA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+18/Pdt.Sus-Pailit/2018/PN Niaga Sby,10/26/2018 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT SASA INTI
+
+Termohon:
+1.PT NILA KENCANA
+2.HERMANTO POEDJIONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+19/Pdt.Sus-Pailit/2018/PN Niaga Sby,10/26/2018 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+PT SASA INTI
+
+Termohon:
+1.PT INDO PUTRA KENCANA
+2.HENDRO POEDJIONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+17/Pdt.Sus-Pailit/2018/PN Niaga Sby,09/26/2018 00:00:00,Permohonan Pernyataan Pailit,"Pemohon:
+1.CV TIGA JAYA PERKASA
+2.UD. SUMBER JAYA SEJAHTERA
+3.MENSIAGA GINTING
+
+Termohon:
+PT BUKIT BAJA ANUGRAH",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2032/Pid.B/2021/PN Sby,09/16/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+RENDRA MATOPAN ALS TOPAN ANAK DARI SOEPAR",Sidang pertama,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2004/Pid.B/2021/PN Sby,09/14/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+RIYANTO ALS ANTOK ALS OPET BIN ROKIM",Sidang pertama,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1891/Pid.B/2021/PN Sby,09/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+SURACHMAD BIN DARSONO",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1788/Pid.B/2021/PN Sby,08/25/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD MUZAKKI, SH
+
+Terdakwa:
+ABDUL WAHID BIN HASAN ALM.",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1748/Pid.B/2021/PN Sby,08/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+M LATIF",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1723/Pid.B/2021/PN Sby,08/18/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+WIDODO BIN SELO",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1680/Pid.B/2021/PN Sby,08/12/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+SAMSUL MAARIF alias ARIF Bin NUR ALIM",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1686/Pid.B/2021/PN Sby,08/12/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD MUZAKKI, SH
+
+Terdakwa:
+MOODY PANGGGALO BIN YUNUS PANGGALO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1659/Pid.B/2021/PN Sby,08/10/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+SALEH AHMAD Bin AHMAD",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1676/Pid.B/2021/PN Sby,08/10/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUWARTI, SH
+
+Terdakwa:
+SUGENG BIN SUYADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1654/Pid.B/2021/PN Sby,08/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I GEDE WILLY PRAMANA, SH
+
+Terdakwa:
+HOLIL BIN TILAM",Tuntutan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1600/Pid.B/2021/PN Sby,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+AMAK GEOL SAPUTRA BIN YUDO BASUKI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1607/Pid.B/2021/PN Sby,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+MOCHAMAD ALI Bin IMRAN Alm",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1617/Pid.B/2021/PN Sby,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FEBRIAN DIRGANTARA , SH.MH
+
+Terdakwa:
+UNTUNG PRAYITNO BIN MARDJUKI ALM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1574/Pid.B/2021/PN Sby,08/04/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+INDRA GUNA SONATA anak dari SUSANTO Y.",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1528/Pid.B/2021/PN Sby,08/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DZULKIFLY NENTO, SH
+
+Terdakwa:
+MUHAMMAD JAMALLUDIN AFGHANI ALS UCOK BIN AHMAD NAFIK",Persidangan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1433/Pid.B/2021/PN Sby,07/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DUTA MELLIA, SH
+
+Terdakwa:
+HAMIM FITHRONI BIN ABDUL AZIS",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1452/Pid.B/2021/PN Sby,07/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FURKON ADI HERMAWAN, SH
+
+Terdakwa:
+SIMON RUDI HARTONO BIN PAIDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1421/Pid.B/2021/PN Sby,07/26/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+HADI WINARNO, SH
+
+Terdakwa:
+IWAN NINO",Putusan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1383/Pid.B/2021/PN Sby,07/14/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+KARISMA AGENG PRATAMA ALIAS BONA BIN TOSAN FACHRUL",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1376/Pid.B/2021/PN Sby,07/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SISKA CHRISTINA, SH
+
+Terdakwa:
+NURHADI ALS. PAK NUR BIN KASAN Alm.",Putusan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1224/Pid.B/2021/PN Sby,06/15/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+MUHAMMAD FADHIL, SH
+
+Terdakwa:
+SUGIARNI Alias ERNI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1180/Pid.B/2021/PN Sby,06/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I GEDE WILLY PRAMANA, SH
+
+Terdakwa:
+HUSIEN MAHDI BIN MAGELAM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1168/Pid.B/2021/PN Sby,06/08/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+MOCH BAGIO BIN SUTAJI",Putusan,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1158/Pid.B/2021/PN Sby,06/07/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DUTA MELLIA, SH
+
+Terdakwa:
+SYAIFUL BIN RIFAI ALM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1130/Pid.B/2021/PN Sby,06/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+DEVAN ANDRYANTO BIN SUJANI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1099/Pid.B/2021/PN Sby,05/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+MARYANI MELINDAWATI, SH
+
+Terdakwa:
+RAHAYU Als AYU BINTI PAIJAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1108/Pid.B/2021/PN Sby,05/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+SLAMET ALS HEMEK BIN MISJO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1059/Pid.B/2021/PN Sby,05/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+ASTERIA ISMI SAWITRI BINTI MUHAMMAD TUGAS SULAKSONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1069/Pid.B/2021/PN Sby,05/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+RIO ADRIANSYAH NOVEBRIANTO BIN SUGENG",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1033/Pid.B/2021/PN Sby,05/19/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DZULKIFLY NENTO, SH
+
+Terdakwa:
+BUDIONO ALS PAK NO BIN YAKUB",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+980/Pid.B/2021/PN Sby,05/10/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+HASANUDDIN TANDILOLO, SH
+
+Terdakwa:
+MOCH YUSUP BIN ALM MUHYI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+874/Pid.B/2021/PN Sby,04/28/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DAMANG ANUBOWO, SE, SH, MH
+
+Terdakwa:
+LANGGENG SUTEJO BIN SURATNO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+873/Pid.B/2021/PN Sby,04/27/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+SARIMAN BIN RUSLAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+781/Pid.B/2021/PN Sby,04/15/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD MUZAKKI, SH
+
+Terdakwa:
+IVAN TAURUSIAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+711/Pid.B/2021/PN Sby,04/07/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+SONI WICAKSONO SUSILO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+706/Pid.B/2021/PN Sby,04/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+MUHAMAD FIRMAN ZULIANTO BIN ZUS RIZAL",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+678/Pid.B/2021/PN Sby,04/01/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DIAH RATRI HAPSARI, SH, MH
+
+Terdakwa:
+A.FARID BIN IMAM BUKHORI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+637/Pid.B/2021/PN Sby,03/29/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+ADI CANDRA ALIAS KOJIM BIN SLAMET",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+647/Pid.B/2021/PN Sby,03/29/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DAVID PRASETYO, SH ,M.Kn
+
+Terdakwa:
+DARMAWAN ALS IWAN ALS KALAP BIN TARMUJI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+629/Pid.B/2021/PN Sby,03/25/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I GEDE WILLY PRAMANA, SH
+
+Terdakwa:
+MARIANI TANUBRATA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+607/Pid.B/2021/PN Sby,03/24/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DZULKIFLY NENTO, SH
+
+Terdakwa:
+BAGUS SETYAWAN Bin ADI WASPODO Alm",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+561/Pid.B/2021/PN Sby,03/17/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I GEDE WILLY PRAMANA, SH
+
+Terdakwa:
+RENDY EKA SYAHPUTRA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+533/Pid.B/2021/PN Sby,03/15/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+SUPRI Alias AMBON BIN ASPUKADJAM Alm",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+520/Pid.B/2021/PN Sby,03/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+SEPTIAN SYAMSUL AFANDI BIN SUMARNO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+459/Pid.B/2021/PN Sby,03/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DAVID PRASETYO, SH ,M.Kn
+
+Terdakwa:
+AMANUDIN BIN Alm ACH SUYUDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+304/Pid.B/2021/PN Sby,02/10/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+JOKO MURYANTO alias YANTO bin BINYATI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+249/Pid.B/2021/PN Sby,02/04/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+CHOIRUL NOOR ALS NURCAHYO BIN ALM FAQIH ABDULLAH",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+232/Pid.B/2021/PN Sby,02/02/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+BASKORO BANGUN BIN BAMBANG SURYADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+213/Pid.B/2021/PN Sby,02/01/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD MUZAKKI, SH
+
+Terdakwa:
+LUKAS WIJAYA SANTOSO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+23/Pid.B/2021/PN Sby,01/11/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FURKON ADI HERMAWAN, SH
+
+Terdakwa:
+CHANDRA WIYONO BIN Alm AWI SUGIANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2826/Pid.B/2020/PN Sby,12/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+FELLIY FERDIANTO Bin HERMO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2836/Pid.B/2020/PN Sby,12/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+MICO GIDION BIN MIAN ASNAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2739/Pid.B/2020/PN Sby,12/03/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+FERRY IS MIRZA DALIMONTE BIN MOH GAZALI DALIMONTE",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2444/Pid.B/2020/PN Sby,11/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SISKA CHRISTINA, SH
+
+Terdakwa:
+HABIB ZAINUL ILMI BIN ISPADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2446/Pid.B/2020/PN Sby,11/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+MARYANI MELINDAWATI, SH
+
+Terdakwa:
+FANI WAHYUDI BIN ACHMAD JUNAIDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2371/Pid.B/2020/PN Sby,10/22/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+BERNADUS",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2264/Pid.B/2020/PN Sby,10/08/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FEBRIAN DIRGANTARA , SH.MH
+
+Terdakwa:
+PUTU GANA CAHYA NARTA PUTRA Anak dari I WAYAN SUNARTA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2251/Pid.B/2020/PN Sby,10/07/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+ACH. RIZEL Bin ANWAR",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2243/Pid.B/2020/PN Sby,10/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+ROY WIBAWA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2144/Pid.B/2020/PN Sby,09/25/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+LUIS PASAK SANTANA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2158/Pid.B/2020/PN Sby,09/25/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+RIBUT BIN ASMAR",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2032/Pid.B/2020/PN Sby,09/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FEBRIAN DIRGANTARA , SH.MH
+
+Terdakwa:
+AJI SETIAWAN ALS. AJI BIN DJUMAIDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1698/Pid.B/2020/PN Sby,07/30/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUWARTI, SH
+
+Terdakwa:
+JULIUS SUGIARTO Anak dari SUGIARTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1552/Pid.B/2020/PN Sby,07/21/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+AGUS SANTOSO BIN SUTOMO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1298/Pid.B/2020/PN Sby,07/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DAMANG ANUBOWO, SE, SH, MH
+
+Terdakwa:
+IWAN SUSANTO als GARENG BIN SURATMAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+943/Pid.B/2020/PN Sby,05/18/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FEBRIAN DIRGANTARA , SH.MH
+
+Terdakwa:
+ARDI GOESTAMAN ALIAS KETANG BIN HARIYONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+920/Pid.B/2020/PN Sby,05/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+EDI SUYITNO BIN KIYAT",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+914/Pid.B/2020/PN Sby,05/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HASAN EFENDI, SH
+
+Terdakwa:
+WIJAYANTO ALS YANTO BIN RAMUT ALM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+909/Pid.B/2020/PN Sby,05/12/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SISKA CHRISTINA, SH
+
+Terdakwa:
+RISWAN NASUTION BIN ARIF NASUTION",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+875/Pid.B/2020/PN Sby,05/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HASAN EFENDI, SH
+
+Terdakwa:
+SUHARSO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+861/Pid.B/2020/PN Sby,05/08/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+SYAMSUL HUDA bin ABDUL KHOLIQ",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+15/Pid.S/2020/PN Sby,05/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HASAN EFENDI, SH
+
+Terdakwa:
+SURATI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+817/Pid.B/2020/PN Sby,04/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DIDIK YUDHA ARIBUSONO
+
+Terdakwa:
+RICKY PURIANDI BIN ANTON",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+769/Pid.B/2020/PN Sby,03/27/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FEBRIAN DIRGANTARA , SH.MH
+
+Terdakwa:
+KELLVIN WIJAYA BIN ALM SEGER",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+724/Pid.B/2020/PN Sby,03/23/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+ANDRI BAGOES PRANATA BIN ISWARIANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+619/Pid.B/2020/PN Sby,03/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+SYAMSUL ARIFIN BIN MAT LIKIH",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+622/Pid.B/2020/PN Sby,03/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUWARTI, SH
+
+Terdakwa:
+RIJONO ALS TAMBUR BIN KENTANG",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+425/Pid.B/2020/PN Sby,02/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+PHOA JHONS BIN PHOA SOEI OAN ALM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+427/Pid.B/2020/PN Sby,02/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+BAMBANG SUPENO BIN SUPANGAT",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+428/Pid.B/2020/PN Sby,02/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+UMAR BIN ASRAF",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+435/Pid.B/2020/PN Sby,02/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+I GEDE WILLY PRAMANA, SH
+
+Terdakwa:
+ANDI ARIS WIBOWO BIN SUYONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+370/Pid.B/2020/PN Sby,02/07/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+PARLIN MANULLANG, SH
+
+Terdakwa:
+CANDRA ARYA WAHYU SAPUTRA BIN TJAHYO ARY SAPUTRA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+354/Pid.B/2020/PN Sby,02/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+JAMALIYANTO BIN SUPARMIN Alm",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+358/Pid.B/2020/PN Sby,02/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+RIRIN WIRANTARI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+229/Pid.B/2020/PN Sby,01/27/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+ADIMAS REGOWO BIN HARIADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+252/Pid.B/2020/PN Sby,01/27/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+YEHAZIEL PRIAS FIRDINANDUS ALIAS OZY",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+204/Pid.B/2020/PN Sby,01/22/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH, MH
+
+Terdakwa:
+IWAN WIDIANTORO, SE,MM BIN SATORI SUARTA",Pemberitahuan Putusan Banding,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+151/Pid.B/2020/PN Sby,01/17/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+HADI WINARNO, SH
+
+Terdakwa:
+SAGI BIN ALM KHOLIL",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3/Pid.S/2020/PN Sby,01/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+TOMMY IRAWAN ALIAS TOMMY LIM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+115/Pid.B/2020/PN Sby,01/15/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+AHMAD ASHAR, SH.,MH
+
+Terdakwa:
+AMI SUSANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+123/Pid.B/2020/PN Sby,01/15/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+ADE RAPI MULYANA BIN UDAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+82/Pid.B/2020/PN Sby,01/13/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+R. HARWIADI, SH.
+
+Terdakwa:
+MUHAMMAD YUSUF AFFANDI BIN MUH. NASIR",Pemberitahuan Putusan Banding,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+46/Pid.B/2020/PN Sby,01/06/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DIDIK YUDHA ARIBUSONO
+
+Terdakwa:
+SHERLY NJOO BINTI BINARDI KUSUMA",Pemberitahuan Putusan Banding,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3462/Pid.B/2019/PN Sby,12/12/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DAMANG ANUBOWO, SE, SH, MH
+
+Terdakwa:
+MUBIN BIN MATAJI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3412/Pid.B/2019/PN Sby,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DZULKIFLY NENTO, SH
+
+Terdakwa:
+HARTONO BIN WAHYONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3311/Pid.B/2019/PN Sby,11/26/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+BUDI UTOMO BIN SUNARTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3300/Pid.B/2019/PN Sby,11/25/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SULASMAN, SH
+
+Terdakwa:
+HARIYADI Anak dari LIM WICAKSONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3282/Pid.B/2019/PN Sby,11/22/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+ANDREY WAHYU PRATAMA MAULANA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3248/Pid.B/2019/PN Sby,11/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+PARLIN MANULLANG, SH
+
+Terdakwa:
+MOH IRFAN ALIAS IRFAN BIN NUR ALI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3239/Pid.B/2019/PN Sby,11/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUWARTI, SH
+
+Terdakwa:
+RIZAL YUSUF EFENDI BIN GENDON SLAMET",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3152/Pid.B/2019/PN Sby,11/13/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+PARLIN MANULLANG, SH
+
+Terdakwa:
+BUDI MUJIANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3162/Pid.B/2019/PN Sby,11/13/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+PRAYOTO BIN SUYONO alm",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2952/Pid.B/2019/PN Sby,10/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DIDIK YUDHA ARIBUSONO
+
+Terdakwa:
+DJOHAN ONGKOHARDJO BIN ONGKOHARDJO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2662/Pid.B/2019/PN Sby,09/24/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+RR. JUWITA ROSYLAWATI, SP",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2632/Pid.B/2019/PN Sby,09/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+MUHAMAD SELAMET BIN NURJA'I",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2617/Pid.B/2019/PN Sby,09/18/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+WAHYU YUGO UTOMO BIN PRIYO BUDI UTOMO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2340/Pid.B/2019/PN Sby,08/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MARYANI MELINDAWATI, SH
+
+Terdakwa:
+PAUJI TRI YUDAH Als YUDA BIN PONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2262/Pid.B/2019/PN Sby,08/05/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SULFIKAR, SH
+
+Terdakwa:
+ZAINAL ABIDIN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2209/Pid.B/2019/PN Sby,07/31/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSHAR, SH
+
+Terdakwa:
+SUDARMONO BIN SAMIRAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2100/Pid.B/2019/PN Sby,07/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MUHAMMAD FADHIL, SH
+
+Terdakwa:
+PURWANTO BIN NARTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2022/Pid.B/2019/PN Sby,07/17/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+POLIKARPUS LIPU NIGA BIN AMATUS NIGA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2033/Pid.B/2019/PN Sby,07/17/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+TJIA TJONG HAM alias GAPLEK bin EDDY TJANDRA WASKITO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2015/Pid.B/2019/PN Sby,07/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ALI PRAKOSA, SH
+
+Terdakwa:
+LEONARDO ANDRIANO SUBARJA",Pemberitahuan Putusan Banding,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1990/Pid.B/2019/PN Sby,07/11/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+SUSIANTO Alias YANTO Alias KENTANG BIN RAMELI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1854/Pid.B/2019/PN Sby,06/27/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NI MADE SRI ASTRI UTAMI, SH
+
+Terdakwa:
+ABRIZAL YAYAMAHE BIN SOLIKIN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1788/Pid.B/2019/PN Sby,06/24/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+IMAM SAIFUR ROHMAN BIN BAKIN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1623/Pid.B/2019/PN Sby,05/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+AYUB KORINTUS",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1510/Pid.B/2019/PN Sby,05/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+CHRISTIAN NOVIANTO BIN NOMO MUKARDONO",Penyerahan Kontra Memori Kasasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1431/Pid.B/2019/PN Sby,05/10/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+VANJES VIJAY PARHUSIP BIN LASMA PARHUSIP",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1371/Pid.B/2019/PN Sby,05/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+IMELDA BUDIANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1302/Pid.B/2019/PN Sby,05/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+PERMADI JOKO SUWARNO BIN BAMBANG KETUT",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1167/Pid.B/2019/PN Sby,04/16/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RINY NT , SH
+
+Terdakwa:
+AGOES FIRMAN SEPUTRO BIN SOEWANDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1136/Pid.B/2019/PN Sby,04/12/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+KOSERI BIN Alm. SAPARI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+1015/Pid.B/2019/PN Sby,04/04/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+SU'UDI BIN SARIMAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+992/Pid.B/2019/PN Sby,04/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+EDI SANTOSO ALS EDI BIN SLAMET RIYADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+993/Pid.B/2019/PN Sby,04/02/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+STENLY LEKATOMPESSY",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+950/Pid.B/2019/PN Sby,03/27/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DARWIS, SH
+
+Terdakwa:
+YUDIAN LUKMAN ALIAS TUNG",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+920/Pid.B/2019/PN Sby,03/26/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+AKHMAD IRIYANTO SUDARYONO, SH
+
+Terdakwa:
+ACHMAT SAIFUDIN BIN SOEDJARNO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+700/Pid.B/2019/PN Sby,03/05/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+MUCUHAMMAD URIP ALIAS UNTUNG BIN ALM SURADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+672/Pid.B/2019/PN Sby,03/01/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+SUKARIONO BIN KASERI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+581/Pid.B/2019/PN Sby,02/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MARYANI MELINDAWATI, SH
+
+Terdakwa:
+SUHARTONO BIN KIDJO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+435/Pid.B/2019/PN Sby,02/08/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+CHALIDA K. HAPSARI,SH
+
+Terdakwa:
+MULYONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+418/Pid.B/2019/PN Sby,02/07/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+FRANSISCUS XAVERIUS SUTRISNO BIN ALM. ISNAYAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+220/Pid.B/2019/PN Sby,01/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+1.ANGGRAINI, SH
+2.DARWIS, SH
+
+Terdakwa:
+ERICK KURNIAWAN, S.KOM BIN TEE ERWIN KURNIAWAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+229/Pid.B/2019/PN Sby,01/23/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUPARLAN H, SH
+
+Terdakwa:
+PATRICK NYATA WIJAYA BIN KEVIN NYATA WIJAYA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+81/Pid.B/2019/PN Sby,01/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NI MADE SRI ASTRI UTAMI, SH
+
+Terdakwa:
+ADI SETIAWAN BIN SUTIYONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+14/Pid.B/2019/PN Sby,01/08/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+ZAENAL ABIDIN BIN ALM HARIYANTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3621/Pid.B/2018/PN Sby,12/14/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+MOCH MUNIR BIN H ABDUL KARIM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3656/Pid.B/2018/PN Sby,12/14/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+EDO PRATAMA BIN BADRUT IMAM",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3684/Pid.B/2018/PN Sby,12/14/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MUHAMMAD FADHIL, SH
+
+Terdakwa:
+ROI DAVID Bin MOCH HODORI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3574/Pid.B/2018/PN Sby,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+RUSIANTO ALS YANTO BIN RUSMADI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3578/Pid.B/2018/PN Sby,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+FATHOL RASYID, SH
+
+Terdakwa:
+DIDIT RIJADI, SE.",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3590/Pid.B/2018/PN Sby,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+ASMAT ALS MAT BIN KOSEN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3599/Pid.B/2018/PN Sby,12/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+AKHMAD IRIYANTO SUDARYONO, SH
+
+Terdakwa:
+SUGENG ANDRIANTO Bin SAMIN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3427/Pid.B/2018/PN Sby,11/28/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+POMPY POLANSKY A, SH
+
+Terdakwa:
+NANDA ARDIANSYAH Bin MARIONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3343/Pid.B/2018/PN Sby,11/22/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+EDO NANDA BAGUS KURNIA BIN HERI SUPRAPTO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3345/Pid.B/2018/PN Sby,11/22/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+MOCH REZEKI BIN ZAENAL ARIFIN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3220/Pid.B/2018/PN Sby,11/07/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+SAMSU J. EFENDI BANU, SH
+
+Terdakwa:
+1.SUGIYANTO ALIAS DIKI BIN SUWADI
+2.DWI BAYU SEBAYANG BIN WARTHA SEBAYANG",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3199/Pid.B/2018/PN Sby,11/06/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+SUKISNO, SH
+
+Terdakwa:
+BAMBANG HERDIANTO ALS ANTOK ALS TOGOK BIN MUHAMMAD ZUBAIDI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3200/Pid.B/2018/PN Sby,11/06/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+YUSHAR, SH
+
+Terdakwa:
+AGUS WIRADI BIN SLAMET SASTRO HARTONO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3141/Pid.B/2018/PN Sby,11/01/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+HERMAN YOSEP LANGGA KAKA",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3143/Pid.B/2018/PN Sby,11/01/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+HANS ALEXANDER UTOMO LIU BIN WIM UTOMO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3165/Pid.B/2018/PN Sby,11/01/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ANGGRAINI, SH
+
+Terdakwa:
+ANDI HARIYANTO BIN ALMARHUM TUMAJI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+3082/Pid.B/2018/PN Sby,10/25/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MUHAMMAD FADHIL, SH
+
+Terdakwa:
+LOUWORY VICTORY PASANEA ALIAS KIKI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+10/Pid.S/2018/PN Sby,10/24/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ALI PRAKOSA, SH
+
+Terdakwa:
+SUNARJO REDJO Bin ALM HINDOYO TEDJO",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2967/Pid.B/2018/PN Sby,10/15/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+NELDY DENNY, SH
+
+Terdakwa:
+KURNIAWAN WAHYU IDAMANATO ALS WAWAN",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2949/Pid.B/2018/PN Sby,10/12/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MARSANDI,SH
+
+Terdakwa:
+IMAM SYAFI'I BIN ALM MURI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2884/Pid.B/2018/PN Sby,10/05/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+ANDHI GINANJAR, SH, MH
+
+Terdakwa:
+ALIMAN BIN MARTAWI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+2752/Pid.B/2018/PN Sby,09/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+DEDDY ARISANDI, SH
+
+Terdakwa:
+HUSEN BIN ASNAWI",Minutasi,PN SURABAYA,sipp.pn-surabayakota.go.id/,09/18/2021 00:00:00
+380/Pid.B/2021/PN Mlg,08/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
+
+Terdakwa:
+SUDI HARTONO",Persidangan,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+346/Pid.B/2021/PN Mlg,07/06/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+ABDUL GOPUR, S.H.
+
+Terdakwa:
+CANDRA KIRANA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+315/Pid.B/2021/PN Mlg,06/21/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
+
+Terdakwa:
+MUHAMMAD MASRURI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+309/Pid.B/2021/PN Mlg,06/17/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+FADJARI INDAH DP, SH
+
+Terdakwa:
+MIFTAHUL FITHRI FERDIANSYAH",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+247/Pid.B/2021/PN Mlg,05/20/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DITA RAHMAWATI,SH
+
+Terdakwa:
+DIAN WAHYU SUHADI als HADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+226/Pid.B/2021/PN Mlg,05/11/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
+
+Terdakwa:
+HERDIAN PUTRI HASTARI als. GEA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+112/Pid.B/2021/PN Mlg,03/03/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+BAMBANG EKA JAYA, S.H.
+
+Terdakwa:
+DJOKO TRI AGUNG bin SUKARSAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+63/Pid.B/2021/PN Mlg,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+DEVI EKO ISTIAWAN, S.H.
+
+Terdakwa:
+PRAVANGASTA BAGUS WANTORO alias JAMBRONG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+15/Pid.B/2021/PN Mlg,01/13/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+MUH. FAHMI MIRZA BARATA, S.H.
+
+Terdakwa:
+ALDI TRI PRASETYO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+640/Pid.B/2020/PN Mlg,12/14/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, S.H., M.H.
+
+Terdakwa:
+HARIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+592/Pid.B/2020/PN Mlg,11/24/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+SUPRIADI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+569/Pid.B/2020/PN Mlg,11/16/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ENI SETIANI, SH
+
+Terdakwa:
+SITI NUR AINI als. ENI",Pemberitahuan Putusan Banding,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+386/Pid.B/2020/PN Mlg,07/28/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+IKA KUSUMAWATI RATNANINGRUM, SH
+
+Terdakwa:
+MOCHAMAD FAISAL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+263/Pid.B/2020/PN Mlg,05/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DWI ANGGINI, SH
+
+Terdakwa:
+1.APIT BIN RUSLI
+2.TOHIR BIN ASWAR",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+234/Pid.B/2020/PN Mlg,05/15/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+TAUFIK AMINUDIN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+207/Pid.B/2020/PN Mlg,05/05/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+TRISNAULAN ARISANTI, SH
+
+Terdakwa:
+RETNO HARI FIRMANSYAH Bin MOCH. HASIM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+4/Pid.Sus-Anak/2020/PN Mlg,03/11/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+DENNY TRISNASARI,S.H.
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+84/Pid.B/2020/PN Mlg,02/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+FIANTI SUCI ANTARI, S.H.
+
+Terdakwa:
+NUR FADILA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+63/Pid.B/2020/PN Mlg,02/10/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+MOCH. SAIFUL als KABUL",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+704/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ENDAH VITRI PUSPITO SARI, SH
+
+Terdakwa:
+MOH.ROIS FIRMANSYAH H.S.AG",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+700/Pid.B/2019/PN Mlg,12/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+KOESHARTANTO, SH
+
+Terdakwa:
+PRASETYO EKA SUTANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+695/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+HANUNG KRISWANDONO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+694/Pid.B/2019/PN Mlg,12/19/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+MOH. HERIYANTO, S.H.
+
+Terdakwa:
+JOHNSON SASONO JACOB",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+639/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+NOBERTUS ATRIS SOLO ALIAS NORIS",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+638/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+DERMINTARI UMBU SIDDA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+637/Pid.B/2019/PN Mlg,12/06/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SUSI E AKERINA, SH
+
+Terdakwa:
+BENEDIKTUS YAKIMI PAN ALIAS ICON",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+627/Pid.B/2019/PN Mlg,11/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+RANNY DIAJENG PURNAMASARI SH
+
+Terdakwa:
+KARIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+414/Pid.B/2019/PN Mlg,08/12/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+DYMAS ADJI WIBOWO
+
+Terdakwa:
+RENALDY SETIAWAN SUSANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+334/Pid.B/2019/PN Mlg,06/27/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+SAHRI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+274/Pid.B/2019/PN Mlg,05/28/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ISYE SUFRADHANI, SH, M.Hum
+
+Terdakwa:
+IQNAS ADAM WANANDY bin alm RONY HERMAWAN",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+222/Pid.B/2019/PN Mlg,05/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+ASFINA FADHLIA, SH. M.Kn
+
+Terdakwa:
+TRIO ADY WINATA",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+157/Pid.B/2019/PN Mlg,04/05/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+SIANE F MATULESSY, SH
+
+Terdakwa:
+HERU PRASETYO UTOMO bin AGUS RUSNIANTO",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+619/Pid.B/2018/PN Mlg,12/18/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+MUCHLIS NURHAKIM. SH
+
+Terdakwa:
+ANANG SUHARSONO Alias WAKHE Bin DASRUM",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+509/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+WANTO HARIYONO, SH
+
+Terdakwa:
+YOSUA WIBISONO.",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+508/Pid.B/2018/PN Mlg,11/13/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+LILIS SURYAWATI,S.H.
+
+Terdakwa:
+1.AKHMAD YUSUF EFENDI Alias CIPENG
+2.SAID EFFENDI",Minutasi,PN MALANG,https://sipp.pn-malang.go.id/,09/18/2021 00:00:00
+38/Pid.B/2021/PN Nga,05/05/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+NI KETUT CAHAYA LISTIANI, SH.
+
+Terdakwa:
+SULTON MUBIN ALS. SUL",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+26/Pid.B/2021/PN Nga,02/09/2021 00:00:00,Penganiayaan,"Penuntut Umum:
+I WAYAN YUDA SATRIA, SH.
+
+Terdakwa:
+GUSTI NGURAH KETUT MURDANA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+8/Pid.C/2020/PN Nga,11/06/2020 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+I PUTU GEDE SUMERTA MAHARDIKA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+90/Pid.B/2020/PN Nga,07/09/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Made Ayu Olin
+
+Terdakwa:
+I KADE JUNIHARTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+46/Pid.B/2020/PN Nga,04/08/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+Ni Wayan Deasy Sriaryani, SH.
+
+Terdakwa:
+RICKY ANDIKA PUTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+9/Pid.B/2020/PN Nga,01/22/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+I KADEK SUDARMA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+8/Pid.B/2020/PN Nga,01/20/2020 00:00:00,Penganiayaan,"Penuntut Umum:
+NI WAYAN IUSTIKASARI
+
+Terdakwa:
+DENY FATURAHMAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+37/Pid.C/2019/PN Nga,11/15/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+I Putu Widiartama Putra
+
+Terdakwa:
+I PUTU OKA DARMAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+134/Pid.B/2019/PN Nga,10/29/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+I G.GATOT HARIAWAN,S.H
+
+Terdakwa:
+NGURAH KOMANG JULI PERMANA ALS.PULIIGUSTI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+76/Pid.B/2019/PN Nga,06/20/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Monika Dian Anggraini, SH.
+
+Terdakwa:
+RACHMAD WAHYUDI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+50/Pid.B/2019/PN Nga,04/18/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+Ivan Praditya Putra
+
+Terdakwa:
+I KOMANG SUJA ARTAWAN ALS.PEDRO",Pencabutan Perkara Banding,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+7/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+EDY SUTAWAN",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+9/Pid.C/2019/PN Nga,03/22/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+ANSORI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+4/Pid.Sus-Anak/2019/PN Nga,03/21/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+GEDION ARDANA RESWARI, SH
+
+Anak Berhadapan dengan Hukum:
+Anak Berhadapan Dengan Hukum",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+25/Pid.B/2019/PN Nga,02/14/2019 00:00:00,Penganiayaan,"Penuntut Umum:
+NI MADE DESI MEGA PRATIWI
+
+Terdakwa:
+PUTU MERTA ARIAWAN Alias GUMBRING",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+1/Pid.C/2019/PN Nga,01/11/2019 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polres Jembrana
+
+Terdakwa:
+I KETUT DASTRA",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+105/Pid.B/2018/PN Nga,09/26/2018 00:00:00,Penganiayaan,"Penuntut Umum:
+HELMI WAHYU HUTAMA
+
+Terdakwa:
+I NENGAH SUARDANA ALS DANOK",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
+15/Pid.C/2018/PN Nga,09/21/2018 00:00:00,Penganiayaan,"Penyidik Atas Kuasa PU:
+Penyidik Polsek Melaya
+
+Terdakwa:
+YASUL BAHRI",Minutasi,PN NEGARA,https://sipp.pn-negara.go.id,09/18/2021 00:00:00
