@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>688,997</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>686,997</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>TestParallel_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="64">
@@ -83,7 +83,6 @@
       <AssemblyReference>DataService.coba_link_sipp</AssemblyReference>
       <AssemblyReference>UiPath.DataService.Definition</AssemblyReference>
       <AssemblyReference>System.Collections.Immutable</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Parallel Processing" sap:VirtualizedContainerService.HintSize="544,832" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -137,15 +136,9 @@
                   </sap:WorkflowViewStateService.ViewState>
                   <ui:InvokeWorkflowFile ArgumentsVariable="{x:Null}" ContinueOnError="{x:Null}" DisplayName="Invoke scraping new workflow" sap:VirtualizedContainerService.HintSize="334,112" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" LogEntry="No" LogExit="No" UnSafe="False" WorkflowFileName="scraping new.xaml">
                     <ui:InvokeWorkflowFile.Arguments>
-                      <InArgument x:TypeArguments="x:String" x:Key="in_link">
-                        <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn.LinkSIPP.ToString" />
-                      </InArgument>
-                      <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">
-                        <mva:VisualBasicValue x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" ExpressionText="in_jenis_perkara" />
-                      </InArgument>
-                      <InArgument x:TypeArguments="x:String" x:Key="in_pn">
-                        <mva:VisualBasicValue x:TypeArguments="x:String" ExpressionText="link_pn.NamaPN.ToString" />
-                      </InArgument>
+                      <InArgument x:TypeArguments="x:String" x:Key="in_link">[link_pn.LinkSIPP.ToString]</InArgument>
+                      <InArgument x:TypeArguments="scg:IList(c:KlasifikasiPerkara)" x:Key="in_jenis_perkara">[in_jenis_perkara]</InArgument>
+                      <InArgument x:TypeArguments="x:String" x:Key="in_pn">[link_pn.NamaPN.ToString]</InArgument>
                     </ui:InvokeWorkflowFile.Arguments>
                   </ui:InvokeWorkflowFile>
                 </Sequence>
