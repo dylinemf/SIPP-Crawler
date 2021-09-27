@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>824,647.2</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>390,739</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>NewInputFromDataService_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="54">
@@ -77,16 +77,15 @@
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>UiPath.Mail</AssemblyReference>
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="NewInputFromDataService" sap:VirtualizedContainerService.HintSize="381.6,582.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="NewInputFromDataService" sap:VirtualizedContainerService.HintSize="383,574" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uda:QueryEntityRecords x:TypeArguments="c:LinkWebSIPP" FilterArguments="{x:Null}" FilterValues="{x:Null}" TotalRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="340,224.8" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_1" OutputRecords="[out_sipp_links]" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="100" />
-    <uda:QueryEntityRecords x:TypeArguments="c:KlasifikasiPerkara" FilterArguments="{x:Null}" FilterValues="{x:Null}" TotalRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="340,224.8" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_2" OutputRecords="[out_perkaras]" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="100" />
+    <uda:QueryEntityRecords x:TypeArguments="c:LinkWebSIPP" FilterArguments="{x:Null}" FilterValues="{x:Null}" TotalRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="341,221" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_1" OutputRecords="[out_sipp_links]" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="1000" />
+    <uda:QueryEntityRecords x:TypeArguments="c:KlasifikasiPerkara" FilterArguments="{x:Null}" FilterValues="{x:Null}" TotalRecords="{x:Null}" ContinueOnError="False" DisplayName="Query Entity Records" ExpansionDepth="2" sap:VirtualizedContainerService.HintSize="341,221" sap2010:WorkflowViewState.IdRef="QueryEntityRecords`1_2" OutputRecords="[out_perkaras]" Skip="0" SortAscending="True" SortByField="Id" TimeoutInMs="30000" Top="1000" />
   </Sequence>
 </Activity>
