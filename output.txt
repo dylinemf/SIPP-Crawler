@@ -1,0 +1,898 @@
+﻿No|Sumber_Data|Link_Web_PN|Nomor_Perkara|Tanggal_Register|Klasifikasi_Perkara|penggugat_pemohon_penuntut_umum|tergugat_termohon_terdakwa|Status_Perkara
+0|PN SEMARANG|sipp.pn-semarangkota.go.id/|94/Pdt.G.S/2021/PN Smg|23/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT INDRAPRASTA|ARYO PAMUNGKAS|Sidang pertama
+1|PN SEMARANG|sipp.pn-semarangkota.go.id/|94/Pdt.G.S/2021/PN Smg|23/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT INDRAPRASTA|PAMUJI|Sidang pertama
+2|PN SEMARANG|sipp.pn-semarangkota.go.id/|93/Pdt.G.S/2021/PN Smg|22/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT TUGU|SARIYADI|Sidang pertama
+3|PN SEMARANG|sipp.pn-semarangkota.go.id/|93/Pdt.G.S/2021/PN Smg|22/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT TUGU|MUSIYAMAH|Sidang pertama
+4|PN SEMARANG|sipp.pn-semarangkota.go.id/|92/Pdt.G.S/2021/PN Smg|22/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT TUGU|RASAM|Sidang pertama
+5|PN SEMARANG|sipp.pn-semarangkota.go.id/|92/Pdt.G.S/2021/PN Smg|22/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT TUGU|MISNAH|Sidang pertama
+6|PN SEMARANG|sipp.pn-semarangkota.go.id/|91/Pdt.G.S/2021/PN Smg|21/09/2021|Wanprestasi|ANDRI REDJEKI|Y DIMAS KURNIADI SETIAWAN|Sidang pertama
+7|PN SEMARANG|sipp.pn-semarangkota.go.id/|90/Pdt.G.S/2021/PN Smg|21/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|YUSNITA|Sidang pertama
+8|PN SEMARANG|sipp.pn-semarangkota.go.id/|90/Pdt.G.S/2021/PN Smg|21/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|FENDY SURYA PRATAMA|Sidang pertama
+9|PN SEMARANG|sipp.pn-semarangkota.go.id/|90/Pdt.G.S/2021/PN Smg|21/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|WINDARI|Sidang pertama
+10|PN SEMARANG|sipp.pn-semarangkota.go.id/|443/Pdt.G/2021/PN Smg|21/09/2021|Wanprestasi|PT Bank Perkreditan Rakyat (BPR) Jateng|IDA FITRIANI|Sidang pertama
+11|PN SEMARANG|sipp.pn-semarangkota.go.id/|433/Pdt.G/2021/PN Smg|16/09/2021|Wanprestasi|MEGA IDAWATI|Ny INDARYANI|Sidang pertama
+12|PN SEMARANG|sipp.pn-semarangkota.go.id/|433/Pdt.G/2021/PN Smg|16/09/2021|Wanprestasi|MEGA IDAWATI|Tn TINTUS ARI MURWANTO|Sidang pertama
+13|PN SEMARANG|sipp.pn-semarangkota.go.id/|433/Pdt.G/2021/PN Smg|16/09/2021|Wanprestasi|MEGA IDAWATI|Ny PIPIT RELAWATI|Sidang pertama
+14|PN SEMARANG|sipp.pn-semarangkota.go.id/|433/Pdt.G/2021/PN Smg|16/09/2021|Wanprestasi|MEGA IDAWATI|RISTIANI PUSPITASARI|Sidang pertama
+15|PN SEMARANG|sipp.pn-semarangkota.go.id/|433/Pdt.G/2021/PN Smg|16/09/2021|Wanprestasi|MEGA IDAWATI|" RONI PRASETIYO"|Sidang pertama
+16|PN SEMARANG|sipp.pn-semarangkota.go.id/|89/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|MUKLAS|Penunjukan Jurusita
+17|PN SEMARANG|sipp.pn-semarangkota.go.id/|89/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|SITI ISTIQOMAH|Penunjukan Jurusita
+18|PN SEMARANG|sipp.pn-semarangkota.go.id/|89/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|SUTINAH|Penunjukan Jurusita
+19|PN SEMARANG|sipp.pn-semarangkota.go.id/|89/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|SAMSI|Penunjukan Jurusita
+20|PN SEMARANG|sipp.pn-semarangkota.go.id/|88/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|MUCHLIS|Sidang pertama
+21|PN SEMARANG|sipp.pn-semarangkota.go.id/|88/Pdt.G.S/2021/PN Smg|15/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|PASRI|Sidang pertama
+22|PN SEMARANG|sipp.pn-semarangkota.go.id/|425/Pdt.G/2021/PN Smg|13/09/2021|Wanprestasi|Maskuri|Slamet Riyadi|Persidangan
+23|PN SEMARANG|sipp.pn-semarangkota.go.id/|425/Pdt.G/2021/PN Smg|13/09/2021|Wanprestasi|Maskuri|Notaris Dwi Fratmawati, SH,MKn|Persidangan
+24|PN SEMARANG|sipp.pn-semarangkota.go.id/|425/Pdt.G/2021/PN Smg|13/09/2021|Wanprestasi|Nuraliyah|Slamet Riyadi|Persidangan
+25|PN SEMARANG|sipp.pn-semarangkota.go.id/|425/Pdt.G/2021/PN Smg|13/09/2021|Wanprestasi|Nuraliyah|Notaris Dwi Fratmawati, SH,MKn|Persidangan
+26|PN SEMARANG|sipp.pn-semarangkota.go.id/|87/Pdt.G.S/2021/PN Smg|13/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SUYUDONO|SUGENG BUDIONO|Persidangan
+27|PN SEMARANG|sipp.pn-semarangkota.go.id/|87/Pdt.G.S/2021/PN Smg|13/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SUYUDONO|TATIK SULISTYOWATI|Persidangan
+28|PN SEMARANG|sipp.pn-semarangkota.go.id/|87/Pdt.G.S/2021/PN Smg|13/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SUYUDONO|SUTRIYAH|Persidangan
+29|PN SEMARANG|sipp.pn-semarangkota.go.id/|418/Pdt.G/2021/PN Smg|08/09/2021|Wanprestasi|Sonia Novita|Ahmad Aditya Mutakin|Persidangan
+30|PN SEMARANG|sipp.pn-semarangkota.go.id/|418/Pdt.G/2021/PN Smg|08/09/2021|Wanprestasi|Sonia Novita|Mawardi|Persidangan
+31|PN SEMARANG|sipp.pn-semarangkota.go.id/|417/Pdt.G/2021/PN Smg|08/09/2021|Wanprestasi|MUSTOFA|GUNAWAN|Persidangan
+32|PN SEMARANG|sipp.pn-semarangkota.go.id/|86/Pdt.G.S/2021/PN Smg|06/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SENTRA ABDUL RAHMAN SALEH|IMAM MASHURI|Minutasi
+33|PN SEMARANG|sipp.pn-semarangkota.go.id/|86/Pdt.G.S/2021/PN Smg|06/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SENTRA ABDUL RAHMAN SALEH|EVITA RISA DHAMAYANTI|Minutasi
+34|PN SEMARANG|sipp.pn-semarangkota.go.id/|406/Pdt.G/2021/PN Smg|02/09/2021|Wanprestasi|DYAH ANGGRAENI JUMIATI|SLAMET RIYADI|Persidangan
+35|PN SEMARANG|sipp.pn-semarangkota.go.id/|406/Pdt.G/2021/PN Smg|02/09/2021|Wanprestasi|DODOT ADHI NURWAHYO|SLAMET RIYADI|Persidangan
+36|PN SEMARANG|sipp.pn-semarangkota.go.id/|405/Pdt.G/2021/PN Smg|02/09/2021|Wanprestasi|SABILILLAH,SE|Soleman|Sidang pertama
+37|PN SEMARANG|sipp.pn-semarangkota.go.id/|403/Pdt.G/2021/PN Smg|01/09/2021|Wanprestasi|PT Catur Mitra Adhikara|PT Mitra Media Wijaya|Sidang pertama
+38|PN SEMARANG|sipp.pn-semarangkota.go.id/|403/Pdt.G/2021/PN Smg|01/09/2021|Wanprestasi|PT Catur Mitra Adhikara|Antoni Wijaya|Sidang pertama
+39|PN SEMARANG|sipp.pn-semarangkota.go.id/|85/Pdt.G.S/2021/PN Smg|01/09/2021|Wanprestasi|Handoko Adimulyo Koperasi Simpan Pinjam Graha Mandiri|Alex Purwoko|Sidang pertama
+40|PN SEMARANG|sipp.pn-semarangkota.go.id/|84/Pdt.G.S/2021/PN Smg|01/09/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|SUPATMI|Persidangan
+41|PN SEMARANG|sipp.pn-semarangkota.go.id/|402/Pdt.G/2021/PN Smg|01/09/2021|Wanprestasi|NUROCHIM|WALUYO|Persidangan
+42|PN SEMARANG|sipp.pn-semarangkota.go.id/|402/Pdt.G/2021/PN Smg|01/09/2021|Wanprestasi|NUROCHIM|NGASMAN BASIMIN|Persidangan
+43|PN SEMARANG|sipp.pn-semarangkota.go.id/|402/Pdt.G/2021/PN Smg|01/09/2021|Wanprestasi|NUROCHIM|DASUKI BINTI SARNI|Persidangan
+44|PN SEMARANG|sipp.pn-semarangkota.go.id/|83/Pdt.G.S/2021/PN Smg|30/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|ELISABETH TEYSE|Minutasi
+45|PN SEMARANG|sipp.pn-semarangkota.go.id/|83/Pdt.G.S/2021/PN Smg|30/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|A ARI BUDIARTO|Minutasi
+46|PN SEMARANG|sipp.pn-semarangkota.go.id/|394/Pdt.G/2021/PN Smg|26/08/2021|Wanprestasi|PT INDO TRANS KONSTRUKSI|PT BIMA AGUNG|Persidangan
+47|PN SEMARANG|sipp.pn-semarangkota.go.id/|82/Pdt.G.S/2021/PN Smg|26/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|ABIB DARMAWAN|Persidangan
+48|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|Nur Kasihati|Persidangan
+49|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ELLY WIDYANINGRUM|Persidangan
+50|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|EKA SRI ARIYANI|Persidangan
+51|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ADELYA HIDAYATI|Persidangan
+52|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ALVINA ANASTASIA|Persidangan
+53|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ANGGI SYAVIRA YONANDESTIA|Persidangan
+54|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ISWATUN KHOSMA|Persidangan
+55|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|GLEISY MEIFY WANGOL|Persidangan
+56|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|IFATIEN NI’MAH|Persidangan
+57|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|MILA MARISA|Persidangan
+58|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|HEPI PUSPITA SARI|Persidangan
+59|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|DWI YULIANTI|Persidangan
+60|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|LARAS WIDHANAR|Persidangan
+61|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|NILAM CAHYANI|Persidangan
+62|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|ISTIROKAH|Persidangan
+63|PN SEMARANG|sipp.pn-semarangkota.go.id/|381/Pdt.G/2021/PN Smg|19/08/2021|Wanprestasi|firnila rusdiana|LUJIATI|Persidangan
+64|PN SEMARANG|sipp.pn-semarangkota.go.id/|81/Pdt.G.S/2021/PN Smg|19/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT KRANGGAN|SRI SARTINI|Minutasi
+65|PN SEMARANG|sipp.pn-semarangkota.go.id/|80/Pdt.G.S/2021/PN Smg|18/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT SUKUN|LISTYO FEBRIANA|Minutasi
+66|PN SEMARANG|sipp.pn-semarangkota.go.id/|80/Pdt.G.S/2021/PN Smg|18/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT SUKUN|WAHYU SATRIA ANGGARA|Minutasi
+67|PN SEMARANG|sipp.pn-semarangkota.go.id/|79/Pdt.G.S/2021/PN Smg|12/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT SEMARANG|JUMIATI|Minutasi
+68|PN SEMARANG|sipp.pn-semarangkota.go.id/|79/Pdt.G.S/2021/PN Smg|12/08/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT SEMARANG|MARYATUN|Minutasi
+69|PN SEMARANG|sipp.pn-semarangkota.go.id/|368/Pdt.G/2021/PN Smg|09/08/2021|Wanprestasi|HARYONO|ADI HARTONO|Persidangan
+70|PN SEMARANG|sipp.pn-semarangkota.go.id/|368/Pdt.G/2021/PN Smg|09/08/2021|Wanprestasi|HARYONO|PUJI ERAWATI|Persidangan
+71|PN SEMARANG|sipp.pn-semarangkota.go.id/|368/Pdt.G/2021/PN Smg|09/08/2021|Wanprestasi|HARYONO|SUBIYANTO|Persidangan
+72|PN SEMARANG|sipp.pn-semarangkota.go.id/|78/Pdt.G.S/2021/PN Smg|05/08/2021|Wanprestasi|PT BPR GURU JATENG Semarang|SARMONAH|Minutasi
+73|PN SEMARANG|sipp.pn-semarangkota.go.id/|77/Pdt.G.S/2021/PN Smg|04/08/2021|Wanprestasi|PT BPR WELERI MAKMUR|JOKO SULISTIYO|Minutasi
+74|PN SEMARANG|sipp.pn-semarangkota.go.id/|77/Pdt.G.S/2021/PN Smg|04/08/2021|Wanprestasi|PT BPR WELERI MAKMUR|WAHYU RACHMAWATI|Minutasi
+75|PN SEMARANG|sipp.pn-semarangkota.go.id/|356/Pdt.G/2021/PN Smg|02/08/2021|Wanprestasi|PT Bank Perkreditan Rakyat ( BPR ) Jateng|AGUS AFIF AA|Putusan
+76|PN SEMARANG|sipp.pn-semarangkota.go.id/|356/Pdt.G/2021/PN Smg|02/08/2021|Wanprestasi|PT Bank Perkreditan Rakyat ( BPR ) Jateng|SHOFIYAH|Putusan
+77|PN SEMARANG|sipp.pn-semarangkota.go.id/|75/Pdt.G.S/2021/PN Smg|29/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|MURYATI|Minutasi
+78|PN SEMARANG|sipp.pn-semarangkota.go.id/|75/Pdt.G.S/2021/PN Smg|29/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|SUGENG|Minutasi
+79|PN SEMARANG|sipp.pn-semarangkota.go.id/|351/Pdt.G/2021/PN Smg|26/07/2021|Wanprestasi|dedy purnomo kurnia|ir heru siswanto|Minutasi
+80|PN SEMARANG|sipp.pn-semarangkota.go.id/|73/Pdt.G.S/2021/PN Smg|22/07/2021|Wanprestasi|PT BRI Agroniaga Tbk Kantor Cabang Semarang|Muntingah|Minutasi
+81|PN SEMARANG|sipp.pn-semarangkota.go.id/|74/Pdt.G.S/2021/PN Smg|22/07/2021|Wanprestasi|PT BRI Agroniaga Tbk Kantor Cabang Semarang|Ronny Setia Aldy|Minutasi
+82|PN SEMARANG|sipp.pn-semarangkota.go.id/|72/Pdt.G.S/2021/PN Smg|13/07/2021|Wanprestasi|KSP Graha Mandiri|Moses Jody Satrio Subandi|Minutasi
+83|PN SEMARANG|sipp.pn-semarangkota.go.id/|70/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR SEJAHTERA ARTHA SEMBADA (KANTOR CABANG MRANGGEN)|LILIK KUSWANDI|Minutasi
+84|PN SEMARANG|sipp.pn-semarangkota.go.id/|70/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR SEJAHTERA ARTHA SEMBADA (KANTOR CABANG MRANGGEN)|HEPPY IS INDINA|Minutasi
+85|PN SEMARANG|sipp.pn-semarangkota.go.id/|70/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR SEJAHTERA ARTHA SEMBADA (KANTOR CABANG MRANGGEN)|SLAMET SUWARNI|Minutasi
+86|PN SEMARANG|sipp.pn-semarangkota.go.id/|70/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR SEJAHTERA ARTHA SEMBADA (KANTOR CABANG MRANGGEN)|MOHAMAD ZAENI|Minutasi
+87|PN SEMARANG|sipp.pn-semarangkota.go.id/|71/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR WELERI MAKMUR|RIANA PUSPITASARI|Minutasi
+88|PN SEMARANG|sipp.pn-semarangkota.go.id/|71/Pdt.G.S/2021/PN Smg|12/07/2021|Wanprestasi|PT BPR WELERI MAKMUR|AGUS PRAYITNO|Minutasi
+89|PN SEMARANG|sipp.pn-semarangkota.go.id/|68/Pdt.G.S/2021/PN Smg|08/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|MOCHAMAD FATHONI|Minutasi
+90|PN SEMARANG|sipp.pn-semarangkota.go.id/|68/Pdt.G.S/2021/PN Smg|08/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|DHYAN AGUSTINA|Minutasi
+91|PN SEMARANG|sipp.pn-semarangkota.go.id/|69/Pdt.G.S/2021/PN Smg|08/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA ( PERSERO ) Tbk KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|SETYO WAHONO, SE|Pemberitahuan Putusan
+92|PN SEMARANG|sipp.pn-semarangkota.go.id/|69/Pdt.G.S/2021/PN Smg|08/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA ( PERSERO ) Tbk KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|V NURI SURYANA|Pemberitahuan Putusan
+93|PN SEMARANG|sipp.pn-semarangkota.go.id/|66/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT NGESREP|CHANDRA NOVIANDIKA|Minutasi
+94|PN SEMARANG|sipp.pn-semarangkota.go.id/|66/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT NGESREP|FREDI NOVIANTONO|Minutasi
+95|PN SEMARANG|sipp.pn-semarangkota.go.id/|66/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT NGESREP|EVA NOVITADEWI|Minutasi
+96|PN SEMARANG|sipp.pn-semarangkota.go.id/|67/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|JUNAIDI|Minutasi
+97|PN SEMARANG|sipp.pn-semarangkota.go.id/|67/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|IKA SUSTINSARI|Minutasi
+98|PN SEMARANG|sipp.pn-semarangkota.go.id/|67/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|MUHKAZIN|Minutasi
+99|PN SEMARANG|sipp.pn-semarangkota.go.id/|67/Pdt.G.S/2021/PN Smg|07/07/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT JANGLI|FATONAH|Minutasi
+100|PN SEMARANG|sipp.pn-semarangkota.go.id/|325/Pdt.G/2021/PN Smg|06/07/2021|Wanprestasi|PT BANK TABUNGAN NEGARA Tbk|CV Hanari|Minutasi
+101|PN SEMARANG|sipp.pn-semarangkota.go.id/|325/Pdt.G/2021/PN Smg|06/07/2021|Wanprestasi|PT BANK TABUNGAN NEGARA Tbk|Fransiscus Xaverius Handoko Kurniawan Adji|Minutasi
+102|PN SEMARANG|sipp.pn-semarangkota.go.id/|326/Pdt.G/2021/PN Smg|06/07/2021|Wanprestasi|Syawal Riyanto|Adid Hartanto|Persidangan
+103|PN SEMARANG|sipp.pn-semarangkota.go.id/|326/Pdt.G/2021/PN Smg|06/07/2021|Wanprestasi|Syawal Riyanto|Haryati Sri Rahayu|Persidangan
+104|PN SEMARANG|sipp.pn-semarangkota.go.id/|65/Pdt.G.S/2021/PN Smg|06/07/2021|Wanprestasi|DENNY SETYONINGTYAS|ANDREAS SUPRIYANTO|Pemberitahuan Putusan
+105|PN SEMARANG|sipp.pn-semarangkota.go.id/|65/Pdt.G.S/2021/PN Smg|06/07/2021|Wanprestasi|DENNY SETYONINGTYAS|IRENE HENNY RAHAYUNINGSIH|Pemberitahuan Putusan
+106|PN SEMARANG|sipp.pn-semarangkota.go.id/|65/Pdt.G.S/2021/PN Smg|06/07/2021|Wanprestasi|DENNY SETYONINGTYAS|KEPALA BADAN PERTANAHAN NASIONAL SEMARANG QQ KEPALA KANWIL BADAN PERTANAHAN NASIONAL PROVINSI JAWA TENGAH QQ KEPALA BADAN PERTANAHAN NASIONAL REPUBLIK INDONESIA QQ PEMERINTAH REPUBLIK INDONESIA|Pemberitahuan Putusan
+107|PN SEMARANG|sipp.pn-semarangkota.go.id/|318/Pdt.G/2021/PN Smg|05/07/2021|Wanprestasi|RINTO SETIYAWAN|Drs Mohamad Arief Irwanto, MSi selaku Pejabat Penandatangan Kontrak (PA/KPA) yang bertindak untuk dan atas nama Badan Pengembangan Sumber Daya Manusia Daerah Provinsi Jawa Tengah|Minutasi
+108|PN SEMARANG|sipp.pn-semarangkota.go.id/|308/Pdt.G/2021/PN Smg|01/07/2021|Wanprestasi|LIDYA SRI LESTARI|SLAMET RIYADI|Persidangan
+109|PN SEMARANG|sipp.pn-semarangkota.go.id/|308/Pdt.G/2021/PN Smg|01/07/2021|Wanprestasi|LIDYA SRI LESTARI|PTMADINAH ALAM PERSADA|Persidangan
+110|PN SEMARANG|sipp.pn-semarangkota.go.id/|308/Pdt.G/2021/PN Smg|01/07/2021|Wanprestasi|WIDIA ARTO SOEJITNO, SKom|SLAMET RIYADI|Persidangan
+111|PN SEMARANG|sipp.pn-semarangkota.go.id/|308/Pdt.G/2021/PN Smg|01/07/2021|Wanprestasi|WIDIA ARTO SOEJITNO, SKom|PTMADINAH ALAM PERSADA|Persidangan
+112|PN SEMARANG|sipp.pn-semarangkota.go.id/|64/Pdt.G.S/2021/PN Smg|01/07/2021|Wanprestasi|PT BPR GURU JATENG|SETYAWAN SUGIHARTANTO|Minutasi
+113|PN SEMARANG|sipp.pn-semarangkota.go.id/|63/Pdt.G.S/2021/PN Smg|01/07/2021|Wanprestasi|PT BPR GURU JATENG|DICKY HERMANTO|Minutasi
+114|PN SEMARANG|sipp.pn-semarangkota.go.id/|298/Pdt.G/2021/PN Smg|28/06/2021|Wanprestasi|PT JTRUST INVESTMENTS INDONESIA|Agustin Widyaningrum|Persidangan
+115|PN SEMARANG|sipp.pn-semarangkota.go.id/|62/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT MAJAPAHIT|ACHMAD|Putusan
+116|PN SEMARANG|sipp.pn-semarangkota.go.id/|62/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PATTIMURA UNIT MAJAPAHIT|DIAN DWI SAPUTRA|Putusan
+117|PN SEMARANG|sipp.pn-semarangkota.go.id/|61/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SAMPANGAN|SULAIMAH|Minutasi
+118|PN SEMARANG|sipp.pn-semarangkota.go.id/|61/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SAMPANGAN|TOMMY UNGGUL WIBOWO|Minutasi
+119|PN SEMARANG|sipp.pn-semarangkota.go.id/|61/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SAMPANGAN|ENDRO WIDIYANTO|Minutasi
+120|PN SEMARANG|sipp.pn-semarangkota.go.id/|61/Pdt.G.S/2021/PN Smg|24/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT SAMPANGAN|HARTINI|Minutasi
+121|PN SEMARANG|sipp.pn-semarangkota.go.id/|294/Pdt.G/2021/PN Smg|24/06/2021|Wanprestasi|PT JTRUST INVESTMENTS INDONESIA|KUSWANTO|Minutasi
+122|PN SEMARANG|sipp.pn-semarangkota.go.id/|60/Pdt.G.S/2021/PN Smg|23/06/2021|Wanprestasi|Yohan eddy Salude|Nur Aprilia|Minutasi
+123|PN SEMARANG|sipp.pn-semarangkota.go.id/|60/Pdt.G.S/2021/PN Smg|23/06/2021|Wanprestasi|Yohan eddy Salude|TUNJUNG|Minutasi
+124|PN SEMARANG|sipp.pn-semarangkota.go.id/|288/Pdt.G/2021/PN Smg|23/06/2021|Wanprestasi|ENDANG ISMININGSIH|SABAR|Persidangan
+125|PN SEMARANG|sipp.pn-semarangkota.go.id/|283/Pdt.G/2021/PN Smg|23/06/2021|Wanprestasi|PT JTRUST INVESTMENTS INDONESIA|SUPARMAN|Persidangan
+126|PN SEMARANG|sipp.pn-semarangkota.go.id/|59/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|AHMAD FAUZI|Minutasi
+127|PN SEMARANG|sipp.pn-semarangkota.go.id/|59/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|DYAS RATNA YULIANA AGMAL|Minutasi
+128|PN SEMARANG|sipp.pn-semarangkota.go.id/|59/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|PASIMAN|Minutasi
+129|PN SEMARANG|sipp.pn-semarangkota.go.id/|59/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT MANYARAN|NGATINI|Minutasi
+130|PN SEMARANG|sipp.pn-semarangkota.go.id/|58/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|NGATIMAN|Minutasi
+131|PN SEMARANG|sipp.pn-semarangkota.go.id/|58/Pdt.G.S/2021/PN Smg|14/06/2021|Wanprestasi|PT BANK RAKYAT INDONESIA (PERSERO) TBK KANTOR CABANG SEMARANG PANDANARAN UNIT CANGKIRAN|SUDARTI|Minutasi
+132|PN SEMARANG|sipp.pn-semarangkota.go.id/|57/Pdt.G.S/2021/PN Smg|10/06/2021|Wanprestasi|PT BPR WELERI MAKMUR|NGUDIROSO|Minutasi
+133|PN SEMARANG|sipp.pn-semarangkota.go.id/|57/Pdt.G.S/2021/PN Smg|10/06/2021|Wanprestasi|PT BPR WELERI MAKMUR|LILIS SIANAWATI|Minutasi
+134|PN SEMARANG|sipp.pn-semarangkota.go.id/|56/Pdt.G.S/2021/PN Smg|08/06/2021|Wanprestasi|PT SINARMAS DISTRIBUSI NUSANTARA (SDN) Cabang Solo|ARIYANTO HADINOTO|Minutasi
+135|PN SEMARANG|sipp.pn-semarangkota.go.id/|56/Pdt.G.S/2021/PN Smg|08/06/2021|Wanprestasi|PT SINARMAS DISTRIBUSI NUSANTARA (SDN) Cabang Tegal|ARIYANTO HADINOTO|Minutasi
+136|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|487/Pdt.G/2021/PN Jkt.Tim|23/09/2021|Wanprestasi|PT TRISTAR CAHAYA ABADI|PT SAETI CONCRETINDO WAHANA|Sidang pertama
+137|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|491/Pdt.G/2021/PN Jkt.Tim|23/09/2021|Wanprestasi|TJEN A DJANG|Marlin|Sidang pertama
+138|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|482/Pdt.G/2021/PN Jkt.Tim|21/09/2021|Wanprestasi|PT PUTRA INA KARYA|DRIR EDDY IHUT SIAHAAN|Sidang pertama
+139|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|482/Pdt.G/2021/PN Jkt.Tim|21/09/2021|Wanprestasi|PT PUTRA INA KARYA|ADRIAN JONATHAN YOSUA, ST|Sidang pertama
+140|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|478/Pdt.G/2021/PN Jkt.Tim|20/09/2021|Wanprestasi|Herry Suherman, SH|Hj Aisyah Binti Nyak Ramping|Sidang pertama
+141|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|473/Pdt.G/2021/PN Jkt.Tim|17/09/2021|Wanprestasi|Titin Kurniatie|H Zainal Abidin Halim|Sidang pertama
+142|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|18/Pdt.G.S/2021/PN Jkt.Tim|15/09/2021|Wanprestasi|Herri Bona Saut Simatupang, SH|PT Tri Megah Selaras Indonesia|Sidang pertama
+143|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|469/Pdt.G/2021/PN Jkt.Tim|14/09/2021|Wanprestasi|PT Urogen Advanced Solutions|PT Asri Trisna Mandiri|Sidang pertama
+144|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|467/Pdt.G/2021/PN Jkt.Tim|13/09/2021|Wanprestasi|PT ABETAMA SEMPURNA|PT BRANTAS ABIPRAYA|Sidang pertama
+145|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|467/Pdt.G/2021/PN Jkt.Tim|13/09/2021|Wanprestasi|PT ABETAMA SEMPURNA|PT TANGGA BATU JAYA ABADI|Sidang pertama
+146|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|467/Pdt.G/2021/PN Jkt.Tim|13/09/2021|Wanprestasi|PT ABETAMA SEMPURNA|AGUS BUDI HARTANTO|Sidang pertama
+147|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|450/Pdt.G/2021/PN Jkt.Tim|06/09/2021|Wanprestasi|PT INDONESIA AGRI MANDIRI yang diwakili oleh Ny MARYZA SURYA ANDARI selaku Direktur Utama PT INDONESIA AGRI MANDIRI|CV BUMI REMPAH|Sidang pertama
+148|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|445/Pdt.G/2021/PN Jkt.Tim|31/08/2021|Wanprestasi|PT Solusi Bangun Indonesia, Tbk|PT Surya Rezeki Timber Utama|Persidangan
+149|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|432/Pdt.G/2021/PN Jkt.Tim|25/08/2021|Wanprestasi|Andika Fitriyadi|Okke Soedradjat,B SC|Persidangan
+150|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|423/Pdt.G/2021/PN Jkt.Tim|23/08/2021|Wanprestasi|PT INDOMOBIL FINANCE INDONESIA|CV Sumber Alumunium Pelangi|Persidangan
+151|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|424/Pdt.G/2021/PN Jkt.Tim|23/08/2021|Wanprestasi|FERDIANSYAH|NELSON REINHARD SE,|Persidangan
+152|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|424/Pdt.G/2021/PN Jkt.Tim|23/08/2021|Wanprestasi|FERDIANSYAH|VIVI YUNIWANTI, SH,|Persidangan
+153|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|426/Pdt.G/2021/PN Jkt.Tim|23/08/2021|Wanprestasi|PT MULTI SOLUSINDO PERKASA|PT WIJAYA KARYA BANGUNAN GEDUNG, TBK|Persidangan
+154|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|420/Pdt.G/2021/PN Jkt.Tim|19/08/2021|Wanprestasi|Gufron Albayroni|Yulianto|Persidangan
+155|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|413/Pdt.G/2021/PN Jkt.Tim|18/08/2021|Wanprestasi|NILAM SARI|H M SARMILI|Persidangan
+156|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|412/Pdt.G/2021/PN Jkt.Tim|18/08/2021|Wanprestasi|Drs Ronaldo Maukar|Indah Setiani|Persidangan
+157|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|412/Pdt.G/2021/PN Jkt.Tim|18/08/2021|Wanprestasi|Drs Ronaldo Maukar|Yugo Irawan Budiyanto|Persidangan
+158|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|409/Pdt.G/2021/PN Jkt.Tim|16/08/2021|Wanprestasi|Gustina Maroon Nasution|Rita Mulyani (Tergugat I)|Persidangan
+159|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|409/Pdt.G/2021/PN Jkt.Tim|16/08/2021|Wanprestasi|Gustina Maroon Nasution|CV Graha Teknik (Tergugat II)|Persidangan
+160|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|403/Pdt.G/2021/PN Jkt.Tim|13/08/2021|Wanprestasi|PT Dayacipta Kemasindo|PT DUTAMEGAH MATRA KERAMIK|Persidangan
+161|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Ramesh Mukhi|Melly Indrawati|Persidangan
+162|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Ramesh Mukhi|Deny Indrawan|Persidangan
+163|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Ramesh Mukhi|Santy Octavianty|Persidangan
+164|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Rajesh Udhwani|Melly Indrawati|Persidangan
+165|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Rajesh Udhwani|Deny Indrawan|Persidangan
+166|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Sonia Rajesh Udhwani|Santy Octavianty|Persidangan
+167|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Kumar Lachmandas Wadhwani|Melly Indrawati|Persidangan
+168|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Kumar Lachmandas Wadhwani|Deny Indrawan|Persidangan
+169|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2021/PN Jkt.Tim|06/08/2021|Wanprestasi|Kumar Lachmandas Wadhwani|Santy Octavianty|Persidangan
+170|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|393/Pdt.G/2021/PN Jkt.Tim|05/08/2021|Wanprestasi|Josep Sulistyo|PT Dinamika Argabangun|Persidangan
+171|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|392/Pdt.G/2021/PN Jkt.Tim|04/08/2021|Wanprestasi|LORA MAIRINA AMRIN|Persero Terbatas DHL (PT DHL SUPPLY CHAIN INDONESIA)|Persidangan
+172|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|392/Pdt.G/2021/PN Jkt.Tim|04/08/2021|Wanprestasi|LORA MAIRINA AMRIN|Sdri MASYITAH, selaku Senior Executive Operation PT DHL SUPPLY CHAIN INDONESIA|Persidangan
+173|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|389/Pdt.G/2021/PN Jkt.Tim|03/08/2021|Wanprestasi|ERIC DASYA REFANDA|Dewi Irma Yunita|Persidangan
+174|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|AMIEN SUKARDI|SARJONO|Persidangan
+175|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|AMIEN SUKARDI|HENDY WIRATAMA|Persidangan
+176|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|AMIEN SUKARDI|HENDRA DWIATMANTO|Persidangan
+177|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|AMIEN SUKARDI|BANU PRISTIAWAN|Persidangan
+178|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|AMIEN SUKARDI|DANU PRIMANTORO|Persidangan
+179|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Sartono|SARJONO|Persidangan
+180|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Sartono|HENDY WIRATAMA|Persidangan
+181|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Sartono|HENDRA DWIATMANTO|Persidangan
+182|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Sartono|BANU PRISTIAWAN|Persidangan
+183|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Sartono|DANU PRIMANTORO|Persidangan
+184|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Dra Pudjiati|SARJONO|Persidangan
+185|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Dra Pudjiati|HENDY WIRATAMA|Persidangan
+186|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Dra Pudjiati|HENDRA DWIATMANTO|Persidangan
+187|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Dra Pudjiati|BANU PRISTIAWAN|Persidangan
+188|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Dra Pudjiati|DANU PRIMANTORO|Persidangan
+189|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Supiyati|SARJONO|Persidangan
+190|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Supiyati|HENDY WIRATAMA|Persidangan
+191|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Supiyati|HENDRA DWIATMANTO|Persidangan
+192|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Supiyati|BANU PRISTIAWAN|Persidangan
+193|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Supiyati|DANU PRIMANTORO|Persidangan
+194|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Andrina Karlina|SARJONO|Persidangan
+195|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Andrina Karlina|HENDY WIRATAMA|Persidangan
+196|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Andrina Karlina|HENDRA DWIATMANTO|Persidangan
+197|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Andrina Karlina|BANU PRISTIAWAN|Persidangan
+198|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Andrina Karlina|DANU PRIMANTORO|Persidangan
+199|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Arfansyah Lubis|SARJONO|Persidangan
+200|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Arfansyah Lubis|HENDY WIRATAMA|Persidangan
+201|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Arfansyah Lubis|HENDRA DWIATMANTO|Persidangan
+202|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Arfansyah Lubis|BANU PRISTIAWAN|Persidangan
+203|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Arfansyah Lubis|DANU PRIMANTORO|Persidangan
+204|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Alfriza Lubis|SARJONO|Persidangan
+205|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Alfriza Lubis|HENDY WIRATAMA|Persidangan
+206|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Alfriza Lubis|HENDRA DWIATMANTO|Persidangan
+207|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Alfriza Lubis|BANU PRISTIAWAN|Persidangan
+208|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|385/Pdt.G/2021/PN Jkt.Tim|30/07/2021|Wanprestasi|Alfriza Lubis|DANU PRIMANTORO|Persidangan
+209|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|381/Pdt.G/2021/PN Jkt.Tim|28/07/2021|Wanprestasi|R YOGI INDRA GUMELAR|SANDI SUMARDI (DIREKTUR UTAMA) PT AMALA JAYA PERKASA|Persidangan
+210|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Triwiyadi|PT Jakarta Marten Logamindo|Persidangan
+211|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Slamet Junianto|PT Jakarta Marten Logamindo|Persidangan
+212|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Saifur Rahman|PT Jakarta Marten Logamindo|Persidangan
+213|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Suhandi|PT Jakarta Marten Logamindo|Persidangan
+214|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Mutaqin|PT Jakarta Marten Logamindo|Persidangan
+215|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Hariyanto|PT Jakarta Marten Logamindo|Persidangan
+216|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Nuryanto|PT Jakarta Marten Logamindo|Persidangan
+217|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Udin Syarifudin|PT Jakarta Marten Logamindo|Persidangan
+218|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Agung Wibowo|PT Jakarta Marten Logamindo|Persidangan
+219|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Ahmad Taefur|PT Jakarta Marten Logamindo|Persidangan
+220|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Antonius Widodo S|PT Jakarta Marten Logamindo|Persidangan
+221|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Eva Aprillia|PT Jakarta Marten Logamindo|Persidangan
+222|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2021/PN Jkt.Tim|27/07/2021|Wanprestasi|Achmad Sofiani|PT Jakarta Marten Logamindo|Persidangan
+223|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|374/Pdt.G/2021/PN Jkt.Tim|22/07/2021|Wanprestasi|Gokma Christa R Hasugian|Mery Agustina Hia|Persidangan
+224|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|374/Pdt.G/2021/PN Jkt.Tim|22/07/2021|Wanprestasi|Gokma Christa R Hasugian|Agus Herman Frangki Siahaan|Persidangan
+225|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|374/Pdt.G/2021/PN Jkt.Tim|22/07/2021|Wanprestasi|Doharman Simangunsong|Mery Agustina Hia|Persidangan
+226|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|374/Pdt.G/2021/PN Jkt.Tim|22/07/2021|Wanprestasi|Doharman Simangunsong|Agus Herman Frangki Siahaan|Persidangan
+227|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|371/Pdt.G/2021/PN Jkt.Tim|19/07/2021|Wanprestasi|PANGDAM JAYA/JAYAKARTA|Ahli Waris BENDOT SUBARKAT|Persidangan
+228|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|371/Pdt.G/2021/PN Jkt.Tim|19/07/2021|Wanprestasi|PANGDAM JAYA/JAYAKARTA|Drs MARULAK SIMANGUNGSONG|Persidangan
+229|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|371/Pdt.G/2021/PN Jkt.Tim|19/07/2021|Wanprestasi|PANGDAM JAYA/JAYAKARTA|Drs POLYCARPUS SWANTORO|Persidangan
+230|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|371/Pdt.G/2021/PN Jkt.Tim|19/07/2021|Wanprestasi|PANGDAM JAYA/JAYAKARTA|RUDY SIAHAAN, SH,|Persidangan
+231|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|372/Pdt.G/2021/PN Jkt.Tim|19/07/2021|Wanprestasi|M SIANTURI|H MATRODJI MINAN|Persidangan
+232|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|368/Pdt.G/2021/PN Jkt.Tim|16/07/2021|Wanprestasi|Tn Ir Andi Burhanuddin|Tn Abdul Hakim|Persidangan
+233|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|368/Pdt.G/2021/PN Jkt.Tim|16/07/2021|Wanprestasi|Tn Ir Andi Burhanuddin|Tn Abd Rahim|Persidangan
+234|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|365/Pdt.G/2021/PN Jkt.Tim|15/07/2021|Wanprestasi|PT Indomobil Finance Indonesia|Gede Eka Karuna Wibawa|Persidangan
+235|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|359/Pdt.G/2021/PN Jkt.Tim|09/07/2021|Wanprestasi|PT KONE INDO ELEVATOR|PT ANGKASA LINTAS SEJAHTERA|Persidangan
+236|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|360/Pdt.G/2021/PN Jkt.Tim|09/07/2021|Wanprestasi|Agus Salim|Mugeni Als Joni|Minutasi
+237|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|15/Pdt.G.S/2021/PN Jkt.Tim|02/07/2021|Wanprestasi|Bank Mega KCP MT Haryono Jakarta Timur|Bohman Jonathan Silaen|Minutasi
+238|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|15/Pdt.G.S/2021/PN Jkt.Tim|02/07/2021|Wanprestasi|Bank Mega KCP MT Haryono Jakarta Timur|Endang Rijatun|Minutasi
+239|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|339/Pdt.G/2021/PN Jkt.Tim|28/06/2021|Wanprestasi|Elva Waniza|Asparil|Persidangan
+240|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|340/Pdt.G/2021/PN Jkt.Tim|28/06/2021|Wanprestasi|DRS RUDY SINAGA, MBA|MIRWAN MS|Persidangan
+241|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|341/Pdt.G/2021/PN Jkt.Tim|28/06/2021|Wanprestasi|PT INDRA ANGKOLA|Marcelinus Adhya Yudha Pamungkas|Persidangan
+242|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|14/Pdt.G.S/2021/PN Jkt.Tim|25/06/2021|Wanprestasi|NURIDHO PANGESTU|MAULANA AKBAR NAPITU|Minutasi
+243|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|14/Pdt.G.S/2021/PN Jkt.Tim|25/06/2021|Wanprestasi|NURIDHO PANGESTU|MAHEINDRA SUHADA|Minutasi
+244|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|332/Pdt.G/2021/PN Jkt.Tim|22/06/2021|Wanprestasi|PT NDT INTRUMENTS INDONESIA|PT BONNE INDO TEKNIK|Persidangan
+245|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|329/Pdt.G/2021/PN Jkt.Tim|21/06/2021|Wanprestasi|Manumpak Sianturi, SH,MH|Marsin bin Disan|Persidangan
+246|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|324/Pdt.G/2021/PN Jkt.Tim|18/06/2021|Wanprestasi|HERU SUNARTO|AGUNG RIZKA BUDIARTO|Persidangan
+247|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|13/Pdt.G.S/2021/PN Jkt.Tim|16/06/2021|Wanprestasi|MUHAMMAD RUHUNUSSA SH|ANTON SE|Minutasi
+248|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|320/Pdt.G/2021/PN Jkt.Tim|15/06/2021|Wanprestasi|PT TRISTAR CAHAYA ABADI|PT SAETI CONCRETINDO WAHANA|Minutasi
+249|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|312/Pdt.G/2021/PN Jkt.Tim|10/06/2021|Wanprestasi|ABDUL SYUKUR|Dr H Muharso, SKM|Persidangan
+250|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|312/Pdt.G/2021/PN Jkt.Tim|10/06/2021|Wanprestasi|ABDUL SYUKUR|Drs H Tjendrawasih Jailani, MPd|Persidangan
+251|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|312/Pdt.G/2021/PN Jkt.Tim|10/06/2021|Wanprestasi|ABDUL SYUKUR|H Taslim Wazir, SKM, MKM, MPd|Persidangan
+252|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|312/Pdt.G/2021/PN Jkt.Tim|10/06/2021|Wanprestasi|ABDUL SYUKUR|Dra Misfita Farida SKM, MKes|Persidangan
+253|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|12/Pdt.G.S/2021/PN Jkt.Tim|09/06/2021|Wanprestasi|PT Bank Rakyat Indonesia (Persero) Tbk Kantor Cabang Otista,|Sumyati|Minutasi
+254|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|306/Pdt.G/2021/PN Jkt.Tim|08/06/2021|Wanprestasi|ROSDA ELYANA NASUTION|ACHMAD AZRAN|Persidangan
+255|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|306/Pdt.G/2021/PN Jkt.Tim|08/06/2021|Wanprestasi|RINDA SEPTIAWARSIH|ACHMAD AZRAN|Persidangan
+256|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|306/Pdt.G/2021/PN Jkt.Tim|08/06/2021|Wanprestasi|RENI BUDIAWATI|ACHMAD AZRAN|Persidangan
+257|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|294/Pdt.G/2021/PN Jkt.Tim|03/06/2021|Wanprestasi|PT Maybank Indonesia Finance|PT Timur Terang Transindo|Persidangan
+258|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|284/Pdt.G/2021/PN Jkt.Tim|31/05/2021|Wanprestasi|PTUSAHA BARATAMA JAYATAMA|Makbullah Ali, SE,SH|Persidangan
+259|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|273/Pdt.G/2021/PN Jkt.Tim|25/05/2021|Wanprestasi|PT Addis Citra|PT Leads Mala Indotama|Persidangan
+260|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|267/Pdt.G/2021/PN Jkt.Tim|20/05/2021|Wanprestasi|PT Maybank Indonesia Finance|PT Timur Terang Transindo|Putusan Sela
+261|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|265/Pdt.G/2021/PN Jkt.Tim|19/05/2021|Wanprestasi|PT Maybank Indonesia Finance|PT Timur Terang Transindo|Persidangan
+262|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|257/Pdt.G/2021/PN Jkt.Tim|17/05/2021|Wanprestasi|MARYATI|RUSITO|Persidangan
+263|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G.S/2021/PN Jkt.Tim|11/05/2021|Wanprestasi|HERMAWAN|PT Mandiri Tunas Finance Matraman|Minutasi
+264|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|255/Pdt.G/2021/PN Jkt.Tim|11/05/2021|Wanprestasi|PT Cahaya Putri Dinamika|PT Swadaya Pangan Internasional|Persidangan
+265|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|255/Pdt.G/2021/PN Jkt.Tim|11/05/2021|Wanprestasi|PT Cahaya Putri Dinamika|David Hendradjid Rahardja|Persidangan
+266|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|250/Pdt.G/2021/PN Jkt.Tim|10/05/2021|Wanprestasi|Uslani|Ibnu Said Dahlan Alboney|Minutasi
+267|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|240/Pdt.G/2021/PN Jkt.Tim|03/05/2021|Wanprestasi|PT FOKUS DIAGNOSTIC INDONESIA|BUDIATI|Persidangan
+268|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|240/Pdt.G/2021/PN Jkt.Tim|03/05/2021|Wanprestasi|PT FOKUS DIAGNOSTIC INDONESIA|" HIMAWATI"|Persidangan
+269|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|241/Pdt.G/2021/PN Jkt.Tim|03/05/2021|Wanprestasi|anja Runtuwene|kongregasi suster-suster cinta kasih santo carolus barromeus|Persidangan
+270|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|241/Pdt.G/2021/PN Jkt.Tim|03/05/2021|Wanprestasi|anja Runtuwene|suster justina wiwiek ismawati|Persidangan
+271|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|241/Pdt.G/2021/PN Jkt.Tim|03/05/2021|Wanprestasi|anja Runtuwene|suster maria magdalena tri widarti|Persidangan
+272|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|229/Pdt.G/2021/PN Jkt.Tim|26/04/2021|Wanprestasi|PT JTRUST INVESTMENTS INDONESIA|" Aditya Nanda"|Persidangan
+273|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|226/Pdt.G/2021/PN Jkt.Tim|22/04/2021|Wanprestasi|Olly Saleh|Ny Sutati|Persidangan
+274|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|226/Pdt.G/2021/PN Jkt.Tim|22/04/2021|Wanprestasi|Olly Saleh|Wahyu Gerimis Adrian|Persidangan
+275|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|226/Pdt.G/2021/PN Jkt.Tim|22/04/2021|Wanprestasi|Olly Saleh|Bambang Syarif Adrian|Persidangan
+276|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|226/Pdt.G/2021/PN Jkt.Tim|22/04/2021|Wanprestasi|Olly Saleh|Oktoyanti, SA|Persidangan
+277|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|226/Pdt.G/2021/PN Jkt.Tim|22/04/2021|Wanprestasi|Olly Saleh|Urip Santoso|Persidangan
+278|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|213/Pdt.G/2021/PN Jkt.Tim|15/04/2021|Wanprestasi|PT BSG GASES|PT TORSINA REDIKON|Persidangan
+279|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|206/Pdt.G/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|Dewi Agustini|PT Pembangunan Perumahan Infrastruktur [“PP Infrastruktur”]|Persidangan
+280|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|206/Pdt.G/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|Hendra Surbakti|PT Pembangunan Perumahan Infrastruktur [“PP Infrastruktur”]|Persidangan
+281|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|206/Pdt.G/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|I Gusti Ayu Putri Yasmani|PT Pembangunan Perumahan Infrastruktur [“PP Infrastruktur”]|Persidangan
+282|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|206/Pdt.G/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|Iis Sugianto|PT Pembangunan Perumahan Infrastruktur [“PP Infrastruktur”]|Persidangan
+283|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|207/Pdt.G/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|AGUSTINUS D TRINUGROHO K dan DITA AGUSTINA ARGANING YEKTI|SETIONO|Persidangan
+284|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|9/Pdt.G.S/2021/PN Jkt.Tim|14/04/2021|Wanprestasi|AGUS SALIM|Mugeni Als Joni|Pemberitahuan Putusan
+285|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|194/Pdt.G/2021/PN Jkt.Tim|06/04/2021|Wanprestasi|EKO SIWI HARDJONO|PT BANK NEO COMMERCE TBK Capem ASABRI|Persidangan
+286|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|191/Pdt.G/2021/PN Jkt.Tim|05/04/2021|Wanprestasi|KRISNAWATI WIDYA|PT BANK MANDIRI TASPEN KK JAKARTA RAWAMANGUN|Minutasi
+287|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|184/Pdt.G/2021/PN Jkt.Tim|30/03/2021|Wanprestasi|Michel Harjoprawito Mercado|Hari Kurniawan|Persidangan
+288|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|8/Pdt.G.S/2021/PN Jkt.Tim|22/03/2021|Wanprestasi|H Murtiman|Ahmad Mushlih,|Minutasi
+289|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|160/Pdt.G/2021/PN Jkt.Tim|18/03/2021|Wanprestasi|PT BSG GASES|PT PIMSF PULOGADUNG|Persidangan
+290|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|155/Pdt.G/2021/PN Jkt.Tim|17/03/2021|Wanprestasi|GRANDA BEATRICE dan VEGA CHRISTIAN SOPACUA|PT CITRA ABADI MANDIRI|Persidangan
+291|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|143/Pdt.G/2021/PN Jkt.Tim|15/03/2021|Wanprestasi|ANSELMUS MALLOFIKS|Sdr MARIO SUDARYANTO|Persidangan
+292|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|147/Pdt.G/2021/PN Jkt.Tim|15/03/2021|Wanprestasi|LILIS ENDASARI|PT BANK MANDIRI TASPEN KK Jakarta rawamangun|Minutasi
+293|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|148/Pdt.G/2021/PN Jkt.Tim|15/03/2021|Wanprestasi|RIKA WAHYUNI|LELY NUR APRILYA|Persidangan
+294|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|6/Pdt.G.S/2021/PN Jkt.Tim|09/03/2021|Wanprestasi|PT Bank Rakyat Indonesia (Persero) Tbk, Kantor Cabang, Kalimalang|Meisendy Tri Santoso|Minutasi
+295|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|6/Pdt.G.S/2021/PN Jkt.Tim|09/03/2021|Wanprestasi|PT Bank Rakyat Indonesia (Persero) Tbk, Kantor Cabang, Kalimalang|Yosi Rohayanti|Minutasi
+296|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G.S/2021/PN Jkt.Tim|09/03/2021|Wanprestasi|PT Bank Rakyat Indonesia (Persero) Tbk Kantor Cabang Kalimalang|Sandhi Oktiyadi|Minutasi
+297|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G.S/2021/PN Jkt.Tim|09/03/2021|Wanprestasi|PT Bank Rakyat Indonesia (Persero) Tbk Kantor Cabang Kalimalang|Siti Zubaedah|Minutasi
+298|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|137/Pdt.G/2021/PN Jkt.Tim|05/03/2021|Wanprestasi|MUHAMAD YUSRAN LESSY|TONI KRISTALIA|Persidangan
+299|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|SIM ANTONY|Persidangan
+300|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|HARJANTO WIDJAJA|Persidangan
+301|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|JONG WEI RUSLI|Persidangan
+302|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|PT ENERGI POWERINDO JAYA|Persidangan
+303|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|PT GRAHA MANDALA PERSADA|Persidangan
+304|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|UMAR|Persidangan
+305|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|DARMADI|Persidangan
+306|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|HUSIN KOHARUDDIN|Persidangan
+307|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|TJHIA PING TJU|Persidangan
+308|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2021/PN Jkt.Tim|04/03/2021|Wanprestasi|PT WAHANA AGUNG INDONESIA|SUWANDI|Persidangan
+309|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|131/Pdt.G/2021/PN Jkt.Tim|03/03/2021|Wanprestasi|Sri Rahayu|Sayekti Mawardi|Persidangan
+310|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|131/Pdt.G/2021/PN Jkt.Tim|03/03/2021|Wanprestasi|Ibu Arie Rizka, SH|Sayekti Mawardi|Persidangan
+311|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|124/Pdt.G/2021/PN Jkt.Tim|02/03/2021|Wanprestasi|Sutarti|Sudjilah|Persidangan
+312|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|125/Pdt.G/2021/PN Jkt.Tim|02/03/2021|Wanprestasi|Rumenda Simanulang|RENI ARTA ULINA|Persidangan
+313|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|125/Pdt.G/2021/PN Jkt.Tim|02/03/2021|Wanprestasi|OKTAFPIAN MULIA|RENI ARTA ULINA|Persidangan
+314|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|113/Pdt.G/2021/PN Jkt.Tim|24/02/2021|Wanprestasi|IRA PUSPA KENCANA, SP selaku Direktur CV COSTUS GARDEN INDONESIA|PT Pembangunan Perumahan|Minutasi
+315|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|106/Pdt.G/2021/PN Jkt.Tim|22/02/2021|Wanprestasi|STEFANI TANNUR|CHRISTOVANI CESAR|Persidangan
+316|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|88/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|ALPHATRON MARINE SYSTEMS PTELTD|PT BLUE WAVE COMMUNICATION|Minutasi
+317|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|88/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|ALPHATRON MARINE SYSTEMS PTELTD|RINALDI SUTAN SATI, Direktur Utama PT BLUE WAVE COMMUNICATION|Minutasi
+318|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|88/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|ALPHATRON MARINE SYSTEMS PTELTD|N RETNO WURI, Komisaris PT BLUE WAVE COMMUNICATION|Minutasi
+319|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|91/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|ASNAWATI|PT BANK MANDIRI TASPEN KK Jakarta rawamangun|Minutasi
+320|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|92/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|Lembaga Pengelola Dana Bergulir Koperasi dan Usaha Mikro, Kecil dan Menengah (LPDB-KUMKM)|Perusahaan Dagang (PD) Yorya|Minutasi
+321|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|92/Pdt.G/2021/PN Jkt.Tim|16/02/2021|Wanprestasi|Lembaga Pengelola Dana Bergulir Koperasi dan Usaha Mikro, Kecil dan Menengah (LPDB-KUMKM)|Drg LICHE LIDIAWATI|Minutasi
+322|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|85/Pdt.G/2021/PN Jkt.Tim|15/02/2021|Wanprestasi|Pt karya prima suplindo|Pt shaftindo energi|Minutasi
+323|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|83/Pdt.G/2021/PN Jkt.Tim|11/02/2021|Wanprestasi|AWALUDIN|PT BANK BNI KCU RAWAMANGUN|Persidangan
+324|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|84/Pdt.G/2021/PN Jkt.Tim|11/02/2021|Wanprestasi|PT Urban Jakarta Propertindo, Tbk|PT Wijaya Karya Realty|Minutasi
+325|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G.S/2021/PN Jkt.Tim|10/02/2021|Wanprestasi|JUFRI HUTAGALUNG|Richard Bernard|Minutasi
+326|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G.S/2021/PN Jkt.Tim|10/02/2021|Wanprestasi|JUFRI HUTAGALUNG|Ida Harlita|Minutasi
+327|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|76/Pdt.G/2021/PN Jkt.Tim|09/02/2021|Wanprestasi|Tanoto Tan|PT Wijaya Karya Bangunan Gedung Tbk|Minutasi
+328|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|76/Pdt.G/2021/PN Jkt.Tim|09/02/2021|Wanprestasi|Tanoto Tan|Rahardian (Manajer Proyek) Wijaya Karya Bangun Gedung|Minutasi
+329|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|70/Pdt.G/2021/PN Jkt.Tim|08/02/2021|Wanprestasi|PT Djakarta Lloyd (Persero)|Nuke Widiastuti|Persidangan
+330|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|4/Pdt.G.S/2021/PN Jkt.Tim|05/02/2021|Wanprestasi|PT PERMATA CEMERLANG ABADI|EBIN SOPIYANTO|Minutasi
+331|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|ELVITA|Minutasi
+332|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|JUS ISMAIL WALONI|Minutasi
+333|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|Ir Haji SUSETIADI, MM|Minutasi
+334|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|SAIFUL ZUHRI|Minutasi
+335|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|Ir YOSEFIN CHRISTINA C KASBIE ahli waris dari Almarhum LUKAS MURDIHARDJO|Minutasi
+336|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|BAGUS NUR RENDRA, ST, MM|Minutasi
+337|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|J RINI T HADIPRODJO|Minutasi
+338|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|PT HERNITA JAYA|Minutasi
+339|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|NURMALA LUMBAN BATU|Minutasi
+340|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|RUFAIDAH ALWIE|Minutasi
+341|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|IMRAN TAUFIK|Minutasi
+342|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|SUKIRMAN|Minutasi
+343|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|DELMAIZAR|Minutasi
+344|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|KHOSTAROSA ANDIKA JAYA|Minutasi
+345|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|RAMAWATY|PT ISTPRO INTI NUSA|Minutasi
+346|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|54/Pdt.G/2021/PN Jkt.Tim|01/02/2021|Wanprestasi|HARUN SAEPULLOH|PT BANK BNI KCU RAWAMANGUN|Persidangan
+347|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G.S/2021/PN Jkt.Tim|27/01/2021|Wanprestasi|KIKI DESI SUSANTI|Zuniardy|Minutasi
+348|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|36/Pdt.G/2021/PN Jkt.Tim|26/01/2021|Wanprestasi|WITDONO|Daniel Doloksaribu|Minutasi
+349|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|36/Pdt.G/2021/PN Jkt.Tim|26/01/2021|Wanprestasi|WITDONO|ASTIATI|Minutasi
+350|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|37/Pdt.G/2021/PN Jkt.Tim|26/01/2021|Wanprestasi|Tn BOY SUKARLI|PT PEMBANGUNAN PERUMAHAN (Persero) Tbk|Pemberitahuan Putusan
+351|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|42/Pdt.G/2021/PN Jkt.Tim|26/01/2021|Wanprestasi|IWAN SETIAWAN TARMAT|PT INDO STAR AVIATION|Persidangan
+352|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|43/Pdt.G/2021/PN Jkt.Tim|26/01/2021|Wanprestasi|CV BINTANG KREASI MANDIRI|PT DUTA MEGAH MATRA KERAMIK|Persidangan
+353|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G/2021/PN Jkt.Tim|21/01/2021|Wanprestasi|Lily Kartika Alit|Doktor Manalu|Permohonan Banding
+354|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G/2021/PN Jkt.Tim|21/01/2021|Wanprestasi|Lily Kartika Alit|Edy Suparyono, SH, Mkn|Permohonan Banding
+355|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|2/Pdt.G.S/2021/PN Jkt.Tim|20/01/2021|Wanprestasi|PT MULTI ANUGERAH PERKASA|PERHIMPUNAN PEMILIK DAN PENGHUNI SATUAN RUMAH SUSUN TAMAN PASADENIA APARTEMEN|Minutasi
+356|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|Rohle binti Moh Idris|Minutasi
+357|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|Rosinah binti Moh Idris|Minutasi
+358|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|Muhammad Yani bin Moh Idris|Minutasi
+359|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|Rogayah binti Moh Idris|Minutasi
+360|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|Muhammad Nurfatah bin Moh Idris|Minutasi
+361|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G/2021/PN Jkt.Tim|19/01/2021|Wanprestasi|Drs YAN PIETER P SH|NUR AINI|Minutasi
+362|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|24/Pdt.G/2021/PN Jkt.Tim|18/01/2021|Wanprestasi|Hatmadita Ramuny|PT Prosys Bangun Persada|Persidangan
+363|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|26/Pdt.G/2021/PN Jkt.Tim|18/01/2021|Wanprestasi|PT NAGA CORIGO KENCANA|PT KARGOLINK INTRADA INTERNASIONAL|Persidangan
+364|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|22/Pdt.G/2021/PN Jkt.Tim|14/01/2021|Wanprestasi|Paulina Maria Damiati|Mardani|Minutasi
+365|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|20/Pdt.G/2021/PN Jkt.Tim|13/01/2021|Wanprestasi|Jufri Hutagalung|Richard Bernard|Minutasi
+366|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|20/Pdt.G/2021/PN Jkt.Tim|13/01/2021|Wanprestasi|Jufri Hutagalung|Ida Harlita|Minutasi
+367|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|11/Pdt.G/2021/PN Jkt.Tim|11/01/2021|Wanprestasi|Tn BOY SUKARLI|PT PEMBANGUNAN PERUMAHAN PERSERO Tbk|Persidangan
+368|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|1/Pdt.G.S/2021/PN Jkt.Tim|11/01/2021|Wanprestasi|SUYANTO|Direktur Utama PT WIJAYA KARYA BANGUNAN GEDUNG, Tbk|Minutasi
+369|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|1/Pdt.G.S/2021/PN Jkt.Tim|11/01/2021|Wanprestasi|SUYANTO|Menteri Badan Usaha Milik Negara BUMN|Minutasi
+370|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|8/Pdt.G/2021/PN Jkt.Tim|08/01/2021|Wanprestasi|KIKI DESI SUSANTI|Zuniardy|Pemberitahuan Putusan
+371|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G/2021/PN Jkt.Tim|06/01/2021|Wanprestasi|Disamarkan|Disamarkan|Persidangan
+372|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|628/Pdt.G/2020/PN Jkt.Tim|28/12/2020|Wanprestasi|Salim|Nyonya EMILIA MARUTO|Minutasi
+373|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|628/Pdt.G/2020/PN Jkt.Tim|28/12/2020|Wanprestasi|Salim|Rudy maruto|Minutasi
+374|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|19/Pdt.G.S/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|PT Tri Megah Sejahtera Indonesia|Arief Rakhman|Minutasi
+375|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|RONI DARMAWAN GANDI|Drs Indro Adi Putranto|Minutasi
+376|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|RONI DARMAWAN GANDI|Tonny Ariyanto,|Minutasi
+377|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|614/Pdt.G/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|ANJA RUNTUWENE|KONGREGASI SUSTER SUSTER CINTA KASIH SANTO CAROLUS BORROMEUS|Minutasi
+378|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|614/Pdt.G/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|ANJA RUNTUWENE|SUSTER JUSTINA WIWIEK ISMAWATI|Minutasi
+379|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|614/Pdt.G/2020/PN Jkt.Tim|17/12/2020|Wanprestasi|ANJA RUNTUWENE|SUSTER MARIA MAGDALENA TRI WIDARTI|Minutasi
+380|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|604/Pdt.G/2020/PN Jkt.Tim|15/12/2020|Wanprestasi|PT Indo Unggul Pracetak Indonesia|PT Tatamulia Nusantara Indah|Pengiriman Berkas Banding
+381|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|600/Pdt.G/2020/PN Jkt.Tim|11/12/2020|Wanprestasi|PT SUZUKI INDOMOBIL SALES|PT SHABIRA SEKAR ARTA JAYA|Minutasi
+382|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|590/Pdt.G/2020/PN Jkt.Tim|07/12/2020|Wanprestasi|Ibu Sri Rahayu|Ibu SAYEKTI MAWARDI|Minutasi
+383|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|582/Pdt.G/2020/PN Jkt.Tim|04/12/2020|Wanprestasi|TITIM LATIFAH|PT BINA KARYA AGUNG PROPERTINDO|Persidangan
+384|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|571/Pdt.G/2020/PN Jkt.Tim|01/12/2020|Wanprestasi|ROFIANA|TNPATEL RAHUL RAJNIKANT|Minutasi
+385|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|567/Pdt.G/2020/PN Jkt.Tim|27/11/2020|Wanprestasi|ENDANG PRIYUSTINI|IR AUGUSTINUS INDRIA BUSANA|Putusan
+386|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|567/Pdt.G/2020/PN Jkt.Tim|27/11/2020|Wanprestasi|Y SENOTO PINANDITO|IR AUGUSTINUS INDRIA BUSANA|Putusan
+387|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|567/Pdt.G/2020/PN Jkt.Tim|27/11/2020|Wanprestasi|YOGA MAKUTARADITYA|IR AUGUSTINUS INDRIA BUSANA|Putusan
+388|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|567/Pdt.G/2020/PN Jkt.Tim|27/11/2020|Wanprestasi|CATHERINE NEYSA BELINDA MAHARANI|IR AUGUSTINUS INDRIA BUSANA|Putusan
+389|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|551/Pdt.G/2020/PN Jkt.Tim|24/11/2020|Wanprestasi|Drs RUDY SINAGA,MBA,|Ny HEVI NOVIANTI, SE|Persidangan
+390|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|553/Pdt.G/2020/PN Jkt.Tim|24/11/2020|Wanprestasi|KOPERASI KAFILA THOYIBA SYARIAH|PT BANK MANDIRI Persero Tbk|Persidangan
+391|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|553/Pdt.G/2020/PN Jkt.Tim|24/11/2020|Wanprestasi|KOPERASI KAFILA THOYIBA SYARIAH|PT BANK MANDIRI Persero Tbk Bussiness Banking Floor Jakarta Pasar Rebo|Persidangan
+392|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|553/Pdt.G/2020/PN Jkt.Tim|24/11/2020|Wanprestasi|KOPERASI KAFILA THOYIBA SYARIAH|BAMBANG KUSWIJAYANTO|Persidangan
+393|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|548/Pdt.G/2020/PN Jkt.Tim|20/11/2020|Wanprestasi|A Muniem Junaid Bauzier|DR Sarma Damay Riana|Persidangan
+394|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|548/Pdt.G/2020/PN Jkt.Tim|20/11/2020|Wanprestasi|A Muniem Junaid Bauzier|Tonoy Estomihi|Persidangan
+395|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|548/Pdt.G/2020/PN Jkt.Tim|20/11/2020|Wanprestasi|A Muniem Junaid Bauzier|Anggi Okta Golden|Persidangan
+396|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|548/Pdt.G/2020/PN Jkt.Tim|20/11/2020|Wanprestasi|A Muniem Junaid Bauzier|Irine Miciko Erika|Persidangan
+397|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|18/Pdt.G.S/2020/PN Jkt.Tim|20/11/2020|Wanprestasi|PT BATAVIA PROSPERINDO FINANCE TBK|CV PORI MEDIA|Minutasi
+398|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|512/Pdt.G/2020/PN Jkt.Tim|02/11/2020|Wanprestasi|EMYLIA XANDRIA TJAHYADIKARTA|PT WIJAYA KARYA PERSERO, TBK|Permohonan Banding
+399|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|515/Pdt.G/2020/PN Jkt.Tim|02/11/2020|Wanprestasi|IR HAJRULHASWAD|PT BERKAHILAH ENERGI INDONESIA|Minutasi
+400|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|506/Pdt.G/2020/PN Jkt.Tim|22/10/2020|Wanprestasi|PT KIANIS PRATAMA|PT DUTAMEGAH KERAMIK|Minutasi
+401|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|492/Pdt.G/2020/PN Jkt.Tim|16/10/2020|Wanprestasi|PT KARYA PAPUA|PT Pembangunan Perumahan PerseroTbk|Minutasi
+402|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|485/Pdt.G/2020/PN Jkt.Tim|14/10/2020|Wanprestasi|RACHMAT SETIAWAN bin H RAGIL GIONO|TITIK SUGIYANTI, SE BINTI H RAGIL GIONO|Persidangan
+403|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|482/Pdt.G/2020/PN Jkt.Tim|13/10/2020|Wanprestasi|NOFRIWAN|RISKY AMELIA|Persidangan
+404|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|482/Pdt.G/2020/PN Jkt.Tim|13/10/2020|Wanprestasi|NOFRIWAN|AJI AHMAD|Persidangan
+405|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|482/Pdt.G/2020/PN Jkt.Tim|13/10/2020|Wanprestasi|NOFRIWAN|NURYADI|Persidangan
+406|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|468/Pdt.G/2020/PN Jkt.Tim|05/10/2020|Wanprestasi|FERDINAND DJEKI DUMAIS|BACHRUL ULUM|Minutasi
+407|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|468/Pdt.G/2020/PN Jkt.Tim|05/10/2020|Wanprestasi|FERDINAND DJEKI DUMAIS|ADITYA SETIAWAN|Minutasi
+408|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|468/Pdt.G/2020/PN Jkt.Tim|05/10/2020|Wanprestasi|FERDINAND DJEKI DUMAIS|BUDI LESTARI|Minutasi
+409|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|471/Pdt.G/2020/PN Jkt.Tim|05/10/2020|Wanprestasi|WALED ALI OMAR ALMERI|ADIL|Persidangan
+410|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|465/Pdt.G/2020/PN Jkt.Tim|02/10/2020|Wanprestasi|MOH FIRDAUS, SH|Drs R M NAPITUPULU, SH|Minutasi
+411|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|450/Pdt.G/2020/PN Jkt.Tim|29/09/2020|Wanprestasi|ADRIANUS PUSPAKA WIDHARTA|DARMAWAN|Minutasi
+412|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|450/Pdt.G/2020/PN Jkt.Tim|29/09/2020|Wanprestasi|ADRIANUS PUSPAKA WIDHARTA|PT NAVARA LOGISTIK INDO|Minutasi
+413|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|450/Pdt.G/2020/PN Jkt.Tim|29/09/2020|Wanprestasi|ADRIANUS PUSPAKA WIDHARTA|PT MANDIRI UTAMA TEKNIK INDONESIA|Minutasi
+414|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|16/Pdt.G.S/2020/PN Jkt.Tim|28/09/2020|Wanprestasi|PT U FINANCE INDONESIA|BAHTIAR MARPAUNG|Pendaftaran Keberatan
+415|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|440/Pdt.G/2020/PN Jkt.Tim|28/09/2020|Wanprestasi|PT PUTRA KAWASEN|PT EYSSA JANTRA MANDIRI|Pengiriman Berkas Banding
+416|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|444/Pdt.G/2020/PN Jkt.Tim|28/09/2020|Wanprestasi|EL RITA|AKBAR NURULLOH|Pengiriman Berkas Banding
+417|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|438/Pdt.G/2020/PN Jkt.Tim|22/09/2020|Wanprestasi|Dandy Setiadi|I Kadek Ekhpan Santika|Persidangan
+418|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|438/Pdt.G/2020/PN Jkt.Tim|22/09/2020|Wanprestasi|Dandy Setiadi|PT Bank BNI Syariah, Kantor Cabang Jakarta Timur|Persidangan
+419|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|438/Pdt.G/2020/PN Jkt.Tim|22/09/2020|Wanprestasi|Dandy Setiadi|Kantor Pelayanan Kekayaan Negara dan Lelang Bogor|Persidangan
+420|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|431/Pdt.G/2020/PN Jkt.Tim|18/09/2020|Wanprestasi|PT AFDHOL QURUN UTAMA|PT MITRA KARYA SAGARA|Minutasi
+421|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|431/Pdt.G/2020/PN Jkt.Tim|18/09/2020|Wanprestasi|PT AFDHOL QURUN UTAMA|TEDI ADRI MUTTAQI|Minutasi
+422|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|421/Pdt.G/2020/PN Jkt.Tim|16/09/2020|Wanprestasi|HARY PRIANTO|JUFLI WONGSO|Minutasi
+423|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|421/Pdt.G/2020/PN Jkt.Tim|16/09/2020|Wanprestasi|HARY PRIANTO|PT OTOMAS MULTI FINANCE|Minutasi
+424|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|421/Pdt.G/2020/PN Jkt.Tim|16/09/2020|Wanprestasi|HARY PRIANTO|KANTOR PERTANAHAN KOTAMADYA JAKARTA TIMUR|Minutasi
+425|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|411/Pdt.G/2020/PN Jkt.Tim|14/09/2020|Wanprestasi|PT ASURANSI UMUM BUMIPUTERA MUDA|IR NURUDIN|Pengiriman Berkas Banding
+426|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2020/PN Jkt.Tim|04/09/2020|Wanprestasi|BAMBANG SUYONO, SH|H GAZALI|Minutasi
+427|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|394/Pdt.G/2020/PN Jkt.Tim|04/09/2020|Wanprestasi|MISDIONO|H GAZALI|Minutasi
+428|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|395/Pdt.G/2020/PN Jkt.Tim|04/09/2020|Wanprestasi|IDA RIAWATI|AGUH CAHYA, SE|Minutasi
+429|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|382/Pdt.G/2020/PN Jkt.Tim|02/09/2020|Wanprestasi|BAMBANG HARYANTO|THOPAZ NUHGRAHA SYAMSUL|Minutasi
+430|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|378/Pdt.G/2020/PN Jkt.Tim|01/09/2020|Wanprestasi|PT BANK TABUNGAN NEGARA PERSERO TBK Cabang Jakarta Timur|MICO SUSANTO|Minutasi
+431|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|379/Pdt.G/2020/PN Jkt.Tim|01/09/2020|Wanprestasi|PT BANK TABUNGAN NEGARA PERSERO Tbk KANTOR CABANG JAKARTA TIMUR|SATIADI JULIARSO|Pemberitahuan Putusan
+432|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|381/Pdt.G/2020/PN Jkt.Tim|01/09/2020|Wanprestasi|H ADANG BUNYAMIN|PT DETTA MARINA|Penerimaan Memori Banding
+433|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|381/Pdt.G/2020/PN Jkt.Tim|01/09/2020|Wanprestasi|H ADANG BUNYAMIN|KIM JOHANES MULIA|Penerimaan Memori Banding
+434|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|381/Pdt.G/2020/PN Jkt.Tim|01/09/2020|Wanprestasi|H ADANG BUNYAMIN|TAUFIK|Penerimaan Memori Banding
+435|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|372/Pdt.G/2020/PN Jkt.Tim|31/08/2020|Wanprestasi|Ir MUSLIMIN SIREGAR, MM|NIMROT LUMBAN T|Minutasi
+436|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|372/Pdt.G/2020/PN Jkt.Tim|31/08/2020|Wanprestasi|Ir MUSLIMIN SIREGAR, MM|Ir J THOMAS RATULANGI|Minutasi
+437|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|373/Pdt.G/2020/PN Jkt.Tim|31/08/2020|Wanprestasi|YATI KASWAN SUJADI|PT JES|Pemeriksaan Berkas
+438|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|373/Pdt.G/2020/PN Jkt.Tim|31/08/2020|Wanprestasi|YATI KASWAN SUJADI|Ir AHMAD ZAKI IPM|Pemeriksaan Berkas
+439|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|373/Pdt.G/2020/PN Jkt.Tim|31/08/2020|Wanprestasi|YATI KASWAN SUJADI|SRI ANJASWATI|Pemeriksaan Berkas
+440|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|359/Pdt.G/2020/PN Jkt.Tim|26/08/2020|Wanprestasi|DRS S SIGIT PUJO WAHONO|NI GUSTI AYU ANDAYANI|Pengiriman Berkas Banding
+441|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|351/Pdt.G/2020/PN Jkt.Tim|24/08/2020|Wanprestasi|PT COSMAX INDONESIA|PT SHANNEN GLOBAL INDONESIA|Permohonan Banding
+442|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|353/Pdt.G/2020/PN Jkt.Tim|24/08/2020|Wanprestasi|APUN LUKMANULHAKIM|HELMUT RIVAMAN|Minutasi
+443|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|354/Pdt.G/2020/PN Jkt.Tim|24/08/2020|Wanprestasi|PTWAH TECH INDONESIA|JONS HENRI MARTUA|Minutasi
+444|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|354/Pdt.G/2020/PN Jkt.Tim|24/08/2020|Wanprestasi|PTWAH TECH INDONESIA|PTRADEVAN ANUGERAH KARYA|Minutasi
+445|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|349/Pdt.G/2020/PN Jkt.Tim|19/08/2020|Wanprestasi|M SURURI, SH|dr AAD HARHARAH, MHA FS|Persidangan
+446|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|349/Pdt.G/2020/PN Jkt.Tim|19/08/2020|Wanprestasi|M SURURI, SH|EDDY RACHMAN|Persidangan
+447|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|349/Pdt.G/2020/PN Jkt.Tim|19/08/2020|Wanprestasi|M SURURI, SH|MUSTOFA, SE|Persidangan
+448|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|349/Pdt.G/2020/PN Jkt.Tim|19/08/2020|Wanprestasi|M SURURI, SH|DENI INDRAWAN|Persidangan
+449|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|345/Pdt.G/2020/PN Jkt.Tim|18/08/2020|Wanprestasi|ALTEN JOHN|PT PRAKARSA ENVIRO INDONESIA|Minutasi
+450|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|344/Pdt.G/2020/PN Jkt.Tim|14/08/2020|Wanprestasi|H SAMSUDIN ABDULLAH, SH|H LUTFIE, SE|Minutasi
+451|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRZA AFILIA FARIANZA|LOLITA ADIYANI|Minutasi
+452|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRZA AFILIA FARIANZA|YETY|Minutasi
+453|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRZA AFILIA FARIANZA|YULIANAH|Minutasi
+454|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRZA AFILIA FARIANZA|HUSIN KAMAL|Minutasi
+455|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRZA AFILIA FARIANZA|JIDAH|Minutasi
+456|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADHI FRADILA AMIDIAZ|LOLITA ADIYANI|Minutasi
+457|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADHI FRADILA AMIDIAZ|YETY|Minutasi
+458|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADHI FRADILA AMIDIAZ|YULIANAH|Minutasi
+459|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADHI FRADILA AMIDIAZ|HUSIN KAMAL|Minutasi
+460|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADHI FRADILA AMIDIAZ|JIDAH|Minutasi
+461|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADITIA FADIAZ|LOLITA ADIYANI|Minutasi
+462|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADITIA FADIAZ|YETY|Minutasi
+463|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADITIA FADIAZ|YULIANAH|Minutasi
+464|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADITIA FADIAZ|HUSIN KAMAL|Minutasi
+465|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ADITIA FADIAZ|JIDAH|Minutasi
+466|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|HERA IRFIANZA|LOLITA ADIYANI|Minutasi
+467|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|HERA IRFIANZA|YETY|Minutasi
+468|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|HERA IRFIANZA|YULIANAH|Minutasi
+469|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|HERA IRFIANZA|HUSIN KAMAL|Minutasi
+470|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|HERA IRFIANZA|JIDAH|Minutasi
+471|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|AYU ANDRIZA|LOLITA ADIYANI|Minutasi
+472|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|AYU ANDRIZA|YETY|Minutasi
+473|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|AYU ANDRIZA|YULIANAH|Minutasi
+474|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|AYU ANDRIZA|HUSIN KAMAL|Minutasi
+475|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|AYU ANDRIZA|JIDAH|Minutasi
+476|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRFANDIAZ|LOLITA ADIYANI|Minutasi
+477|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRFANDIAZ|YETY|Minutasi
+478|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRFANDIAZ|YULIANAH|Minutasi
+479|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRFANDIAZ|HUSIN KAMAL|Minutasi
+480|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|IRFANDIAZ|JIDAH|Minutasi
+481|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ERNA SUHAENA|LOLITA ADIYANI|Minutasi
+482|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ERNA SUHAENA|YETY|Minutasi
+483|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ERNA SUHAENA|YULIANAH|Minutasi
+484|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ERNA SUHAENA|HUSIN KAMAL|Minutasi
+485|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2020/PN Jkt.Tim|12/08/2020|Wanprestasi|ERNA SUHAENA|JIDAH|Minutasi
+486|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|319/Pdt.G/2020/PN Jkt.Tim|05/08/2020|Wanprestasi|ASTUTI ENDAH NURSANTI|AGUNG PAMUNGKAS|Minutasi
+487|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|320/Pdt.G/2020/PN Jkt.Tim|05/08/2020|Wanprestasi|YEDI SUPARMAN|IR ROULY TRIKORANA N|Minutasi
+488|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|320/Pdt.G/2020/PN Jkt.Tim|05/08/2020|Wanprestasi|YEDI SUPARMAN|ANTONIUS HANDOYO|Minutasi
+489|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|320/Pdt.G/2020/PN Jkt.Tim|05/08/2020|Wanprestasi|YEDI SUPARMAN|KEPALA KANTOR PERTANAHAN KOTAMADYA JAKARTA TIMUR|Minutasi
+490|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|14/Pdt.G.S/2020/PN Jkt.Tim|04/08/2020|Wanprestasi|IR HAJRULHASWAD|PT BERKAHILAH ENERGI INDONESIA|Minutasi
+491|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2020/PN Jkt.Tim|03/08/2020|Wanprestasi|RAYUNI AR SALEH|HASANUDDIN|Minutasi
+492|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2020/PN Jkt.Tim|03/08/2020|Wanprestasi|RAYUNI AR SALEH|HERI GUSTI, SH|Minutasi
+493|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2020/PN Jkt.Tim|03/08/2020|Wanprestasi|RAYUNI AR SALEH|RICKY BAHARUDDIN|Minutasi
+494|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2020/PN Jkt.Tim|03/08/2020|Wanprestasi|RAYUNI AR SALEH|ANISA DJUITA SUPRIYANTO|Minutasi
+495|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2020/PN Jkt.Tim|03/08/2020|Wanprestasi|RAYUNI AR SALEH|BANK TABUNGAN NEGARA CABANG KOTA BOGOR|Minutasi
+496|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|13/Pdt.G.S/2020/PN Jkt.Tim|29/07/2020|Wanprestasi|PT APLIKASI SOLUSI FINANSIAL|SAEPULLOH|Minutasi
+497|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|302/Pdt.G/2020/PN Jkt.Tim|28/07/2020|Wanprestasi|LINCE HUTAGAOL|DAHLAN ZAINUN|Minutasi
+498|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|296/Pdt.G/2020/PN Jkt.Tim|27/07/2020|Wanprestasi|ANANG BASUNI, SH,MH, BIN HAJI YUSRAN ARSYAD|YULIA RIZA, BINTI SABRI ZAKARIA|Minutasi
+499|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|296/Pdt.G/2020/PN Jkt.Tim|27/07/2020|Wanprestasi|ANANG BASUNI, SH,MH, BIN HAJI YUSRAN ARSYAD|MERI SABRI BINTI SABRI ZAKARIA|Minutasi
+500|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|296/Pdt.G/2020/PN Jkt.Tim|27/07/2020|Wanprestasi|ANANG BASUNI, SH,MH, BIN HAJI YUSRAN ARSYAD|RIO SABRI, BIN SABRI ZAKARIA|Minutasi
+501|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|293/Pdt.G/2020/PN Jkt.Tim|24/07/2020|Wanprestasi|PT SUMBER BATU|PT ALSTELINDO AGUNG ABADI|Minutasi
+502|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|12/Pdt.G.S/2020/PN Jkt.Tim|22/07/2020|Wanprestasi|PT BANK RAKYAT INDONESIA TBK KANTOR CABANG OTISTA,|NOVIA NINGSIH|Minutasi
+503|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|12/Pdt.G.S/2020/PN Jkt.Tim|22/07/2020|Wanprestasi|PT BANK RAKYAT INDONESIA TBK KANTOR CABANG OTISTA,|SOLEH|Minutasi
+504|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|285/Pdt.G/2020/PN Jkt.Tim|21/07/2020|Wanprestasi|F TASWIN|KETUA UMUM MUHAMMAD SYUKUR DAN DEWAN PIMPINAN PUSAT|Permohonan Eksekusi
+505|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|276/Pdt.G/2020/PN Jkt.Tim|16/07/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|IMAM SUHADI|Minutasi
+506|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|276/Pdt.G/2020/PN Jkt.Tim|16/07/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|YASMINA AMRAN|Minutasi
+507|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|280/Pdt.G/2020/PN Jkt.Tim|16/07/2020|Wanprestasi|PT BSG GASES|PT SAETI CONCRETINDO WAHANA|Minutasi
+508|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|281/Pdt.G/2020/PN Jkt.Tim|16/07/2020|Wanprestasi|PT CIPTA SINERGI ASIA|PT ASTORIA PERKASA NUSANTARA|Minutasi
+509|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|11/Pdt.G.S/2020/PN Jkt.Tim|15/07/2020|Wanprestasi|PT ALDERON PRATAMA INDONESIA|PT HARAPAN MULYA KARYA|Minutasi
+510|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|268/Pdt.G/2020/PN Jkt.Tim|14/07/2020|Wanprestasi|S BHAROTO, SH|Drs H ANDI EFFENDY NUR, MM|Minutasi
+511|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|259/Pdt.G/2020/PN Jkt.Tim|08/07/2020|Wanprestasi|Andi Gunawan|PT PEMBANGUNAN PERUMAHAN URBAN|Minutasi
+512|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|253/Pdt.G/2020/PN Jkt.Tim|06/07/2020|Wanprestasi|ALI UMAR AMIR AL DJAEDI|ARNOLD HENDRIK HAMONANGAN SILAEN|Persidangan
+513|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|238/Pdt.G/2020/PN Jkt.Tim|26/06/2020|Wanprestasi|RISTELINA|TIUR SIAHAAN|Permohonan Eksekusi
+514|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|238/Pdt.G/2020/PN Jkt.Tim|26/06/2020|Wanprestasi|RISTELINA|PARDAMEAN T|Permohonan Eksekusi
+515|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|238/Pdt.G/2020/PN Jkt.Tim|26/06/2020|Wanprestasi|RISTELINA|KEPALA PASAR CIRACAS|Permohonan Eksekusi
+516|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|232/Pdt.G/2020/PN Jkt.Tim|24/06/2020|Wanprestasi|NY YAP WIE ING|PT ASURANSI JIWA ADISARANA WANAARTHA|Pengiriman Berkas Banding
+517|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|232/Pdt.G/2020/PN Jkt.Tim|24/06/2020|Wanprestasi|IRWAN DHARMANSYAH|PT ASURANSI JIWA ADISARANA WANAARTHA|Pengiriman Berkas Banding
+518|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|232/Pdt.G/2020/PN Jkt.Tim|24/06/2020|Wanprestasi|IVAN KURNIAWAN|PT ASURANSI JIWA ADISARANA WANAARTHA|Pengiriman Berkas Banding
+519|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G.S/2020/PN Jkt.Tim|22/06/2020|Wanprestasi|PT ALAQSHA JISRU DAKWAH|GATOT SRI HARTO|Minutasi
+520|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|9/Pdt.G.S/2020/PN Jkt.Tim|18/06/2020|Wanprestasi|PT ALKIA KARYAGUNA LISTRINDO|PT BERKAHILAH ENERGI INDONESIA|Minutasi
+521|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|220/Pdt.G/2020/PN Jkt.Tim|17/06/2020|Wanprestasi|MUHAMMAD YUNTRI|SUHADI ALIAS DIDI|Minutasi
+522|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|213/Pdt.G/2020/PN Jkt.Tim|12/06/2020|Wanprestasi|PT ARTHAASIA FINANCE|PT MEDIKAR SARANA UTAMA|Minutasi
+523|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|8/Pdt.G.S/2020/PN Jkt.Tim|11/06/2020|Wanprestasi|KOPERASI JASA ULIMA SEJAHTERA BERSAMA|Drs MONANG P SIHOMBING|Minutasi
+524|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|210/Pdt.G/2020/PN Jkt.Tim|10/06/2020|Wanprestasi|PT BATAVIA PROSPERINDO FINANCE Tbk|PT DAYAGUNA MOTOR INDONESIA|Putusan
+525|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|205/Pdt.G/2020/PN Jkt.Tim|09/06/2020|Wanprestasi|PT ASURANSI RELIANCE INDONESIA|ROMDANIYAH|Pengiriman Berkas Banding
+526|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|192/Pdt.G/2020/PN Jkt.Tim|02/06/2020|Wanprestasi|Tn SANADI|Tn AGUS KARYANTO|Pengiriman Berkas Banding
+527|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|189/Pdt.G/2020/PN Jkt.Tim|28/05/2020|Wanprestasi|DIDIED PRAMUDITO|YUNIS SOESENO|Minutasi
+528|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|189/Pdt.G/2020/PN Jkt.Tim|28/05/2020|Wanprestasi|DIDIED PRAMUDITO|MARIADY|Minutasi
+529|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|188/Pdt.G/2020/PN Jkt.Tim|27/05/2020|Wanprestasi|MUHAMMAD YAMIN, ST|MAMAN USMAN|Minutasi
+530|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|188/Pdt.G/2020/PN Jkt.Tim|27/05/2020|Wanprestasi|MUHAMMAD YAMIN, ST|PROBO PRAYOGO|Minutasi
+531|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G.S/2020/PN Jkt.Tim|20/05/2020|Wanprestasi|PT ALDERON PRATAMA INDONESIA|PT HARAPAN MULYA KARYA|Minutasi
+532|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|186/Pdt.G/2020/PN Jkt.Tim|20/05/2020|Wanprestasi|IDFAN ABDULLAH|AKBAR NURULLAH|Minutasi
+533|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|183/Pdt.G/2020/PN Jkt.Tim|18/05/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|SOPIANTO|Minutasi
+534|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|183/Pdt.G/2020/PN Jkt.Tim|18/05/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|NOPIANA S PD|Minutasi
+535|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|178/Pdt.G/2020/PN Jkt.Tim|13/05/2020|Wanprestasi|PT MITRA LOGAM PRATAMA|PT SAETI CENTRICON WAHANA|Minutasi
+536|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|Ir BASUKI WIDODO|ROOSTININGSIH,|Pengiriman Berkas Banding
+537|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|Ir BASUKI WIDODO|LEKSMONO HARYO KUNTO|Pengiriman Berkas Banding
+538|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|Ir BASUKI WIDODO|ANDJARADJI ROOSENO PRABOWO|Pengiriman Berkas Banding
+539|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|Ir BASUKI WIDODO|TRIBUWONO ARIO BIMO|Pengiriman Berkas Banding
+540|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|177/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|ZESFI ARISANTI ZAIN|DEWI PRASTIWI|Minutasi
+541|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|177/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|ZESFI ARISANTI ZAIN|SUTAN KALIJUNJUNG NASUTION,SH|Minutasi
+542|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|177/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|EVA RESTA SORMUDI|DEWI PRASTIWI|Minutasi
+543|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|177/Pdt.G/2020/PN Jkt.Tim|12/05/2020|Wanprestasi|EVA RESTA SORMUDI|SUTAN KALIJUNJUNG NASUTION,SH|Minutasi
+544|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|172/Pdt.G/2020/PN Jkt.Tim|08/05/2020|Wanprestasi|PT PANJA CITRA UTAMA|PT EUREKA PRIMA JAKARTA, Tbk|Minutasi
+545|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|173/Pdt.G/2020/PN Jkt.Tim|08/05/2020|Wanprestasi|SRI WIDODO|MENNIX HAMONANGAN|Minutasi
+546|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|173/Pdt.G/2020/PN Jkt.Tim|08/05/2020|Wanprestasi|ANJAS DWI ASMARA|MENNIX HAMONANGAN|Minutasi
+547|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|173/Pdt.G/2020/PN Jkt.Tim|08/05/2020|Wanprestasi|IKDAL ZAENUDIN|MENNIX HAMONANGAN|Minutasi
+548|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|165/Pdt.G/2020/PN Jkt.Tim|20/04/2020|Wanprestasi|PT IDE KOMUNITAS INDONESIA|RICHARD NAPITUPULU|Minutasi
+549|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|158/Pdt.G/2020/PN Jkt.Tim|09/04/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|BETTY SUSILAWATI|Minutasi
+550|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|158/Pdt.G/2020/PN Jkt.Tim|09/04/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|AHMAD FIRDAUS|Minutasi
+551|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|157/Pdt.G/2020/PN Jkt.Tim|07/04/2020|Wanprestasi|PURWANINGSIH KUSUMAWATI|ESTER SINAGA|Persidangan
+552|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|156/Pdt.G/2020/PN Jkt.Tim|02/04/2020|Wanprestasi|PT DEXA ENERGY|PT ESSENCE INDONESIA|Minutasi
+553|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G.S/2020/PN Jkt.Tim|24/03/2020|Wanprestasi|PT BANK RAKYAT INDONESIA Tbk KANTOR CABANG KRAMAT JATI|DELIMA WATI HUTAGALUNG|Minutasi
+554|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|KRISTINI GOZALI|UMROH BTHDJANA|Minutasi
+555|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|KRISTINI GOZALI|NYGONIS|Minutasi
+556|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|KRISTINI GOZALI|IRESRON SITORUS|Minutasi
+557|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|IWAN WIJAYA|UMROH BTHDJANA|Minutasi
+558|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|IWAN WIJAYA|NYGONIS|Minutasi
+559|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|146/Pdt.G/2020/PN Jkt.Tim|19/03/2020|Wanprestasi|IWAN WIJAYA|IRESRON SITORUS|Minutasi
+560|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|140/Pdt.G/2020/PN Jkt.Tim|17/03/2020|Wanprestasi|DANIEL MARTIN PASARIBU,SH,MH|NORMAN COKAMY SILALAHI,SH|Minutasi
+561|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|140/Pdt.G/2020/PN Jkt.Tim|17/03/2020|Wanprestasi|DANIEL MARTIN PASARIBU,SH,MH|MINCE MANURUNG|Minutasi
+562|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|140/Pdt.G/2020/PN Jkt.Tim|17/03/2020|Wanprestasi|DANIEL MARTIN PASARIBU,SH,MH|DUMA RIRIS SILALAHI|Minutasi
+563|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|4/Pdt.G.S/2020/PN Jkt.Tim|16/03/2020|Wanprestasi|PT BANK NEGARA INDONESIA Persero Tbk CABANG JATINEGARA|DENI SUHENDRA|Minutasi
+564|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|133/Pdt.G/2020/PN Jkt.Tim|12/03/2020|Wanprestasi|NASRI|SARAH BINTI KARSOWIKROMO|Minutasi
+565|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|133/Pdt.G/2020/PN Jkt.Tim|12/03/2020|Wanprestasi|NASRI|SUTARJO|Minutasi
+566|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G.S/2020/PN Jkt.Tim|12/03/2020|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG KRAMAT JATI|RODIJJA TAMHERWARIN|Pemberitahuan Putusan
+567|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G.S/2020/PN Jkt.Tim|12/03/2020|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG KRAMAT JATI|ANDI WAHYUDI DON ALI|Pemberitahuan Putusan
+568|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|129/Pdt.G/2020/PN Jkt.Tim|10/03/2020|Wanprestasi|KH BURHANUDIN NUMAN|DEWI HARTI|Minutasi
+569|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|124/Pdt.G/2020/PN Jkt.Tim|09/03/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|DEDI GAGAH PERWIRANTO|Pemberitahuan Putusan
+570|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|124/Pdt.G/2020/PN Jkt.Tim|09/03/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|YUNI ELISABET|Pemberitahuan Putusan
+571|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|115/Pdt.G/2020/PN Jkt.Tim|04/03/2020|Wanprestasi|PT ALKIA KARYAGUNA LISTRINDO|PT BERKAHILAH ENERGI INDONESIA|Minutasi
+572|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|108/Pdt.G/2020/PN Jkt.Tim|28/02/2020|Wanprestasi|EKO NUGROHO,SH,MT|AGOES PRAMONO|Minutasi
+573|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|100/Pdt.G/2020/PN Jkt.Tim|26/02/2020|Wanprestasi|FAJAR KURNIA PUTRA|NENDEN SITI NOERANI|Minutasi
+574|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|82/Pdt.G/2020/PN Jkt.Tim|18/02/2020|Wanprestasi|PATRICIA MEILYN|Ir MRIDHA YULHAN M|Pengiriman Berkas Banding
+575|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|82/Pdt.G/2020/PN Jkt.Tim|18/02/2020|Wanprestasi|PATRICIA MEILYN|YOSEPHA INDIRA MAFINI|Pengiriman Berkas Banding
+576|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|80/Pdt.G/2020/PN Jkt.Tim|17/02/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|MELLIYATI|Minutasi
+577|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|80/Pdt.G/2020/PN Jkt.Tim|17/02/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|RINALDI|Minutasi
+578|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|2/Pdt.G.S/2020/PN Jkt.Tim|13/02/2020|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA|IIS SURYANI|Minutasi
+579|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|69/Pdt.G/2020/PN Jkt.Tim|10/02/2020|Wanprestasi|EMIR SALEH|ELLY WATULINGAS|Persidangan
+580|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|69/Pdt.G/2020/PN Jkt.Tim|10/02/2020|Wanprestasi|EMIR SALEH|MOCHAMMAD ARIEF|Persidangan
+581|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|71/Pdt.G/2020/PN Jkt.Tim|10/02/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|EKA YULIANI S|Minutasi
+582|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|71/Pdt.G/2020/PN Jkt.Tim|10/02/2020|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|SUPRIYONO|Minutasi
+583|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|63/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|FAISAL ZULHELMI|TnPABRISAL,|Minutasi
+584|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|63/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|FAISAL ZULHELMI|Ny CAMELIA|Minutasi
+585|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|PT SKY GLOBAL UTAMA|KEPALA PERHUBUNGAN KODAM JAYA|Minutasi
+586|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|PT SKY GLOBAL UTAMA|PANGLIMA KODAM JAYA|Minutasi
+587|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|66/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|EMY BHUDIYANTI|PT ABADI PUTRA PERDANA|Pengiriman Berkas Banding
+588|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|66/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|EMY BHUDIYANTI|ANDI MARYADI|Pengiriman Berkas Banding
+589|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|66/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|EMY BHUDIYANTI|AQUILA HIMAWAN|Pengiriman Berkas Banding
+590|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|66/Pdt.G/2020/PN Jkt.Tim|07/02/2020|Wanprestasi|EMY BHUDIYANTI|DODI JULIANANTA|Pengiriman Berkas Banding
+591|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|61/Pdt.G/2020/PN Jkt.Tim|05/02/2020|Wanprestasi|PT JCO DONUT and COFFEE|PT BENTENG TEGUH PERKASA|Minutasi
+592|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|1/Pdt.G.S/2020/PN Jkt.Tim|31/01/2020|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG KALIMALANG, UNIT RAWA TERATE|SRI NURHAYATUN|Minutasi
+593|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|50/Pdt.G/2020/PN Jkt.Tim|29/01/2020|Wanprestasi|NUR HAYATI|PT BINTANG ARTISTIKA SENTOSA|Minutasi
+594|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|50/Pdt.G/2020/PN Jkt.Tim|29/01/2020|Wanprestasi|NUR HAYATI|EFRILINA|Minutasi
+595|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|48/Pdt.G/2020/PN Jkt.Tim|28/01/2020|Wanprestasi|PT HARAPAN JAYA LESTARINDO|BILSON MARBUN|Persidangan
+596|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|48/Pdt.G/2020/PN Jkt.Tim|28/01/2020|Wanprestasi|PT HARAPAN JAYA LESTARINDO|TRIYANTO|Persidangan
+597|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|48/Pdt.G/2020/PN Jkt.Tim|28/01/2020|Wanprestasi|PT HARAPAN JAYA LESTARINDO|IRWAN IDRIS|Persidangan
+598|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|48/Pdt.G/2020/PN Jkt.Tim|28/01/2020|Wanprestasi|PT HARAPAN JAYA LESTARINDO|M SONY HARTAMAN, ST|Persidangan
+599|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|43/Pdt.G/2020/PN Jkt.Tim|23/01/2020|Wanprestasi|MOH FIRDAUS, SH|Drs R M NAPITUPULU, SH|Minutasi
+600|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|RA TITIEK MUDJIATI|SUTANTO Alias ASAN|Minutasi
+601|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|RA TITIEK MUDJIATI|MAYASARI|Minutasi
+602|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|SAID THAHAR HUSIN|Pemberitahuan Putusan
+603|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|SAID MUCHTAR ISMAIL|Pemberitahuan Putusan
+604|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|SAID UMAR|Pemberitahuan Putusan
+605|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|ABDULLAH HANAFI|Pemberitahuan Putusan
+606|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|SUKIRMAN|Pemberitahuan Putusan
+607|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|MYUSUF|Pemberitahuan Putusan
+608|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|SYAKUBAT JOHAN|Pemberitahuan Putusan
+609|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|Haji ZULKIFLI JOHAN|Pemberitahuan Putusan
+610|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|JAMIL HASAN|Pemberitahuan Putusan
+611|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|TEUKU AMPON ALI|Pemberitahuan Putusan
+612|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G/2020/PN Jkt.Tim|20/01/2020|Wanprestasi|MOHAMAD HASANNUDIN|ILYAS|Pemberitahuan Putusan
+613|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|21/Pdt.G/2020/PN Jkt.Tim|13/01/2020|Wanprestasi|PT SUTRAKABEL INTIMANDIRI|PT PUTRA KASIH KANAAN|Minutasi
+614|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|9/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|FENDY|ALBERT PARIS PASARIBU|Permohonan Eksekusi
+615|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|9/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|FENDY|DEBORA HUTAPEA|Permohonan Eksekusi
+616|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|M SURURI, SH|dr AAD HARHARAH, MHA FS|Minutasi
+617|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|M SURURI, SH|EDDY RACHMAN|Minutasi
+618|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|M SURURI, SH|MUSTOFA, SE|Minutasi
+619|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G/2020/PN Jkt.Tim|09/01/2020|Wanprestasi|M SURURI, SH|DENI INDRAWAN|Minutasi
+620|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G/2020/PN Jkt.Tim|08/01/2020|Wanprestasi|Ir AGUS RIYANTO P|PT PEMBANGUNAN PERUMAHAN PERSERO TBK, DIVISI GEDUNG|Minutasi
+621|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G/2020/PN Jkt.Tim|06/01/2020|Wanprestasi|IR BAMBANG DJUHARTONO|ASWAR WAHAB|Minutasi
+622|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|47/Pdt.G.S/2019/PN Jkt.Tim|27/12/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT RAWAMANGUN|FEBRI NURHIDAYAT|Minutasi
+623|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|626/Pdt.G/2019/PN Jkt.Tim|23/12/2019|Wanprestasi|APRISTIYAH DEVITA AYU|HERU SUSANTO|Pengiriman Berkas Banding
+624|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|614/Pdt.G/2019/PN Jkt.Tim|19/12/2019|Wanprestasi|PT GLOBAL INDONESIA CORPORINDO|PD PASAR JAYA CQ PD PASAR JAYA AREA SELATAN II QQ PD PASAR JAYA AREA SELATAN I|Minutasi
+625|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|615/Pdt.G/2019/PN Jkt.Tim|19/12/2019|Wanprestasi|PTSASTRO MANUNGGAL|PTHUTAMA KARYA PERSERO, DIVISI GEDUNG|Minutasi
+626|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|612/Pdt.G/2019/PN Jkt.Tim|17/12/2019|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|JULLY SUWANDA|Minutasi
+627|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|612/Pdt.G/2019/PN Jkt.Tim|17/12/2019|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|DAUD WIBAWA|Minutasi
+628|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|WIJAYA KUSNARYANTO|H HILMAN|Minutasi
+629|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|WIJAYA KUSNARYANTO|ANDRY IRAWAN|Minutasi
+630|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|WIJAYA KUSNARYANTO|CHAERUNISSA HILMAN|Minutasi
+631|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|WIJAYA KUSNARYANTO|MUHAMAD RIZKY FAJAR|Minutasi
+632|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|Ir BASUKI WIDODO|H HILMAN|Minutasi
+633|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|Ir BASUKI WIDODO|ANDRY IRAWAN|Minutasi
+634|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|Ir BASUKI WIDODO|CHAERUNISSA HILMAN|Minutasi
+635|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|611/Pdt.G/2019/PN Jkt.Tim|16/12/2019|Wanprestasi|Ir BASUKI WIDODO|MUHAMAD RIZKY FAJAR|Minutasi
+636|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|597/Pdt.G/2019/PN Jkt.Tim|06/12/2019|Wanprestasi|JEVI ANDRADI|PT BASUKI RAHMANTA PUTRA|Minutasi
+637|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|597/Pdt.G/2019/PN Jkt.Tim|06/12/2019|Wanprestasi|JEVI ANDRADI|IPT YASA PATRIA PERKASA|Minutasi
+638|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|45/Pdt.G.S/2019/PN Jkt.Tim|05/12/2019|Wanprestasi|PT BANK BNI Persero TBK|REGGY WINATA|Minutasi
+639|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|46/Pdt.G.S/2019/PN Jkt.Tim|05/12/2019|Wanprestasi|PT BANK BNI Persero TBK|TIA MARINI|Minutasi
+640|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|595/Pdt.G/2019/PN Jkt.Tim|05/12/2019|Wanprestasi|PT HASANA DAMAI PUTRA|Tuan Antony|Pengiriman Berkas Banding
+641|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|595/Pdt.G/2019/PN Jkt.Tim|05/12/2019|Wanprestasi|PT HASANA DAMAI PUTRA|Stefanie Miriam Hidajat|Pengiriman Berkas Banding
+642|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|587/Pdt.G/2019/PN Jkt.Tim|03/12/2019|Wanprestasi|ABDULLAH MOHAMMAD S ALSHERRI|NENG TINI PRIHATINI|Minutasi
+643|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|43/Pdt.G.S/2019/PN Jkt.Tim|02/12/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA KALIMALANG, UNIT KALIMALANG|AMIR MUCHTAR|Minutasi
+644|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|44/Pdt.G.S/2019/PN Jkt.Tim|02/12/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA KALIMALANG, UNIT DUREN SAWIT I|WINATA M ZEN|Minutasi
+645|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|586/Pdt.G/2019/PN Jkt.Tim|02/12/2019|Wanprestasi|SUMEDHA THILINA DE TISSERA bin MAHENDRA DE TISSERA|ANNISYAH GUMAY binti SAJIDIN SANAF|Penerimaan Kontra Memori Kasasi
+646|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|42/Pdt.G.S/2019/PN Jkt.Tim|22/11/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG KRAMAT JATI|HERIYANTO|Minutasi
+647|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|42/Pdt.G.S/2019/PN Jkt.Tim|22/11/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG KRAMAT JATI|CAHYANINGRUM|Minutasi
+648|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|561/Pdt.G/2019/PN Jkt.Tim|15/11/2019|Wanprestasi|Risma Herta Lenny|Mustafa Hanafi|Minutasi
+649|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|41/Pdt.G.S/2019/PN Jkt.Tim|14/11/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA RAWAMANGUN , UNIT CAKUNG|ODING SYAMSUDIN|Minutasi
+650|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|41/Pdt.G.S/2019/PN Jkt.Tim|14/11/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA RAWAMANGUN , UNIT CAKUNG|SITI FATIMAH|Minutasi
+651|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|ELVITA|Minutasi
+652|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|JUS ISMAIL WALONI|Minutasi
+653|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|Ir Haji SUSETIADI, MM|Minutasi
+654|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|SAIFUL ZUHRI|Minutasi
+655|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|LUKAS MURDIHARDJO|Minutasi
+656|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|BAGUS NUR RENDRA, ST, MM|Minutasi
+657|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|J RINI T HADIPRODJO|Minutasi
+658|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|PT HERNITA JAYA|Minutasi
+659|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|NURMALA LUMBAN BATU|Minutasi
+660|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|RUFAIDAH ALWIE|Minutasi
+661|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|IMRAN TAUFIK|Minutasi
+662|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|SUKIRMAN|Minutasi
+663|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|DELMAIZAR|Minutasi
+664|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|KHOSTAROSA ANDIKA JAYA|Minutasi
+665|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|554/Pdt.G/2019/PN Jkt.Tim|12/11/2019|Wanprestasi|RAMAWATY|PT ISTPRO INTI NUSA|Minutasi
+666|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|40/Pdt.G.S/2019/PN Jkt.Tim|11/11/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA, UNIT PERCETAKAN NEGARA|AAN FARHAN|Minutasi
+667|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|525/Pdt.G/2019/PN Jkt.Tim|30/10/2019|Wanprestasi|FAISAL ZULHELMI|Tn KH AZHARI ABDUL|Pengiriman Berkas Banding
+668|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|525/Pdt.G/2019/PN Jkt.Tim|30/10/2019|Wanprestasi|FAISAL ZULHELMI|Ny YULIININGSIH|Pengiriman Berkas Banding
+669|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|525/Pdt.G/2019/PN Jkt.Tim|30/10/2019|Wanprestasi|FAISAL ZULHELMI|Tn AHMAD ZAKIR AZHARI|Pengiriman Berkas Banding
+670|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|518/Pdt.G/2019/PN Jkt.Tim|28/10/2019|Wanprestasi|IR HAJRUL HASWAD|PT BERKAHILAH ENERGI INDONESIA|Minutasi
+671|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|510/Pdt.G/2019/PN Jkt.Tim|23/10/2019|Wanprestasi|RUDI PURBA|MUSTHAFA RACHMAN|Minutasi
+672|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|506/Pdt.G/2019/PN Jkt.Tim|22/10/2019|Wanprestasi|SETIA N MILATIA MOEMIN|PT ANUGERAH MAS|Minutasi
+673|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|496/Pdt.G/2019/PN Jkt.Tim|17/10/2019|Wanprestasi|PT DOS NI ROHA|SYARIF HIDAYATULLAH|Minutasi
+674|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|493/Pdt.G/2019/PN Jkt.Tim|16/10/2019|Wanprestasi|PD CIAWI JAYA|TOKO SUMBER MAJU JAYA|Minutasi
+675|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|469/Pdt.G/2019/PN Jkt.Tim|01/10/2019|Wanprestasi|PT ADYAWINSA DINAMIKA|PT CITRA PANTURA INDAH|Pemberitahuan Putusan Banding
+676|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|465/Pdt.G/2019/PN Jkt.Tim|27/09/2019|Wanprestasi|DEEPAK RUPO CHUGANI|H HENDRA ROZA PUTERA SH|Pengiriman Berkas Banding
+677|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|460/Pdt.G/2019/PN Jkt.Tim|25/09/2019|Wanprestasi|YULIANTI F ARITONANG, SH|SUMIATI|Pengiriman Berkas Banding
+678|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|36/Pdt.G.S/2019/PN Jkt.Tim|25/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA, UNIT MATRAMAN|H SURISMAN UMAR|Minutasi
+679|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|36/Pdt.G.S/2019/PN Jkt.Tim|25/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA, UNIT MATRAMAN|HJ KOMARIA SYAMOGA|Minutasi
+680|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|462/Pdt.G/2019/PN Jkt.Tim|25/09/2019|Wanprestasi|TENANG SEMBIRING|DRS TIANGSA SURBAKTI|Minutasi
+681|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|35/Pdt.G.S/2019/PN Jkt.Tim|23/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA, UNIT MATRAMAN|BENI ISKANDAR|Minutasi
+682|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|35/Pdt.G.S/2019/PN Jkt.Tim|23/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA, UNIT MATRAMAN|SRI HARTUTI|Minutasi
+683|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|452/Pdt.G/2019/PN Jkt.Tim|20/09/2019|Wanprestasi|SOPIYAN|WILLIUS SUWANDANA|Penerimaan Kontra Memori Banding
+684|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|452/Pdt.G/2019/PN Jkt.Tim|20/09/2019|Wanprestasi|SUKRIYADI|WILLIUS SUWANDANA|Penerimaan Kontra Memori Banding
+685|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|447/Pdt.G/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT ERA PERMATA SEJAHTERA|PT CIPTA ALAM BAHAGIA|Minutasi
+686|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|447/Pdt.G/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT ERA PERMATA SEJAHTERA|HENING LESTARI|Minutasi
+687|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|447/Pdt.G/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT ERA PERMATA SEJAHTERA|PT ADI WIRATAMA MANDIRI|Minutasi
+688|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G.S/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN, UNIT KAYU TINGGI|DJOKO BUDOYO|Minutasi
+689|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|32/Pdt.G.S/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN, UNIT KAYU TINGGI|SRI WINARNI|Minutasi
+690|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G.S/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT CIPINANG|TRI SETIANINGSIH|Minutasi
+691|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|33/Pdt.G.S/2019/PN Jkt.Tim|19/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT CIPINANG|JAENUDIN|Minutasi
+692|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|435/Pdt.G/2019/PN Jkt.Tim|12/09/2019|Wanprestasi|D A R Y O N O|NURYADI|Minutasi
+693|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|31/Pdt.G.S/2019/PN Jkt.Tim|10/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA UNIT JATINEGARA KOTA|SAIFUL PRANOTO|Minutasi
+694|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|30/Pdt.G.S/2019/PN Jkt.Tim|03/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG OTISTA|LINDASARI|Minutasi
+695|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|30/Pdt.G.S/2019/PN Jkt.Tim|03/09/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG OTISTA|YAN SURYANA|Minutasi
+696|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|409/Pdt.G/2019/PN Jkt.Tim|02/09/2019|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|OPBI YULIARTO|Minutasi
+697|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|409/Pdt.G/2019/PN Jkt.Tim|02/09/2019|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|RURY KRESNIA KUNARTO|Minutasi
+698|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|28/Pdt.G.S/2019/PN Jkt.Tim|30/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|FIRMALSYAH|Minutasi
+699|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G.S/2019/PN Jkt.Tim|30/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|NELHEDAYATI|Minutasi
+700|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|29/Pdt.G.S/2019/PN Jkt.Tim|30/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|M ABUNAWAS|Minutasi
+701|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|27/Pdt.G.S/2019/PN Jkt.Tim|29/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk CABANG RAWAMANGUN|RAHMADHADI LUBIS|Minutasi
+702|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|25/Pdt.G.S/2019/PN Jkt.Tim|28/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG OTISTA UNIT UTAN KAYU|WINDU ADIARSO|Minutasi
+703|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|26/Pdt.G.S/2019/PN Jkt.Tim|28/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG OTISTA UNIT UTAN KAYU|YENNI ELSIS|Minutasi
+704|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|395/Pdt.G/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|SOEGIHARTO|RIYONO|Minutasi
+705|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|20/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|DJONI|Minutasi
+706|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|20/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|PARYATI|Minutasi
+707|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|21/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|SHOKIBIN|Minutasi
+708|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|21/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|SITI KHOTIMAH|Minutasi
+709|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|22/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESI PERSERO Tbk KANTOR CABANG RAWAMANGUN|AGUS SUSANTO|Minutasi
+710|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|23/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG JAKARTA RAWAMANGUN|ENDAH MUHEBAH|Minutasi
+711|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|23/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG JAKARTA RAWAMANGUN|H SULAEMAN SIDIK|Minutasi
+712|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|24/Pdt.G.S/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO Tbk KANTOR CABANG RAWAMANGUN|MOHAMAD ZAENUDIN|Minutasi
+713|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|397/Pdt.G/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|Ny ALISA|Ny MELI MEILANI, SH|Minutasi
+714|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|397/Pdt.G/2019/PN Jkt.Tim|27/08/2019|Wanprestasi|Ny ALISA|HAGUS SALIM|Minutasi
+715|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|378/Pdt.G/2019/PN Jkt.Tim|16/08/2019|Wanprestasi|ROLAS BUDIMAN SITINJAK|PT PROMARK STRATEGIES INDONESIA|Permohonan Kasasi
+716|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|378/Pdt.G/2019/PN Jkt.Tim|16/08/2019|Wanprestasi|ROLAS BUDIMAN SITINJAK|PT DHARMA HARAPAN RAYA|Permohonan Kasasi
+717|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|375/Pdt.G/2019/PN Jkt.Tim|15/08/2019|Wanprestasi|PRISTIWANTONO|JOHANIS EDPATTIKAWA|Minutasi
+718|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|376/Pdt.G/2019/PN Jkt.Tim|15/08/2019|Wanprestasi|PT KIRANA PURNAMA|PT NUANSA INTI PRAKASA|Minutasi
+719|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|19/Pdt.G.S/2019/PN Jkt.Tim|14/08/2019|Wanprestasi|PTBANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA|MARYADI|Minutasi
+720|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|368/Pdt.G/2019/PN Jkt.Tim|12/08/2019|Wanprestasi|SOEGIH SATIVA PERMANASSy, MH,CM,CLA|ASPHURINDO|Pengiriman Berkas Banding
+721|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|368/Pdt.G/2019/PN Jkt.Tim|12/08/2019|Wanprestasi|SOEGIH SATIVA PERMANASSy, MH,CM,CLA|KHAERUNNISA|Pengiriman Berkas Banding
+722|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|361/Pdt.G/2019/PN Jkt.Tim|08/08/2019|Wanprestasi|PT ASABA COMPUTER CENTRE|PT EDUSPEC INDONESIA|Minutasi
+723|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|361/Pdt.G/2019/PN Jkt.Tim|08/08/2019|Wanprestasi|PT ASABA COMPUTER CENTRE|AGUSTINUS NURINDRA BHAWONO CHARISMIADJI|Minutasi
+724|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|357/Pdt.G/2019/PN Jkt.Tim|06/08/2019|Wanprestasi|PT RAFICOKARYA NUSANTARA|PT BINTANG SEWU SEJAHTERA|Minutasi
+725|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|357/Pdt.G/2019/PN Jkt.Tim|06/08/2019|Wanprestasi|PT RAFICOKARYA NUSANTARA|Ir SISWANTO NUGROHO|Minutasi
+726|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|357/Pdt.G/2019/PN Jkt.Tim|06/08/2019|Wanprestasi|PT RAFICOKARYA NUSANTARA|Ir SARDJONO SETIADI|Minutasi
+727|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|357/Pdt.G/2019/PN Jkt.Tim|06/08/2019|Wanprestasi|PT RAFICOKARYA NUSANTARA|Dra INRITA WALELENG|Minutasi
+728|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|339/Pdt.G/2019/PN Jkt.Tim|29/07/2019|Wanprestasi|ANTON MABIANTO|PT ABADI KOKOH INSANI|Pengiriman Berkas Banding
+729|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|336/Pdt.G/2019/PN Jkt.Tim|26/07/2019|Wanprestasi|PT NISSAN FINANCIAL SERVICES INDONESIA|NUGROHO BUDI SANTOSO|Minutasi
+730|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|333/Pdt.G/2019/PN Jkt.Tim|25/07/2019|Wanprestasi|JOSMEN SITOHANG|HOTMA SILITONGA|Minutasi
+731|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|320/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|Drs BENHARD SIANTURI, SH|ROY M MANURUNG, SE, MM|Pengiriman Berkas Kasasi
+732|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|321/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|SUYANTI|Minutasi
+733|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|ALAN JUNAEDI|Pengiriman Berkas Banding
+734|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|ALVIN GUNAWAN|Pengiriman Berkas Banding
+735|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|HENRY GUNAWAN|Pengiriman Berkas Banding
+736|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|YUHENDI GUNAWAN|Pengiriman Berkas Banding
+737|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|Drs PAULUS SUHARJA|Pengiriman Berkas Banding
+738|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|322/Pdt.G/2019/PN Jkt.Tim|22/07/2019|Wanprestasi|EDDY BJ SIHOMBING|DAVID FERNANDO|Pengiriman Berkas Banding
+739|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|15/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|APIPUDIN|Minutasi
+740|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|15/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|RESYA AZHAR ZAKIAH|Minutasi
+741|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|16/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|NINIK WIDAYATI|Minutasi
+742|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|16/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|A MARWIH|Minutasi
+743|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|17/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|LISA SUKAESI|Minutasi
+744|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|18/Pdt.G.S/2019/PN Jkt.Tim|19/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG RAWAMANGUN, UNIT AMPERA|ROSINTA SIGALINGGING|Minutasi
+745|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|311/Pdt.G/2019/PN Jkt.Tim|16/07/2019|Wanprestasi|H ALVIEN HARISKA PRATAMA,SH,MKn|PT DWI PRATAMA MANDIRI|Pengiriman Berkas Banding
+746|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|12/Pdt.G.S/2019/PN Jkt.Tim|11/07/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Otista, Unit Kayu Manis|JONI RAIS|Minutasi
+747|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|12/Pdt.G.S/2019/PN Jkt.Tim|11/07/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Otista, Unit Kayu Manis|YULIA ELWATY|Minutasi
+748|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|13/Pdt.G.S/2019/PN Jkt.Tim|11/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG KALIMALANG, UNIT PONDOK BAMBU|FAHMI|Minutasi
+749|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|13/Pdt.G.S/2019/PN Jkt.Tim|11/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG KALIMALANG, UNIT PONDOK BAMBU|MARNI|Minutasi
+750|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|14/Pdt.G.S/2019/PN Jkt.Tim|11/07/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Otista, Unit Kayu Manis|LULU ALFIKRI|Minutasi
+751|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|11/Pdt.G.S/2019/PN Jkt.Tim|10/07/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Jakarta Rawamangun , Unit Pasar Palad|ENOCH TOETI SOFIA CABA|Minutasi
+752|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|300/Pdt.G/2019/PN Jkt.Tim|09/07/2019|Wanprestasi|SIMON PRASETIO LIAUW|BENGAWAN SUKANDAR|Minutasi
+753|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|293/Pdt.G/2019/PN Jkt.Tim|05/07/2019|Wanprestasi|PT MULTIPANEL INTERMITRA MANDIRI|PT SORON LEWO|Minutasi
+754|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|293/Pdt.G/2019/PN Jkt.Tim|05/07/2019|Wanprestasi|PT MULTIPANEL INTERMITRA MANDIRI|PT PLN Persero Tbk|Minutasi
+755|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|294/Pdt.G/2019/PN Jkt.Tim|05/07/2019|Wanprestasi|SOFRINA MAHDI|NINIK MULIATI|Minutasi
+756|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|294/Pdt.G/2019/PN Jkt.Tim|05/07/2019|Wanprestasi|SOFRINA MAHDI|AGUS WIDODO|Minutasi
+757|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|285/Pdt.G/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|RUIMER PASARIBU|SAMSUL HIDAYAT|Minutasi
+758|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|285/Pdt.G/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|RUIMER PASARIBU|RINI SUSANTI|Minutasi
+759|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|285/Pdt.G/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|RITA GULTOM|SAMSUL HIDAYAT|Minutasi
+760|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|285/Pdt.G/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|RITA GULTOM|RINI SUSANTI|Minutasi
+761|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G.S/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|PTBANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA|RENALDY JANUAR|Minutasi
+762|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|10/Pdt.G.S/2019/PN Jkt.Tim|03/07/2019|Wanprestasi|PTBANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG OTISTA|ADE FATMAWATI|Minutasi
+763|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|282/Pdt.G/2019/PN Jkt.Tim|02/07/2019|Wanprestasi|HJ ERMAWATI|PARJONO|Minutasi
+764|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|282/Pdt.G/2019/PN Jkt.Tim|02/07/2019|Wanprestasi|HJ ERMAWATI|MEGA MELINDA|Minutasi
+765|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|8/Pdt.G.S/2019/PN Jkt.Tim|01/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA RAWAMANGUN, UNIT PASAR PALAD|EEN NURAINI|Minutasi
+766|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|9/Pdt.G.S/2019/PN Jkt.Tim|01/07/2019|Wanprestasi|PT BANK RAKYAT INDONESIA PERSERO TBK KANTOR CABANG JAKARTA RAWAMANGUN, UNIT PASAR PALAD|TUTI ALAWIYAH|Minutasi
+767|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G.S/2019/PN Jkt.Tim|24/06/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Rawamangun, Unit Kayu Putih|EULIS SUMARNI|Minutasi
+768|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|7/Pdt.G.S/2019/PN Jkt.Tim|24/06/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Rawamangun, Unit Kayu Putih|BOBBY HARYADI|Minutasi
+769|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G.S/2019/PN Jkt.Tim|19/06/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Jakarta Rawamangun , Unit Pulomas|Tri Saktiarto|Minutasi
+770|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|5/Pdt.G.S/2019/PN Jkt.Tim|19/06/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Jakarta Rawamangun , Unit Pulomas|Sarmani|Minutasi
+771|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|6/Pdt.G.S/2019/PN Jkt.Tim|19/06/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Jakarta Rawamangun , Unit Pulomas|Hadi Ardiyansyah|Minutasi
+772|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|NELSON SIAHAAN, SH,MM,|HERMELIN DEWI RITA PANJAITAN|Pengiriman Berkas Banding
+773|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|NELSON SIAHAAN, SH,MM,|PESTAMEN SITUMORANG|Pengiriman Berkas Banding
+774|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|NELSON SIAHAAN, SH,MM,|CV DIKA KIRANA SEMESTA|Pengiriman Berkas Banding
+775|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|ROSANNA ARITONANG|HERMELIN DEWI RITA PANJAITAN|Pengiriman Berkas Banding
+776|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|ROSANNA ARITONANG|PESTAMEN SITUMORANG|Pengiriman Berkas Banding
+777|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|256/Pdt.G/2019/PN Jkt.Tim|18/06/2019|Wanprestasi|ROSANNA ARITONANG|CV DIKA KIRANA SEMESTA|Pengiriman Berkas Banding
+778|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|255/Pdt.G/2019/PN Jkt.Tim|17/06/2019|Wanprestasi|ISDN Resource Pte Ltd|AZUARSYAH ASRAK|Minutasi
+779|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|255/Pdt.G/2019/PN Jkt.Tim|17/06/2019|Wanprestasi|ISDN Resource Pte Ltd|PT DINAR PUTRA MANDIRI|Minutasi
+780|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|240/Pdt.G/2019/PN Jkt.Tim|31/05/2019|Wanprestasi|LULU AZHARI LUCKY|GUNAWAN WIJOYO|Minutasi
+781|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|237/Pdt.G/2019/PN Jkt.Tim|28/05/2019|Wanprestasi|Drs W FIDELIS PRANDA|BONIFATIUS SUKAMTO|Pengiriman Berkas Banding
+782|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G.S/2019/PN Jkt.Tim|22/05/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Otista, Unit Imigrasi|Abuyahmin|Minutasi
+783|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|3/Pdt.G.S/2019/PN Jkt.Tim|22/05/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Otista, Unit Imigrasi|Poniyati|Minutasi
+784|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|4/Pdt.G.S/2019/PN Jkt.Tim|22/05/2019|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Jakarta Rawamangun , Unit Kayu Tinggi|LAILAWATI|Minutasi
+785|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|221/Pdt.G/2019/PN Jkt.Tim|21/05/2019|Wanprestasi|Ir Ryantori Angka Raharja|PT KATAMA SURYABUMI|Minutasi
+786|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|217/Pdt.G/2019/PN Jkt.Tim|17/05/2019|Wanprestasi|RISTANTO|PT BINTANG SEWU SEJAHTERA PT BSS|Minutasi
+787|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|217/Pdt.G/2019/PN Jkt.Tim|17/05/2019|Wanprestasi|RISTANTO|Ir SISWANTO NUGROHO|Minutasi
+788|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|217/Pdt.G/2019/PN Jkt.Tim|17/05/2019|Wanprestasi|RISTANTO|Ir SARDJONO SETIADI|Minutasi
+789|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|217/Pdt.G/2019/PN Jkt.Tim|17/05/2019|Wanprestasi|RISTANTO|Dra INRITA WALELENG|Minutasi
+790|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|206/Pdt.G/2019/PN Jkt.Tim|15/05/2019|Wanprestasi|Ir J THOMAS RATULANGI|RIDWAN SITUMEANG|Minutasi
+791|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|209/Pdt.G/2019/PN Jkt.Tim|15/05/2019|Wanprestasi|PT BINA ANUGRAH SEJAHTERA|PT PAMINDO TIGA T|Pengiriman Berkas Banding
+792|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|190/Pdt.G/2019/PN Jkt.Tim|03/05/2019|Wanprestasi|MELATI KARTIKA PUTRI|DONNIE SATRIA|Minutasi
+793|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|182/Pdt.G/2019/PN Jkt.Tim|29/04/2019|Wanprestasi|MULJADI HARTONO|JAFAR|Pengiriman Berkas Banding
+794|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|183/Pdt.G/2019/PN Jkt.Tim|29/04/2019|Wanprestasi|Chrismanty Appy|Lim Anro Mangiwa|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+795|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2019/PN Jkt.Tim|26/04/2019|Wanprestasi|Yudia Idhar|Wisnu Nendi Sutapraja|Pengiriman Berkas Banding
+796|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|176/Pdt.G/2019/PN Jkt.Tim|26/04/2019|Wanprestasi|Yudia Idhar|Judhianto Tjahyo Nugroho|Pengiriman Berkas Banding
+797|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|172/Pdt.G/2019/PN Jkt.Tim|25/04/2019|Wanprestasi|PT MAHARDHIKA PROPERTINDO|HARDI|Minutasi
+798|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|165/Pdt.G/2019/PN Jkt.Tim|18/04/2019|Wanprestasi|HERMAN SUSANTO|RONNY BENYAMIN TAMBAYONG|Pengiriman Berkas Banding
+799|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|166/Pdt.G/2019/PN Jkt.Tim|18/04/2019|Wanprestasi|PT PRIESMA MITRA JAYA|PT GCC Services Indonesia|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+800|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|163/Pdt.G/2019/PN Jkt.Tim|12/04/2019|Wanprestasi|PAGLIERANI SRL|PT MIWON INDONESIA|Minutasi
+801|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|CV GARUDA KENCANA SAKTI|PT BANK YUDHA BHAKTI|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+802|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|CV GARUDA KENCANA SAKTI|WAHYU NOGO IMBARNO|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+803|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|CV GARUDA KENCANA SAKTI|Dr AGUNG IRIANTO, SH, MH|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+804|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|BAMBANG SUWORO|PT BANK YUDHA BHAKTI|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+805|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|BAMBANG SUWORO|WAHYU NOGO IMBARNO|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+806|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|162/Pdt.G/2019/PN Jkt.Tim|11/04/2019|Wanprestasi|BAMBANG SUWORO|Dr AGUNG IRIANTO, SH, MH|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+807|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|158/Pdt.G/2019/PN Jkt.Tim|09/04/2019|Wanprestasi|EDDY BJ SIHOMBING|PT Soron Lewo|Minutasi
+808|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2019/PN Jkt.Tim|26/03/2019|Wanprestasi|Karimah|Dwi Kemalasari, SH|Minutasi
+809|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2019/PN Jkt.Tim|26/03/2019|Wanprestasi|Karimah|Rama Yurindra|Minutasi
+810|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|136/Pdt.G/2019/PN Jkt.Tim|26/03/2019|Wanprestasi|Karimah|Tyas Utomo Soekarsono|Minutasi
+811|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|104/Pdt.G/2019/PN Jkt.Tim|04/03/2019|Wanprestasi|AGUSTINUS SIOR FERDINAND|DENNI SETIADI|Minutasi
+812|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|104/Pdt.G/2019/PN Jkt.Tim|04/03/2019|Wanprestasi|AGUSTINUS SIOR FERDINAND|SHENNY MARGARETTA|Minutasi
+813|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|98/Pdt.G/2019/PN Jkt.Tim|25/02/2019|Wanprestasi|Dosmauli Napitupulu|Tuti Vera br Tobing|Pengiriman Berkas Kasasi
+814|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|98/Pdt.G/2019/PN Jkt.Tim|25/02/2019|Wanprestasi|Dosmauli Napitupulu|Ratna Situmeang|Pengiriman Berkas Kasasi
+815|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|95/Pdt.G/2019/PN Jkt.Tim|22/02/2019|Wanprestasi|PT COMMEASURE SOLUTIONS INDONESIA|MARAS MUBARAK PANJAITAN|Minutasi
+816|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|91/Pdt.G/2019/PN Jkt.Tim|21/02/2019|Wanprestasi|PT BSG GASES|PT  PAMINDO TIGA T|Pemberitahuan Putusan Banding
+817|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|89/Pdt.G/2019/PN Jkt.Tim|20/02/2019|Wanprestasi|Makbullah Ali, SE,SH|Syarif Faisal|Minutasi
+818|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|80/Pdt.G/2019/PN Jkt.Tim|18/02/2019|Wanprestasi|Berthaleni Sianipar|Senja Media Hutbi|Pengiriman Berkas Banding
+819|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|82/Pdt.G/2019/PN Jkt.Tim|18/02/2019|Wanprestasi|PT Bangun Beton Indonesia|PT Syarif Maju Karya|Minutasi
+820|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|79/Pdt.G/2019/PN Jkt.Tim|15/02/2019|Wanprestasi|PT Lampiri Djaya Abadi|PT Nindya Karya Persero|Permohonan Kasasi
+821|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|69/Pdt.G/2019/PN Jkt.Tim|13/02/2019|Wanprestasi|SOLIHIN|Alfred Tumundo|Minutasi
+822|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|70/Pdt.G/2019/PN Jkt.Tim|13/02/2019|Wanprestasi|Shankar Sadarangani|PT WING Selaku Direktur Sufian|Minutasi
+823|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|HENY FITRIYANI|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+824|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|TUNGGUL SETYA BUDHI|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+825|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|DRA DIYAH KRISTANTY R|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+826|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|RONI CHANDRA, SSI, MBIOMED|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+827|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|MUHAMMAD NAJIB|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+828|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|64/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|KHO BIAUW IN|PT PRIMALAND INTERNUSA DEVELOPMENT|Permohonan Kasasi
+829|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|65/Pdt.G/2019/PN Jkt.Tim|12/02/2019|Wanprestasi|GEYS DWIYANTO SUNCAR Bin ABDULLAH SUNCAR|AHMAD JUNAIDI BAWAZIER|Minutasi
+830|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Randy Adityas Jantoro|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+831|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Merilla Arlini Pramita S|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+832|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Harris Pratama Ellias|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+833|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Khairunnisa Nasution, SE|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+834|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Adithia Arfanto|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+835|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|60/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Nelly|PT Cakra Sarana Larasasri|Pengiriman Berkas Banding
+836|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|61/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Wulan Ayu Okfina|PT Cakra Sarana Larasasri|Minutasi
+837|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|61/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|Vanny Hosana|PT Cakra Sarana Larasasri|Minutasi
+838|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|62/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|ARSENO YUDHO WIBOWO|PT CAKRA SARANA LARASASRI|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+839|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|62/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|DANANG CAHYO WIBOWO|PT CAKRA SARANA LARASASRI|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+840|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|62/Pdt.G/2019/PN Jkt.Tim|11/02/2019|Wanprestasi|DION ALBERT H SITORUS|PT CAKRA SARANA LARASASRI|Permberitahuan Untuk Memeriksa Berkas(Inzage)
+841|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|53/Pdt.G/2019/PN Jkt.Tim|07/02/2019|Wanprestasi|EDDY BJ SIHOMBING|ALAN JUNAEDI|Minutasi
+842|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|54/Pdt.G/2019/PN Jkt.Tim|07/02/2019|Wanprestasi|HIENDRA SOENJOTO|DEDE SERUDEKA SOBANDI|Minutasi
+843|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|49/Pdt.G/2019/PN Jkt.Tim|04/02/2019|Wanprestasi|ARDIAH|BUYUNG ATANG|Permohonan Eksekusi
+844|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|2/Pdt.G.S/2019/PN Jkt.Tim|31/01/2019|Wanprestasi|JULIUS MIDO P SIAGIAN|DODDY HENRYKO SIMANGUNSONG|Permohonan Eksekusi
+845|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|40/Pdt.G/2019/PN Jkt.Tim|29/01/2019|Wanprestasi|YUNITA UTAMI DEWI|AGUSTINA BINTI TEUKU ABDURRAHMAN|Pengiriman Berkas Banding
+846|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|40/Pdt.G/2019/PN Jkt.Tim|29/01/2019|Wanprestasi|YUNITA UTAMI DEWI|DANNA RIZKY PRATAMA BIN JANADI|Pengiriman Berkas Banding
+847|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|40/Pdt.G/2019/PN Jkt.Tim|29/01/2019|Wanprestasi|YUNITA UTAMI DEWI|BELLA RIZKA PRATIWI BINTI JANADI|Pengiriman Berkas Banding
+848|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|40/Pdt.G/2019/PN Jkt.Tim|29/01/2019|Wanprestasi|YUNITA UTAMI DEWI|RYAN TRIE PRADANA BIN JANADI|Pengiriman Berkas Banding
+849|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|41/Pdt.G/2019/PN Jkt.Tim|29/01/2019|Wanprestasi|HAJJA ASMA|LENGSAR PANGARIBUAN|Minutasi
+850|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|28/Pdt.G/2019/PN Jkt.Tim|17/01/2019|Wanprestasi|Raden Muhammad Ali Poerbaya,SE|DIREKTUR UTAMA PT INDO DHEA INTERNUSA|Pengiriman Berkas Banding
+851|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|24/Pdt.G/2019/PN Jkt.Tim|16/01/2019|Wanprestasi|HENDRY|PT ASURANSI HIMALAYA PELINDUNG|Minutasi
+852|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|1/Pdt.G.S/2019/PN Jkt.Tim|11/01/2019|Wanprestasi|PT ENSEVAL PUTERA MEGATRADING Tbk Cabang Jakarta|SALMAN|Minutasi
+853|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|6/Pdt.G/2019/PN Jkt.Tim|08/01/2019|Wanprestasi|Dr KHAERULSYAH NASUTION, SpPD|Rumah Sakit Haji Jakarta|Pengiriman Berkas Banding
+854|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|587/Pdt.G/2018/PN Jkt.Tim|21/12/2018|Wanprestasi|PT Frisian Flag Indonesia Plant Ciracas|Fandi Lesmana|Minutasi
+855|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|587/Pdt.G/2018/PN Jkt.Tim|21/12/2018|Wanprestasi|PT Frisian Flag Indonesia Plant Ciracas|Nopriyadi|Minutasi
+856|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|587/Pdt.G/2018/PN Jkt.Tim|21/12/2018|Wanprestasi|PT Frisian Flag Indonesia Plant Ciracas|Romy Syam|Minutasi
+857|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|581/Pdt.G/2018/PN Jkt.Tim|19/12/2018|Wanprestasi|SITI ANNISAWATI|PT Bank Rakyat Indonesia Persero Tbk, Cabang Jakarta Kalimalang|Minutasi
+858|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|574/Pdt.G/2018/PN Jkt.Tim|17/12/2018|Wanprestasi|PT LENTERA PERMATA INDO|PT TIGA PILAR ENERGI|Minutasi
+859|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|17/Pdt.G.S/2018/PN Jkt.Tim|14/12/2018|Wanprestasi|POSMA DENIS SIAHAAN|TEDI KURNIAWAN|Minutasi
+860|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|568/Pdt.G/2018/PN Jkt.Tim|10/12/2018|Wanprestasi|Hendra Karno Sikumbang|PT Bank Tabungan Negara Persero Tbk Cabang Jakarta Cawang|Minutasi
+861|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|563/Pdt.G/2018/PN Jkt.Tim|06/12/2018|Wanprestasi|Tan Madra Pujianto|Waris Subiadi|Minutasi
+862|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|556/Pdt.G/2018/PN Jkt.Tim|05/12/2018|Wanprestasi|PT BSG GASES|PT PAMINDO TIGA T|Pengiriman Berkas Banding
+863|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|552/Pdt.G/2018/PN Jkt.Tim|03/12/2018|Wanprestasi|Romy Daniel AI LB Tobing|Erni Friska|Pemberitahuan Putusan Banding
+864|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|537/Pdt.G/2018/PN Jkt.Tim|22/11/2018|Wanprestasi|Eko Nugroho, SH,MT|Agoes Pramono|Minutasi
+865|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|539/Pdt.G/2018/PN Jkt.Tim|22/11/2018|Wanprestasi|TITIM LATIFAH|KSO FORTUNA INDONESIA|Minutasi
+866|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|529/Pdt.G/2018/PN Jkt.Tim|15/11/2018|Wanprestasi|RSONNY DIAH SOELISTYO,SH|MUHAMMAD ADNAN|Minutasi
+867|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|529/Pdt.G/2018/PN Jkt.Tim|15/11/2018|Wanprestasi|RSONNY DIAH SOELISTYO,SH|NOOR LAILA|Minutasi
+868|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|519/Pdt.G/2018/PN Jkt.Tim|12/11/2018|Wanprestasi|PT Mitra Makmur Sejati Utama Logistics|PT Asuransi Himalaya Pelindung|Pengiriman Berkas Banding
+869|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|514/Pdt.G/2018/PN Jkt.Tim|08/11/2018|Wanprestasi|PT Nissan Financial Services Indonesia|Harom,|Minutasi
+870|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|514/Pdt.G/2018/PN Jkt.Tim|08/11/2018|Wanprestasi|PT Nissan Financial Services Indonesia|Maryam|Minutasi
+871|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|515/Pdt.G/2018/PN Jkt.Tim|08/11/2018|Wanprestasi|HELMY|FINO DWINANTO|Minutasi
+872|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|513/Pdt.G/2018/PN Jkt.Tim|07/11/2018|Wanprestasi|HARUMWATI|YURIKA LISTYA DEWI|Pemberitahuan Putusan Banding
+873|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|508/Pdt.G/2018/PN Jkt.Tim|02/11/2018|Wanprestasi|TERIANA|H ODANG SUTISNA|Minutasi
+874|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|508/Pdt.G/2018/PN Jkt.Tim|02/11/2018|Wanprestasi|TERIANA|PT BANK MANDIRI ,Persero, Tbk|Minutasi
+875|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|508/Pdt.G/2018/PN Jkt.Tim|02/11/2018|Wanprestasi|TERIANA|PT BALAI LELANG STAR|Minutasi
+876|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|508/Pdt.G/2018/PN Jkt.Tim|02/11/2018|Wanprestasi|TERIANA|DODIEK IRAWAN|Minutasi
+877|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|506/Pdt.G/2018/PN Jkt.Tim|01/11/2018|Wanprestasi|PT Trihamas Finance|HERU WAHYUDI|Minutasi
+878|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|504/Pdt.G/2018/PN Jkt.Tim|30/10/2018|Wanprestasi|PT JA NUSANTARA|DIDIET PRADIPTA KENTIYASA|Minutasi
+879|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|504/Pdt.G/2018/PN Jkt.Tim|30/10/2018|Wanprestasi|PT JA NUSANTARA|PT MERATUS ENERGI BARA INTERNUSA|Minutasi
+880|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|498/Pdt.G/2018/PN Jkt.Tim|25/10/2018|Wanprestasi|Yang Kee Logistics Singapore PTE LTD,|PT Lingkar Megah Sarana|Minutasi
+881|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|498/Pdt.G/2018/PN Jkt.Tim|25/10/2018|Wanprestasi|PT Yang Kee Logistics Indonesia|PT Lingkar Megah Sarana|Minutasi
+882|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|494/Pdt.G/2018/PN Jkt.Tim|24/10/2018|Wanprestasi|PT Nissan Financial Services Indonesia|Doris Farida Napitupulu|Minutasi
+883|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|494/Pdt.G/2018/PN Jkt.Tim|24/10/2018|Wanprestasi|PT Nissan Financial Services Indonesia|Henry T P Tambunan|Minutasi
+884|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|16/Pdt.G.S/2018/PN Jkt.Tim|24/10/2018|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Rawamangun, Unit Kayu Tinggi|Mansyur|Minutasi
+885|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|16/Pdt.G.S/2018/PN Jkt.Tim|24/10/2018|Wanprestasi|PT Bank Rakyat Indonesia Persero Tbk Kantor Cabang Rawamangun, Unit Kayu Tinggi|Nurlaelah|Minutasi
+886|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|486/Pdt.G/2018/PN Jkt.Tim|17/10/2018|Wanprestasi|Tuan Fitriandi, SH, MH,|Meily, SH, MHum|Pengiriman Berkas Kasasi
+887|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|486/Pdt.G/2018/PN Jkt.Tim|17/10/2018|Wanprestasi|Tuan Fitriandi, SH, MH,|Lie Na, SH, MHum,|Pengiriman Berkas Kasasi
+888|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|486/Pdt.G/2018/PN Jkt.Tim|17/10/2018|Wanprestasi|Tuan Fitriandi, SH, MH,|Dr Santy Cintiana Dewi|Pengiriman Berkas Kasasi
+889|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|486/Pdt.G/2018/PN Jkt.Tim|17/10/2018|Wanprestasi|Tuan Fitriandi, SH, MH,|Puteradi Kurniawan, SKom|Pengiriman Berkas Kasasi
+890|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|486/Pdt.G/2018/PN Jkt.Tim|17/10/2018|Wanprestasi|Tuan Fitriandi, SH, MH,|I Ketut Astika, SH|Pengiriman Berkas Kasasi
+891|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|484/Pdt.G/2018/PN Jkt.Tim|15/10/2018|Wanprestasi|HAKIB BIN ABD SALAM|RANDI SUPRIHADI|Minutasi
+892|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|479/Pdt.G/2018/PN Jkt.Tim|10/10/2018|Wanprestasi|PTDinamika Furindo Nusantara|PT Sumber Batu Ready Mix|Minutasi
+893|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|468/Pdt.G/2018/PN Jkt.Tim|04/10/2018|Wanprestasi|LIM HARUMAN HALIM|NY ELS MAWIKERE alias ELS MONINGKA MAWIKERE alias ELSYE MARGARETHA,|Penerimaan Memori Kasasi
+894|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|469/Pdt.G/2018/PN Jkt.Tim|04/10/2018|Wanprestasi|SURYADI KURNIAWAN|Hoo Tjeng Liong|Minutasi
+895|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|14/Pdt.G.S/2018/PN Jkt.Tim|01/10/2018|Wanprestasi|PT Bank Negara Indonesia , Persero|Muhamad Fahruroji|Minutasi
+896|PN JAKARTA TIMUR|https://sipp.pn-jakartatimur.go.id/|15/Pdt.G.S/2018/PN Jkt.Tim|01/10/2018|Wanprestasi|PT Bank Negara Indonesia , Persero|Slamet Wijanarko|Minutasi
